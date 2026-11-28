@@ -1,5 +1,398 @@
 [
  {
+  "id": "freelancer:40840094",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/unreal-engine/VRM-Metaverse-Interaction-Prototype",
+  "title": "VRM Metaverse Interaction Prototype",
+  "description": "I want to turn my physical VRM machine into a digital twin that people can walk around and play with inside a brand-new Metaverse space we create from scratch. In this first release the visitor simply steps into a single virtual room, explores the machine, presses its buttons and immediately sees lights, sounds or animations react—no complex multiplayer or guided training yet, just pure “touch and watch it respond” fun.\n\nCore focus \n• The scene must run smoothly on a Temu-ready headset (Quest 2 for my own testing is fine) and desktop VR. \n• Natural room-scale movement, teleport or smooth locomotion, plus basic hand tracking for the button presses. \n• Clean, modular architecture so we can later port the exact same experience into Second Life and a standalone app without rewriting everything.\n\nI will provide reference CAD models, texture packs and logic diagrams for each button response. You take care of engine setup (Unity, Unreal or comparable WebXR stack), import, rigging, animation, VFX/audio cues and headset integration.\n\nAcceptance criteria \n1. One-room environment loads with the VRM machine centred. \n2. All labelled buttons detect presses via hand or controller and trigger the specified visual/audio response. \n3. Build package installs and runs on Quest 2 / Temu headset; source project delivered with clear, commented code.\n\nDeliver these and we move to the multi-world phase next.",
+  "budget": 1500.0,
+  "budget_min": 750.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:57:52+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "api_integration",
+   "mvp"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "mvp",
+   "score": 3,
+   "summary_ru": "Нужен MVP VR-прототипа: виртуальная комната с цифровым двойником VRM-машины, где пользователь нажимает кнопки руками или контроллерами, а машина реагирует светом, звуком и анимацией. Сборка должна работать на Quest 2 и десктопном VR, архитектура должна позволять перенос в Second Life и standalone-приложение. Бюджет 1500 USD явно не соответствует объёму работ по 3D, риггингу и VR.",
+   "reply": "You want one virtual room where visitors walk up to your VRM machine, press its labelled buttons by hand or controller, and see lights, sounds and animations react, with the core structured so it can later move to Second Life and a standalone app. I would build it as a WebXR scene with three.js or Babylon.js, so it runs in the Quest 2 browser and on desktop VR. The plan: teleport and smooth locomotion, press detection on each button, and a data-driven mapping from each button to its light, sound or animation cue, kept separate from the scene logic to make the later ports easier. With AI-assisted development I can move quickly through this first milestone, roughly 3 to 4 weeks for the room, interactions and a Quest build. Would a WebXR build work for you instead of a native Unity app? And are the CAD models already optimized for real-time use?\n\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужна одна виртуальная комната, где посетители подходят к вашей VRM-машине, нажимают подписанные кнопки руками или контроллерами и видят реакцию света, звука и анимации. Архитектуру стоит сделать так, чтобы потом можно было перенести её в Second Life и standalone-приложение. Я бы собрал сцену на WebXR с three.js или Babylon.js, чтобы она работала в браузере Quest 2 и на десктопном VR. План: телепорт и плавное перемещение, детекция нажатий на каждую кнопку и привязка каждой кнопки к свету, звуку или анимации через конфигурацию, отдельную от логики сцены, что упростит последующие переносы. С помощью ИИ-ассистентов я могу быстро пройти первый этап, примерно за 3–4 недели: комната, взаимодействия и сборка под Quest. Подойдёт ли вам WebXR-сборка вместо нативного приложения на Unity? И оптимизированы ли CAD-модели для работы в реальном времени?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Подойдёт ли WebXR-сборка вместо нативного приложения на Unity для Quest 2?",
+    "Оптимизированы ли CAD-модели и текстуры для работы в реальном времени (количество полигонов, размер текстур)?",
+    "Входят ли в бюджет 1500 USD 3D-риггинг и анимация или их подготовит ваша команда?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840092",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/python/Build-Snowflake-Query-Automation-Agent-40840092",
+  "title": "Build Snowflake AI Query Automation Agent -- 2",
+  "description": "I want to have a 25 tables in snowflake under 3 different schemas with 10 in 1 schema another 10 in another schema and another 5 in 1 schema. I want have data in these 25 tables with 2 columns. Will provide additional details on the columns and how data should be.\n\nI want to have a custom claude like custom gpt to execute the queries that I give using snowfalke. and it need to generate 3 sets of queries for each custom schema based on the tables list generated in the initially executed query. I will provide the details how the queries should be.\n\nI want to have eks cluster to execute all this meaning connect to snowflake and run inital queries . Process the 3 sets of queries that were dynamically generated by custom claude and send it the snowflake and the output should be 3 excel sheets sent to the ms outlook ans as well as these should be sent to a location in the aws s3 bucket under a date folder.\n\nAlso the results can be displayed in the browser in the front end.\n\nFor this I need to build an agent\ntechnical stack: \npython\nclaude\nsnowflake \naws eks",
+  "budget": 15.0,
+  "budget_min": 8.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:56:21+00:00",
+  "lang": "en",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "automation",
+   "score": 3,
+   "summary_ru": "Нужен Python-агент: он получает список таблиц из Snowflake, через Claude генерирует по 3 набора запросов для каждой из трёх схем, выполняет их и выгружает результаты в три Excel-файла. Файлы должны уходить в Outlook и в S3 по папкам с датой, а также отображаться в браузере. Развёртывание на AWS EKS. Бюджет очень низкий для такого объёма работ.",
+   "reply": "You need a pipeline that reads table metadata from Snowflake, has Claude generate three query sets per schema, runs them, and delivers three Excel files to Outlook, to S3 in date-based folders, and to a browser view. I'd build it in phases: first the core Snowflake → Claude → Excel → S3 flow as a containerized Python service, then Outlook delivery, then the front end. The EKS part can start as a Deployment plus a CronJob. At $15 I can realistically cover only the first phase, so I'd suggest we agree on that scope and price the rest separately. Phase one would take about 5–7 days. Could you share the column specs and the query logic you have in mind, and do you already have an Azure AD app for sending mail through Microsoft Graph? Portfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужен конвейер, который читает метаданные таблиц из Snowflake, через Claude генерирует по три набора запросов для каждой схемы, выполняет их и отправляет результаты в три Excel-файла: в Outlook, в S3 по папкам с датой и в браузерное отображение. Я бы сделал это поэтапно: сначала базовый поток Snowflake → Claude → Excel → S3 в виде контейнеризированного Python-сервиса, затем отправку в Outlook и фронтенд. Часть с EKS можно начать с Deployment и CronJob. При бюджете $15 я реалистично могу закрыть только первый этап, поэтому предлагаю согласовать именно его, а остальное оценить отдельно. Первый этап займёт около 5–7 дней. Не могли бы вы передать описание колонок и логику запросов, а также сказать, есть ли у вас Azure AD-приложение для отправки почты через Microsoft Graph? Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Можете передать описание колонок таблиц и логику, по которой должны формироваться запросы?",
+    "Есть ли у вас Azure AD-приложение или доступ для отправки писем через Microsoft Graph?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840091",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/ai-chatbot-development/WordPress-Assistant-Integration",
+  "title": "WordPress AI Assistant Integration",
+  "description": "I need an AI-powered chat assistant added to my WordPress site so visitors can ask questions and get instant, accurate answers. The assistant must draw information from two sources: everything already published on the site (pages and blog posts) and a concise FAQ document that I will supply. Whenever the bot genuinely does not have an answer, it should clearly say so and point the visitor toward the most relevant pages instead of pushing them to email or a form. \n\nPlease handle the full setup: selecting or configuring the most suitable WordPress-compatible AI plugin (OpenAI, GPT-based, or similar), connecting it to the content sources mentioned, styling the widget so it matches my existing theme, and testing to be sure responses remain on-brand and helpful. I also have a handful of outdated images that need swapping for new ones while you are already working in the media library. \n\nDeliverables \n• Installed and configured AI chat plugin trained on live site content and my FAQ PDF/Doc \n• Front-end widget styled to fit current theme colors and typography \n• Logic verified: if the bot cannot answer, it states that and recommends related pages \n• Outdated images replaced with the new files I provide \n• Brief hand-off notes showing me where to update training data in future \n\nThe job is straightforward but I want it done carefully; clean, well-commented settings or snippets are a must so I can maintain the system myself after launch.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:55:53+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "api_integration",
+   "site_template"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "api_integration",
+   "score": 7,
+   "summary_ru": "Нужно добавить на сайт WordPress чат-виджет на базе ИИ, который отвечает по опубликованным страницам, записям и FAQ-документу клиента. Если ответа нет, бот должен сообщить об этом и предложить похожие страницы. Также нужно стилизовать виджет под тему и заменить устаревшие изображения в медиатеке.",
+   "reply": "You need an AI chat widget on your WordPress site that answers from published pages, posts and your FAQ, and that admits when it doesn't know and points visitors to the right pages instead of a contact form. I'd build it as a small custom plugin on the OpenAI API rather than a heavy third-party one: a retrieval layer that indexes posts, pages and the FAQ, a system prompt tuned to your tone, a fallback that links related pages when confidence is low, and a widget styled from your theme's CSS variables. All settings and snippets will be commented, with a short hand-off note on where to update the FAQ. Estimated timeline: about 5–7 working days, including testing and the image swap. Two questions: which WordPress version and hosting do you use, and do you already have an OpenAI API key?\n\nSee live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужен чат-виджет на базе ИИ для сайта WordPress, который отвечает по опубликованным страницам, записям и вашему FAQ, честно сообщает, когда ответа нет, и направляет посетителей на нужные страницы вместо контактной формы. Я бы сделал небольшой собственный плагин на OpenAI API, а не тяжёлое стороннее решение: слой поиска по записям, страницам и FAQ, системный промпт под ваш тон, запасной вариант со ссылками на похожие страницы при низкой уверенности ответа и виджет, стилизованный через CSS-переменные вашей темы. Все настройки и фрагменты кода будут прокомментированы, плюс короткая инструкция, где обновлять FAQ. Ориентировочный срок: около 5–7 рабочих дней, включая тестирование и замену изображений. Два вопроса: какая версия WordPress и какой хостинг вы используете и есть ли у вас уже ключ OpenAI API?\n\nПосмотреть живые демо можно в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Какая версия WordPress и какой хостинг вы используете?",
+    "Есть ли у вас уже ключ OpenAI API или аккаунт, который нужно настроить?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840086",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-Blog-Content",
+  "title": "Digital Marketing Blog Content",
+  "description": "I run a business-focused website and want to attract a larger stream of visitors through fresh, high-quality articles on digital marketing and social media. Each post should speak to entrepreneurs and marketing managers, showcase actionable insights, and be optimized for the search terms we agree on.\n\nHere is what I need from you: \n• 100 % original, well-researched articles written in a friendly, authoritative tone (no AI fluff, no plagiarism). \n• Headlines, sub-headings, and meta descriptions crafted for on-page SEO. \n• Clear, practical takeaways that encourage readers to share the piece across their own channels. \n• A brief list of the primary keywords you targeted, along with any external sources cited.\n\nPlease include a sample of previous work on similar topics and let me know how many posts you can comfortably deliver per week. If you’re comfortable uploading directly to WordPress or scheduling social posts to accompany each article, mention that as well—those skills are a plus but not required.\n\nI’m ready to kick off as soon as I find the right writer, and I’m happy to discuss topic calendars, word counts, and milestones once we connect.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:55:40+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "site_template"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "site_template",
+   "score": 1,
+   "summary_ru": "Заказчик ищет копирайтера для регулярных SEO-статей о digital-маркетинге и социальных сетях для своего бизнес-блога, включая заголовки, мета-описания и список ключевых слов. Это контентная работа, а не разработка.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Какой объём статей и какая частота публикаций нужны в неделю?",
+    "Нужна ли публикация напрямую в WordPress или только подготовка текстов?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840087",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/devops/DevOps-Mentor-Freelancer-Hands",
+  "title": "DevOps Mentor / Freelancer: Hands-on Kubernetes, Docker, AWS, Jenkins, Prometheus & Grafana",
+  "description": "**Project Description**\n\nWe are looking for an experienced DevOps engineer to mentor a candidate through real-world deployment. The candidate is a technical project manager, so the goal is a solid working understanding of these technologies, not deep expertise in everything. The candidate wants to learn by building, not by watching tutorials. You will guide the candidate step by step, review their work, and help them deploy a sample application end to end.\n\n**Learning Goal**\n\nThe candidate does not need to know every technology in depth. The candidate needs to understand how each tool works, why it is used, how the pieces fit together, and be able to discuss them confidently with engineering teams and in interviews. Please focus on practical understanding and the big picture over advanced configuration.\n\n**What We Will Build**\n\nDeploy a sample web application on AWS using Docker and Kubernetes, with a CI/CD pipeline and full monitoring, using the workflows a production team would use.\n\n**Scope of Work**\n- Git / GitHub workflow: branching strategy, pull requests, code review\n- Containerize an application with Docker\n- Set up AWS (EC2, S3, IAM, VPC, CloudWatch, Lambda)\n- Deploy and manage the app on Kubernetes (K8s)\n- Build CI/CD pipelines with Jenkins and GitHub Actions\n- Write infrastructure as code with Terraform (basics)\n- Set up monitoring and alerting with Prometheus, Alertmanager and Grafana\n- Practice deployment strategies: blue/green, canary and rollback\n- Set up separate dev, staging and production environments\n\n**Requirements**\n- 4+ years of hands-on DevOps / Cloud / SRE experience\n- Strong experience with Docker, Kubernetes, AWS and Jenkins\n- Experience with Prometheus and Grafana in production\n- Able to explain concepts clearly and patiently to a non-developer with a project management background\n- Fluent English\n- Prior mentoring or teaching experience is a plus\n- AWS or Kubernetes certification (AWS SAA, CKA) is a plus\n\n**Deliverables**\n- Daily live 1-on-1 sessions with screen share\n- A working project in the candidate's own GitHub repository\n- Weekly tasks with feedback and code review\n- Short documentation or architecture diagram of the final project\n- Interview preparation: explaining the project and answering common DevOps and SDLC questions from a technical project manager's point of view\n\n**Schedule**\n- Duration: 6 to 8 weeks\n\n**To Apply, Please Include**\n1. A short summary of your DevOps experience\n2. A similar project or mentoring work you have done",
+  "budget": 250.0,
+  "budget_min": 30.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:50:21+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "saas"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "saas",
+   "score": 2,
+   "summary_ru": "Заказчик ищет DevOps-инженера для 6–8-недельного менторинга кандидата: ежедневные созвоны, код-ревью и помощь в развёртывании учебного приложения на AWS с Kubernetes, Jenkins и Prometheus/Grafana. Это обучение, а не разработка продукта, и требуется опыт DevOps 4+ лет, которого нет в профиле Якова.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Нужна ли только консультационная поддержка по DevOps, или предполагается разработка и поставка какого-либо продукта?",
+    "Есть ли у заказчика уже готовое учебное приложение или его нужно подготовить с нуля?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840082",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/web-development/Abkhazia-Online-Visa-Service-Website",
+  "title": "Abkhazia Online Visa Service Website",
+  "description": "Hi,\n\nI need a website for an online visa service for Abkhazia. People should be able to check if they need a visa, fill in the application form, upload their passport photo and pay online.\n\nWhat I need:\n\n- Home page with a short visa checker (nationality + travel dates), prices, how it works and FAQ\n- Application form (about 40 fields) with passport upload. Business and work visas also need a document upload\n- Stripe payment after the form is sent (3 prices: 50, 100 and 250 EUR)\n- Form data and files sent to our email, and the customer gets a confirmation email\n- Support ticket page\n- Terms, Privacy and Refund pages\n- 8 languages: English, Russian, German, French, Italian, Turkish, Spanish and Arabic (Arabic right to left)\n- Basic SEO so the site shows up on Google, and a few blog articles\n- Hosting on Cloudflare Pages\n\nDesign should be clean and fast, nothing heavy. Colours green, white and red like the Abkhaz flag. Must work well on mobile.\n\nPlease send me examples of similar sites you made, how long it will take and your price.\n\nThanks",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:48:13+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "api_integration",
+   "score": 5,
+   "summary_ru": "Заказчик хочет многоязычный сайт визового сервиса для Абхазии: проверка необходимости визы, анкета примерно на 40 полей с загрузкой паспорта и документов, оплата после отправки формы по трём тарифам, письма заказчику и на почту компании, поддержка 8 языков (включая арабский с RTL), блог и SEO, хостинг на Cloudflare Pages.",
+   "reply": "You need a multilingual visa service site for Abkhazia: a visa checker, a 40-field application form with passport and document uploads, a payment step after submission at three price points, emails with the form data and files to your team and confirmations to applicants, and 8 languages with right-to-left Arabic. I would build a fast, lightweight frontend on Cloudflare Pages, with a small serverless layer handling form processing, file forwarding and email notifications. Translations would be kept in separate files from the start so they are easy to update, and the blog and SEO pages would be prerendered so Google can index them. A realistic timeline for a full first release is about 3 to 4 weeks. You can see live demos of my work here: https://grachoffprod.github.io/portfolio/\n\nWill visa types and prices be a fixed table, or do they change often? Do you already have an email service for sending, or should I set one up?\n\nYakov",
+   "reply_ru": "Вам нужен многоязычный сайт визового сервиса для Абхазии: проверка необходимости визы, анкета примерно на 40 полей с загрузкой паспорта и документов, шаг оплаты после отправки формы по трём тарифам, письма с данными и файлами на вашу почту и подтверждения заявителям, а также 8 языков, включая арабский с написанием справа налево. Я бы сделал быстрый и лёгкий фронтенд на Cloudflare Pages с небольшим серверным слоем для обработки формы, пересылки файлов и email-уведомлений. Тексты переводов с самого начала хранились бы в отдельных файлах, чтобы их было легко обновлять, а страницы блога и SEO были бы предварительно отрисованы, чтобы Google мог их индексировать. Реалистичный срок до полного первого релиза — примерно 3–4 недели. Живые демо моих работ здесь: https://grachoffprod.github.io/portfolio/\n\nВиды виз и цены будут фиксированной таблицей или часто меняются? Есть ли у вас уже сервис для рассылки писем, или его нужно настроить?\n\nYakov",
+   "questions": [
+    "Виды виз и цены будут фиксированной таблицей или часто меняются?",
+    "Есть ли у вас уже сервис для рассылки писем, или его нужно настроить с нуля?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840070",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/data-analysis/Estate-Longevity-Projection-Models",
+  "title": "Estate Longevity Projection Models",
+  "description": "Each of my annuity clients needs a clear, easy-to-read projection that shows how long their money may last across their full life expectancy. For every case I will provide age, current account balances, anticipated investment returns, annual income streams (Social Security, pensions, annuity income), living expenses, expected withdrawals, and an inflation assumption. Using those fixed inputs, build one deterministic forecast that tracks estate value year-by-year, highlights any depletion point, and summarises net worth at key milestones such as age 75, 85, and 95.\n\nAlongside the cash-flow projection, please recommend a target portfolio allocation that blends low-cost index funds or ETFs with fixed indexed annuities. Explain the rationale behind the mix so I can discuss it confidently with clients.\n\nI handle roughly 100 similar cases per year, so I’m looking for a repeatable workflow: ideally a templated Excel or Google Sheets model plus a client-friendly PDF report generated from the sheet. Charts that visually trace the estate balance over time are essential.\n\nTo ensure the pilot is spot-on, I’ll start by sending one representative client file. Accuracy of calculations, clarity of presentation, and turnaround time will guide whether we proceed to the wider engagement.",
+  "budget": 25.0,
+  "budget_min": 15.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:38:53+00:00",
+  "lang": "en",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "automation",
+   "score": 3,
+   "summary_ru": "Заказчик хочет повторяемую шаблонную модель в Excel или Google Sheets, которая считает детерминированный прогноз капитала клиентов год за годом, показывает точку истощения и итоги на возрастах 75, 85 и 95, а затем генерирует PDF-отчёт с графиками. Бюджет низкий, а рекомендации по портфелю и аннуитетам требуют лицензированной экспертизы, которой у меня нет.",
+   "reply": "You need a repeatable model: fixed inputs per client, a year-by-year deterministic projection of the estate, a depletion flag, net worth at ages 75, 85 and 95, and a PDF report built from the sheet. I'd build this as a Google Sheets template with an input tab, formula-driven projection, and charts, then add a script that fills the report and exports it to PDF for each case, so one client file becomes a finished report without manual copying. I can start with your representative file and deliver the pilot template within a few days, then tune it against your numbers. The portfolio allocation rationale would need your own professional judgment as the advisor, so I'd handle the model and report automation only. Two questions: do you have a preferred report layout or branding, and should returns and inflation be single fixed rates or per-year schedules? Portfolio with live demos: https://grachoffprod.github.io/portfolio/ Yakov",
+   "reply_ru": "Вам нужна повторяемая модель: фиксированные входные данные для каждого клиента, детерминированный прогноз капитала по годам, отметка точки истощения, итоговый капитал в возрасте 75, 85 и 95 лет и PDF-отчёт, который формируется из таблицы. Я бы сделал шаблон в Google Sheets с вкладкой входных данных, прогнозом на формулах и графиками, а затем добавил скрипт, который заполняет отчёт и экспортирует его в PDF для каждого кейса, чтобы один файл клиента превращался в готовый отчёт без ручного копирования. Могу начать с вашего репрезентативного файла и сдать пилотный шаблон в течение нескольких дней, затем подстроить его под ваши цифры. Обоснование распределения портфеля требует вашего профессионального суждения как консультанта, поэтому я бы занимался только моделью и автоматизацией отчёта. Два вопроса: есть ли у вас предпочтительный макет отчёта или фирменный стиль, и должны ли доходность и инфляция задаваться фиксированными ставками или графиком по годам? Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/ Яков",
+   "questions": [
+    "Есть ли у вас предпочтительный макет отчёта или фирменный стиль для PDF?",
+    "Доходность и инфляцию задавать фиксированными ставками или графиком по годам?",
+    "Нужна ли выгрузка в PDF для каждого клиента автоматически или по кнопке?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840063",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/data-collection/Product-Competitor-Research-Spreadsheet",
+  "title": "Product Competitor Research Spreadsheet",
+  "description": "I have a list of product categories I’m monitoring and need reliable online research and information gathering done for each one. Your task is to locate the latest products in those categories, record their current prices, and note the key competitors offering them.\n\nDeliverables\n• A clean spreadsheet (Excel or Google Sheets) that lists every product you find, the seller or vendor, direct URL, listed price, and any brief competitor notes. \n• All links must be live and point straight to the source page—no generic home-pages. \n• Prices should be captured in the currency shown, with the date of capture documented in its own column.\n\nScope & expectations\n• Focus solely on products, prices, and competitors; do not include unrelated data. \n• Cross-check at least two credible sources when possible to ensure accuracy. \n• Organize the sheet so I can easily filter by product name, vendor, and price range. \n• Include a short “Sources Checked” tab where you list the primary websites or databases you consulted.\n\nThis is a straightforward online research assignment, ideal for someone comfortable with quick yet careful data collection. If you’re detail-oriented and can turn around clear, well-structured spreadsheets, I’d love to hear how soon you can start and your estimated timeline to completion.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T12:32:04+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "automation",
+   "score": 2,
+   "summary_ru": "Клиент просит вручную собрать таблицу с актуальными товарами в отслеживаемых категориях, их ценами, прямыми ссылками, конкурентами и списком проверенных источников. Это разовое онлайн-исследование, а не разработка.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Нужна ли регулярная автоматическая выгрузка цен (например, парсер или скрипт по расписанию), или достаточно разовой ручной выборки?",
+    "Какие категории товаров и какие конкретные магазины или маркетплейсы нужно отслеживать?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840060",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/internet-marketing/Sales-Focused-Google-Ads-Management",
+  "title": "Sales-Focused Google Ads Management -- 2",
+  "description": "The task is to build and actively optimise a Google Ads programme whose single priority is boosting sales. Both our B2B and B2C audiences need to be served, so messaging, keyword groups and landing-page routing must reflect the different decision journeys. Campaigns will run only on Google Search and the Google Display Network; YouTube is outside the current scope.\n\nWork begins with a short discovery call to confirm profit-driving products, margins, and any existing historical data. From there I expect:\n\n• Complete account and conversion-tracking audit, fixing or installing tags in Google Ads and Google Analytics 4 so revenue attribution is exact. \n• Fresh campaign structure (Search and Display), including negative-keyword hygiene, audience layering and responsive creative. \n• Compelling ad copy written around clear value propositions, tested via at least two variants per ad group. \n• Ongoing bid, budget and placement optimisation for a minimum of four weeks, with weekly performance summaries showing cost, ROAS, CPA and next-step actions.\n\nSuccess is defined by demonstrable sales growth that exceeds our current baseline while hitting agreed CPA/ROAS targets. Access to the Google Ads account, Analytics, product feed (if needed) and creative assets will be provided immediately after kickoff; everything else—strategy documents, live dashboards, and campaign files—should remain fully shareable so we can continue scaling once the initial engagement ends.",
+  "budget": 10000.0,
+  "budget_min": 3500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T12:26:57+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "landing"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "landing",
+   "score": 1,
+   "summary_ru": "Заказчик ищет специалиста по ведению и оптимизации Google Ads (Search и Display) с упором на продажи: аудит трекинга в Google Ads и GA4, структура кампаний, тексты объявлений, еженедельные отчёты. Это маркетинговая услуга по рекламе, а не разработка, бюджет 10 000 INR.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Нужна ли разработка лендингов или посадочных страниц под рекламные кампании, или требуется только ведение рекламы?",
+    "Есть ли у вас задача по интеграции или доработке трекинга конверсий на сайте, которую можно выполнить отдельно?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "freelancer:40840047",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/php/Build-Trade-Workflow-Platform",
+  "title": "Build B2B Trade Workflow Platform -- 2",
+  "description": "Looking for an experienced Full-Stack Web Developer (React/Next.js + Node.js/TypeScript or Python FastAPI + PostgreSQL) to build Phase 1 of a B2B Cross-Border Trade Workflow Platform. Features include company KYB onboarding, HS-code product filtering, sample vs. bulk RFQ negotiation with versioned offers, e-sign contract generation, document checklist/comparison, escrow/payment workflow, shipment milestone alerts, inspection dispute flow, and payout ledger. Please share live links to B2B SaaS, marketplace, or fintech/escrow projects you have built, along with your milestone estimate",
+  "budget": 37500.0,
+  "budget_min": 12500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T12:14:15+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "saas"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "saas",
+   "score": 4,
+   "summary_ru": "Нужен full-stack разработчик для первой фазы B2B-платформы для международной торговли: KYB-онбординг компаний, фильтрация по HS-кодам, RFQ с версиями предложений, генерация контрактов с e-sign, чек-листы документов, уведомления об отгрузках, споры по инспекциям и журнал выплат. Бюджет низкий для такого объёма.",
+   "reply": "You're building Phase 1 of a B2B cross-border trade platform: company KYB onboarding, HS-code product filtering, sample and bulk RFQs with versioned offers, contract generation with e-sign, document checklists, shipment alerts, an inspection dispute flow and a payout ledger. I'd build it with React/Next.js, a Node.js TypeScript API and PostgreSQL, starting with the data model for companies, RFQs and offer versions, since the other modules depend on it. I'd deliver in milestones: onboarding and RFQ/offers first, then contracts and documents, then shipment alerts and disputes, with a working demo at each stage. My rough estimate for the first milestone is 3–4 weeks, and I'd firm up the total once we agree on scope. Two questions: which features must be in Phase 1 versus later, and do you already have wireframes or a design?\n\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вы создаёте первую фазу B2B-платформы для международной торговли: KYB-онбординг компаний, фильтрацию по HS-кодам, RFQ на образцы и партии с версиями предложений, генерацию контрактов с e-sign, чек-листы документов, уведомления об отгрузках, процесс споров по инспекциям и журнал выплат. Я бы построил это на React/Next.js, Node.js TypeScript API и PostgreSQL, начав с модели данных для компаний, RFQ и версий предложений, так как от неё зависят остальные модули. Работу я бы вёл по этапам: сначала онбординг и RFQ/предложения, затем контракты и документы, потом уведомления об отгрузках и споры, с рабочим демо на каждом этапе. Ориентировочная оценка первого этапа: 3–4 недели, общий срок уточню после согласования объёма. Два вопроса: какие функции должны войти в первую фазу, а какие позже, и есть ли у вас уже макеты или дизайн?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Какие функции обязательно должны войти в первую фазу, а какие можно перенести на следующие?",
+    "Есть ли у вас уже макеты, дизайн или описание бизнес-процессов?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "kwork:3276110",
+  "source": "kwork",
+  "url": "https://kwork.ru/projects/3276110",
+  "title": "Ищу специалиста по сбору и проверке B2B-баз компаний",
+  "description": "Ищу специалиста для регулярного сбора баз потенциальных B2B-клиентов под разные виды бизнеса. \nКакие задачи предстоит выполнять: \nПо заданной нише и городу находить подходящие действующие компании, проверять информацию и собирать контакты в Excel или Google Sheets. \nПримеры ниш: \n* строительные компании; \n* автосалоны; \n* фитнес-клубы; \n* барбершопы; \n* юридические компании; \n* клининговые компании; \n* медицинские центры; \n* производственные предприятия. \nЧто должно быть в базе: \n1. Название компании. \n2. Сфера деятельности. \n3. Город. \n4. Сайт. \n5. Публичный рабочий телефон. \n6. Корпоративная почта, если опубликована. \n7. Ссылка на источник. \n8. Дата проверки. \nОбъём работы: \nТестовый заказ — 50 компаний. \nВ дальнейшем — 50–100 компаний на один заказ. \nТребования: \n* отсутствие дублей; \n* актуальные действующие организации; \n* проверенные сведения; \n* никаких выдуманных контактов; \n* использование законных открытых источников. \nВ отклике укажите: \n* стоимость сбора 50 и 100 компаний; \n* сроки; \n* опыт подобной работы; \n* примеры готовых баз с обезличенными данными. \nРассматриваю долгосрочное сотрудничество.",
+  "budget": 2000.0,
+  "budget_min": null,
+  "currency": "RUB",
+  "posted_at": "2026-11-28 15:55:41",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "automation",
+   "score": 2,
+   "summary_ru": "Заказчик ищет исполнителя для регулярного сбора и проверки B2B-баз компаний по нишам и городам в Excel или Google Sheets: название, сфера, сайт, телефон, почта, источник и дата проверки. Тестовый заказ на 50 компаний, далее 50–100 на заказ, бюджет 2000 ₽.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Допускается ли автоматизированный сбор данных из открытых источников (парсинг, скрипты), или нужна только ручная проверка?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "kwork:3276109",
+  "source": "kwork",
+  "url": "https://kwork.ru/projects/3276109",
+  "title": "Нужно сделать лендинг",
+  "description": "Нужно сделать лендинг (можно в ИИ), но тогда отдать архив, чтобы я правил. И перенести обязательно на тильду. Можем создать для этой цели новую тильду и туда закинуть. \nКак мы хотим видеть лендинг, прикрепляю в презентации. Можно все повторить. \nТолько надо сделать наполнение согласно Яндекс Диску все, там все во вкладках расписано. \nhttps://disk.yandex.ru/d/lCM5ZfUvTCSuYA",
+  "budget": 3000.0,
+  "budget_min": null,
+  "currency": "RUB",
+  "posted_at": "2026-11-28 15:55:14",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "landing"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "landing",
+   "score": 5,
+   "summary_ru": "Нужно сделать лендинг по прикреплённой презентации с наполнением из материалов на Яндекс Диске. Итог нужно перенести в Тильду, а архив с исходниками передать заказчику для правок. Бюджет небольшой (3000 ₽).",
+   "reply": "You need a one-page landing that replicates the design from your presentation, with all content taken from the materials on Yandex Disk. The final version should go to Tilda, and you also want an archive with the source files so you can make edits yourself.\n\nMy plan: first I'll go through the presentation and map out the sections, then build the blocks with a modern stack and AI assistants, then move everything into Tilda and check mobile layout. I estimate 2–3 days from when we agree on the scope.\n\nLive demos of my work: https://grachoffprod.github.io/portfolio/\n\nDo you already have a Tilda account, or should I create a new one for this project? And how many sections or pages do you need?\n\nYakov",
+   "reply_ru": "Нужно собрать одностраничный лендинг, который повторяет дизайн из вашей презентации, с наполнением из материалов на Яндекс Диске. Итог нужно перенести в Тильду, а архив с исходниками передать вам, чтобы вы могли вносить правки самостоятельно.\n\nМой план: сначала разберу презентацию и выстрою структуру разделов, затем соберу блоки на современном стеке с помощью ИИ-ассистентов, после чего перенесу всё в Тильду и проверю адаптивность. Оцениваю срок в 2–3 дня с момента согласования объёма работ.\n\nЖивые демо моих работ: https://grachoffprod.github.io/portfolio/\n\nЕсть ли у вас уже аккаунт в Тильде или создать новый под этот проект? И сколько разделов или страниц нужно сделать?\n\nYakov",
+   "questions": [
+    "Есть ли у вас уже аккаунт в Тильде или создать новый под этот проект?",
+    "Сколько разделов или страниц должно быть в лендинге?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
+  "id": "kwork:3276105",
+  "source": "kwork",
+  "url": "https://kwork.ru/projects/3276105",
+  "title": "Xubuntu-bridge: Модульный Android-оверлей и мост для ПК",
+  "description": "xubuntu-bridge \nИщу разработчика Android (Kotlin) и Linux (Xubuntu 24 04 LTS) для модульного моста между телефоном и ПК. Нужна плавающая панель (system_ALERT_window) поверх навигатора с чистым кодом для самостоятельной правки кнопок в Android Studio. \n1. ПК (Xubuntu / XFCE): фоновый сервис (systemd, tmux, OpenSSH, Python/Go) с доступом к терминалам, процессам, файлам и CPU/RAM/GPU. ИИ: Claude (Computer Use + Claude Code) + OpenAI/Gemini через общий конфиг (JSON/ENV). \n2. Android (Kotlin): мини-монитор CPU/RAM/GPU; Screen View (мини-окно и полный ландшафт); Mic (голос) и Replay (TTS); Terminal (tmux); Chat (текст/голос + кнопки 1–9); File Manager (SFTP и автооткрытие файлов). \n3. Безопасность и результат: Tailscale + SSH-ключи (без секретов в APK). Нужен проект Android Studio + APK, код бэкенда с systemd, конфиги и инструкция readme. \nНачните отклик с xubuntu-bridge и кратко укажите опыт с оверлеями Android и автоматизацией Linux/ИИ.",
+  "budget": 5000.0,
+  "budget_min": null,
+  "currency": "RUB",
+  "posted_at": "2026-11-28 15:36:08",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "automation",
+   "score": 3,
+   "summary_ru": "Нужен модульный мост между Android и ПК на Xubuntu: фоновый сервис с systemd, tmux, SSH и доступом к терминалам и ресурсам, а также Android-приложение на Kotlin с плавающей панелью поверх навигатора, терминалом, SFTP и голосовым вводом. Бюджет 5000 RUB явно не соответствует объёму работ.",
+   "reply": "xubuntu-bridge по сути состоит из двух частей: серверной на Xubuntu (systemd, tmux, SSH, Python или Go с мониторингом CPU/RAM/GPU и доступом к терминалам) и Android-приложения на Kotlin с оверлеем, терминалом, SFTP и голосовым вводом. При бюджете 5000 ₽ всё сразу не потянуть, поэтому предлагаю разбить работу на этапы: сначала бэкенд с SSH, Tailscale и мониторингом, затем Android-клиент с плавающей панелью, кнопками и конфигом, который можно править самому. Первый этап, по моей оценке, займёт несколько дней. Работаю на современном стеке и с ИИ-ассистентами, поэтому темп высокий. Какой этап для вас приоритетный? Нужен ли APK уже на первом этапе или достаточно исходников проекта Android Studio?\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\nYakov",
+   "reply_ru": "xubuntu-bridge по сути состоит из двух частей: серверной на Xubuntu (systemd, tmux, SSH, Python или Go с мониторингом CPU/RAM/GPU и доступом к терминалам) и Android-приложения на Kotlin с оверлеем, терминалом, SFTP и голосовым вводом. При бюджете 5000 ₽ всё сразу не потянуть, поэтому предлагаю разбить работу на этапы: сначала бэкенд с SSH, Tailscale и мониторингом, затем Android-клиент с плавающей панелью, кнопками и конфигом, который можно править самому. Первый этап, по моей оценке, займёт несколько дней. Работаю на современном стеке и с ИИ-ассистентами, поэтому темп высокий. Какой этап для вас приоритетный? Нужен ли APK уже на первом этапе или достаточно исходников проекта Android Studio?\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\nYakov",
+   "questions": [
+    "Какой этап для вас приоритетный: серверная часть на Xubuntu или Android-клиент?",
+    "Нужен ли готовый APK уже на первом этапе или достаточно исходников проекта Android Studio?"
+   ]
+  },
+  "found_at": "2026-11-28T13:02:29+00:00"
+ },
+ {
   "id": "freelancer:40840024",
   "source": "freelancer",
   "url": "https://www.freelancer.com/projects/website-development/WordPress-WooCommerce-Store-Migration",
@@ -14769,393 +15162,5 @@
    ]
   },
   "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "kwork:3275042",
-  "source": "kwork",
-  "url": "https://kwork.ru/projects/3275042",
-  "title": "Сбор сообщений с сайт-объявлений-номер-один в срм",
-  "description": "Сбор сообщений с моего аккаунт с сайта-объявлений-номер-один в срм и ответ на них из срм. \nСрм самописная (питон, постгрес), сейчас туда собираются сообщения из вк. \nИнтервал сбора - час в наше рабочее время, 3 часа во внерабочее. Время лучше рандомное или по сигналу с обозревателя. \nВнимание! Сбор через оф.апи - невозможен! \nСразу учитывайте это, без всякого \"аа---тк-тут-апи-нужен\"! \nУстановка лучше на наш физический компьютер (работает круглосуточно). \nПока без исторического сбора (он обсуждается отдельно). \nНужна гарантия.",
-  "budget": 5000.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "2026-11-26 18:10:39",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "crm"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "crm",
-   "score": 3,
-   "summary_ru": "Нужно собирать сообщения с площадки объявлений без официального API в самописную CRM на Python и Postgres и отвечать на них прямо из CRM. Установка на физический компьютер, интервалы сбора 1 час в рабочее время и 3 часа вне его, история пока не нужна.",
-   "reply": "Вы хотите, чтобы переписка с площадки объявлений подтягивалась в вашу CRM на Python и Postgres, а ответы отправлялись прямо из неё, при этом всё работало на вашем компьютере. Понимаю, что официального API нет, поэтому работать буду через веб-интерфейс аккаунта: сборщик с сохранением в Postgres, модуль отправки ответов из CRM и планировщик с вашими интервалами для рабочего и нерабочего времени. Гарантировать работу при изменениях на площадке или блокировках аккаунта не могу, но могу добавить автоматическое восстановление после сбоев и подробное логирование. Ориентировочно 1–2 недели на первую версию. Какой у вас сейчас стек CRM и как устроена отправка ответов из неё? Сбор нужен только для одного аккаунта или для нескольких?\n\nСм. живые демо в портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вы хотите, чтобы переписка с площадки объявлений подтягивалась в вашу CRM на Python и Postgres, а ответы отправлялись прямо из неё, при этом всё работало на вашем компьютере. Понимаю, что официального API нет, поэтому работать буду через веб-интерфейс аккаунта: сборщик с сохранением в Postgres, модуль отправки ответов из CRM и планировщик с вашими интервалами для рабочего и нерабочего времени. Гарантировать работу при изменениях на площадке или блокировках аккаунта не могу, но могу добавить автоматическое восстановление после сбоев и подробное логирование. Ориентировочно 1–2 недели на первую версию. Какой у вас сейчас стек CRM и как устроена отправка ответов из неё? Сбор нужен только для одного аккаунта или для нескольких?\n\nСм. живые демо в портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Какой у вас сейчас стек CRM и как устроена отправка ответов из неё?",
-    "Сбор нужен только для одного аккаунта или для нескольких?",
-    "Как вы планируете обрабатывать ситуации, если площадка изменит интерфейс или ограничит доступ к аккаунту?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "kwork:3275511",
-  "source": "kwork",
-  "url": "https://kwork.ru/projects/3275511",
-  "title": "Ищем инженера-схемотехника/PCB-дизайнера",
-  "description": "О проекте: \nЕсть рабочий прототип электронного прибора (схема и плата выполнены в EasyEDA, спецификация в виде базового списка с компонентами/ссылками). Прибор полностью рабочий, но текущий уровень документации любительский. Нам нужен профессиональный аудит и адаптация проекта под серийный монтаж (ориентируемся на экосистему jlcpcb/LCSC). \nЗадачи для специалиста: \nАудит схемы (Schematic Review): проверка цепей питания, добавление базовой защиты (от статики, переполюсовки, скачков напряжения). \nНормализация BOM: перевод текущего списка компонентов на промышленные рельсы: подбор реальных MPN и кодов компонентов из каталога LCSC (с учетом доступности и аналогов). \nКорректировка топологии (PCB Layout): оптимизация разводки под требования DFM (Design for Manufacturing) автоматических линий монтажа (SMT/DIP). \nПодготовка пакета КД: генерация корректных Gerber-файлов, BOM и файла координат (CPL) для запуска на фабрике. \nТестирование: рекомендации или добавление контрольных точек (Test Points) для базовой проверки плат. \nЧто ждем от кандидата: \nОпыт успешной разработки и доводки плат до серийного производства. \nУверенное владение EasyEDA (или готовность работать с этим форматом). \nПонимание правил трассировки, целостности сигналов и требований контрактных производств (преимущественно в Китае). \nПортфолио с примерами реальных серийных плат. \nСм. приложенный файл.",
-  "budget": 3000.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "2026-11-26 18:08:34",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "mvp"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "mvp",
-   "score": 1,
-   "summary_ru": "Нужен инженер-схемотехник или PCB-дизайнер для аудита схемы готового электронного прибора, нормализации BOM под LCSC/JLCPCB, доработки разводки и подготовки пакета КД (Gerber, BOM, CPL) для серийного производства. Это аппаратная разработка, а не программные услуги из списка Yakov.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли вам только разработка платы и документации, или также прошивка микроконтроллера и программная часть прибора?",
-    "Какой объём серии планируется и есть ли требования по сертификации (CE, EMC) для готового изделия?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelance_ru:16514",
-  "source": "freelance_ru",
-  "url": "https://freelance.ru/task/view/16514",
-  "title": "Написание текста с СЕО для сайта",
-  "description": "Необходимо написать текста для интернет магазина . тематика: одежда и обувьтекста для сео продвижения. В ТЗ все расписано",
-  "budget": null,
-  "budget_min": null,
-  "currency": null,
-  "posted_at": "26.11.2026 18:37",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "shop",
-   "score": 1,
-   "summary_ru": "Заказчик ищет копирайтера для написания SEO-текстов для интернет-магазина одежды и обуви по готовому ТЗ. Это написание текстов, а не разработка.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужны ли какие-то технические доработки сайта, например, вывод SEO-блоков или правка шаблонов категорий?",
-    "Сколько текстов и какого объёма требуется?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelance_ru:16511",
-  "source": "freelance_ru",
-  "url": "https://freelance.ru/task/view/16511",
-  "title": "Создание сайта аренда спецтехники",
-  "description": "нужен сайт на вордпресс. Под продвижение директ и сео. 20 страниц по разным направлениям техники. Возможно долгосрочное сотрудничество с СЕО специалистами.",
-  "budget": null,
-  "budget_min": null,
-  "currency": null,
-  "posted_at": "26.11.2026 18:02",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "site_template"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "site_template",
-   "score": 6,
-   "summary_ru": "Нужен сайт на WordPress с 20 страницами по разным направлениям аренды спецтехники, оптимизированный под SEO и контекстную рекламу (Директ). Возможно долгосрочное сотрудничество с SEO-специалистами.",
-   "reply": "Вам нужен сайт на WordPress с 20 страницами под разные виды спецтехники, рассчитанный на продвижение через Директ и SEO. Я бы сделал структуру из главной страницы, раздела каталога и отдельных посадочных страниц под каждое направление: с понятными заголовками, мета-данными, микроразметкой и быстрой загрузкой, а также с формой заявки на каждой странице. Ориентировочно на весь объём с адаптивным дизайном и подготовкой к работе с SEO-специалистами уйдёт 2–3 недели. Есть ли у вас уже тексты и фото техники, и нужна ли интеграция формы с CRM или почтой?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен сайт на WordPress с 20 страницами под разные виды спецтехники, рассчитанный на продвижение через Директ и SEO. Я бы сделал структуру из главной страницы, раздела каталога и отдельных посадочных страниц под каждое направление: с понятными заголовками, мета-данными, микроразметкой и быстрой загрузкой, а также с формой заявки на каждой странице. Ориентировочно на весь объём с адаптивным дизайном и подготовкой к работе с SEO-специалистами уйдёт 2–3 недели. Есть ли у вас уже тексты и фото техники, и нужна ли интеграция формы с CRM или почтой?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Есть ли уже тексты и фотографии техники или их нужно готовить с нуля?",
-    "Нужна ли интеграция формы заявок с CRM, почтой или мессенджером?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837221",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/administrative-support/Flexible-Virtual-Assistant-Support-40837221",
-  "title": "Flexible Virtual Assistant Support",
-  "description": "I’m ready to hand off the routine admin work that clutters my day so I can focus on higher-value projects. On a typical week you’ll process incoming email, keep my calendar accurate, book appointments, tidy up shared files, enter data into Google Sheets or Excel, and run quick online research when I need background facts. \n\nSmooth collaboration matters more than rigid hours, so you can work whatever schedule keeps turn-around fast and communication clear. We’ll stay in touch through Slack, Zoom, and a shared task board (Trello or Asana—your preference).\n\nDeliverables each week\n• Inbox reviewed with priority labels applied and non-essential mail archived \n• Calendar fully updated with confirmed meetings and reminders set \n• Data entered accurately in the agreed format and location \n• Short research notes or summaries delivered in Google Docs when requested \n\nAcceptance criteria\n• Zero missed deadlines or double-booked appointments \n• Data matches source materials without manual correction \n• Research contains credible sources and direct links \n\nIf this sounds like a workflow you can keep running smoothly, let’s get started.",
-  "budget": 250.0,
-  "budget_min": 30.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T14:49:10+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "booking",
-   "automation"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "booking",
-   "score": 2,
-   "summary_ru": "Заказчик ищет виртуального ассистента для рутинной административной работы: разбор почты, ведение календаря и записей на встречи, работа с файлами, ввод данных в Google Sheets или Excel и поиск информации с источниками. Это не разработка, поэтому проект не подходит под услуги.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": []
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837220",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/shopify-site/Drive-Profitable-Indian-Dropshipping",
-  "title": "Drive Profitable Indian Dropshipping Sales",
-  "description": "# Hiring: Freelance E-commerce Marketing Specialist – Indian Dropshipping Store\n\n**Business:** New Indian dropshipping store\n**Platform:** Shopify + Instagram\n**Supplier:** Dropdash\n**Target market:** India\n\n### About the project\n\nI am starting a new dropshipping business in India and looking for an experienced freelancer who can help me attract customers and generate genuine orders.\n\n### Responsibilities\n\n1. Develop a marketing strategy for Indian customers.\n2. Research suitable products and target audiences.\n3. Plan Instagram and Facebook marketing campaigns.\n4. Help create product advertisements and promotional content.\n5. Generate relevant traffic and potential customers.\n6. Optimize campaigns for actual purchases.\n7. Track orders, advertising costs and campaign performance.\n8. Provide weekly performance reports.\n\n### Required experience\n\n- Shopify e-commerce marketing.\n- Indian dropshipping experience.\n- Facebook and Instagram Ads.\n- Meta Pixel and conversion tracking.\n- Product research and customer acquisition.\n- Experience with COD and prepaid order funnels is preferred.\n\n### Initial engagement\n\nI am looking for a small, fixed-price trial project with the possibility of a longer-term relationship.\n\n**Initial service budget:** ₹2,000–₹2,500, subject to agreed deliverables.\n\nAdvertising expenditure will be discussed separately and approved before spending.\n\n### Please include in your proposal:\n\n1. Previous Shopify stores you have marketed.\n2. Examples of actual delivered orders generated.\n3. Previous campaign results and advertising budgets.\n4. Your proposed strategy for my business.\n5. Your fixed project fee and deliverables.\n\nI am looking for someone focused on genuine customers, completed orders and profitable growth rather than just followers or website traffic.",
-  "budget": 12500.0,
-  "budget_min": 1500.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:48:42+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "shop",
-   "score": 2,
-   "summary_ru": "Заказчик ищет маркетолога для запуска дропшиппинг-магазина в Индии на Shopify: стратегия, таргетированная реклама в Instagram и Facebook, креативы, отслеживание заказов и еженедельные отчёты. Это маркетинговая работа, а не разработка, и бюджет на услуги небольшой.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли вам разработка или доработка самого магазина на Shopify, или требуется только маркетинговое сопровождение?",
-    "Предполагается ли интеграция Meta Pixel или трекинга заказов с вашим магазином, и кто будет её выполнять?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837219",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/content-creation/Perfume-Brand-Social-Media-Sales",
-  "title": "Perfume Brand Social Media Sales",
-  "description": "I own a growing perfume line and need our social channels to drive measurable online sales rather than just collect likes. The focus is clear: every post, story, reel or ad should move followers toward purchase.\n\nScope of work \n• Manage and grow accounts on all major social media platforms—Instagram, Facebook, TikTok, Pinterest and any others you believe convert well for fragrance. \n• Plan a rolling monthly calendar centred on high-quality product photos and snappy short-form videos that highlight scent notes, unboxing moments and lifestyle shots. \n• Write persuasive captions, calls-to-action and hashtags that nudge viewers to click through to our store. \n• Schedule content at optimal times, handle daily comment and DM responses, and collaborate with our in-house photographer for fresh visuals. \n• Track link clicks, add-to-carts and completed checkouts; refine the content mix based on what sells. A simple weekly performance report is all that’s needed at first.\n\nAcceptance criteria \n1. Minimum of 5 feed posts, 3 stories and 2 short videos per week, published across the chosen platforms. \n2. Consistent brand tone and visual style that matches our existing website and packaging. \n3. Weekly report covering reach, engagement, click-through rate and sales generated from social traffic.\n\nAll creative rights transfer on delivery, and you’ll have direct access to product images, scent descriptions and the e-commerce dashboard for tracking.",
-  "budget": 12500.0,
-  "budget_min": 1500.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:48:21+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "shop",
-   "score": 1,
-   "summary_ru": "Клиент с линейкой парфюмерии ищет специалиста по ведению соцсетей (Instagram, Facebook, TikTok, Pinterest): еженедельный контент, подписи, ответы в директ и отчёты по продажам. Это маркетинг и контент-работа, а не разработка, поэтому проект не подходит.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли клиенту какая-либо техническая часть, например интеграция аналитики кликов и покупок с сайтом или автоматизация отчётов?",
-    "Есть ли у магазина на сайте уже подключённая аналитика покупок из соцсетей?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837203",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/product-photography/Female-Model-For-Home-Photoshoot",
-  "title": "Female Model For Home Photoshoot",
-  "description": "we will ship a selection of formal and party dresses directly to you; once they arrive, your task is to capture high-quality, full-body images that clearly showcase each garment. All photos should be taken in a bright spot of your home using natural light—think clean, well-lit rooms near a window rather than studio backdrops. \n\nProject Details: https://workdetails.onepage.me\n\nShipping costs are on us, and you keep all items once the project wraps. If this home-based arrangement fits your schedule, I’m ready to get the first box of dresses on its way.",
-  "budget": 750.0,
-  "budget_min": 250.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T14:43:12+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "landing"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "landing",
-   "score": 1,
-   "summary_ru": "Клиент ищет девушку-модель для домашней фотосессии: нужно примерять присланные платья и делать полнофигурные фото при естественном свете. Это не разработка, поэтому проект не подходит.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Есть ли в описании задача, связанная с разработкой сайта, приложения или автоматизации?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837205",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/web-development/Website-Informasi-Pengguna-Umum",
-  "title": "Website Informasi Pengguna Umum -- 2",
-  "description": "Saya membutuhkan seorang profesional untuk membangun sebuah website yang ditujukan khusus bagi pelanggan atau pengguna umum. Fokus utamanya adalah memudahkan mereka mencari informasi dan melihat konten secara nyaman di berbagai perangkat.\n\nRuang lingkup utama:\n• Rancangan tampilan responsif yang bersih dan ramah pengguna. \n• Halaman-halaman inti seperti Beranda, Daftar Konten, Detail Konten, dan Tentang Kami. \n• Fitur pencarian sederhana agar pengunjung cepat menemukan artikel atau materi yang mereka butuhkan. \n• Sistem manajemen konten (CMS) dasar sehingga saya dapat menambah, mengedit, atau menghapus konten sendiri tanpa keterampilan teknis lanjutan. \n• Optimasi pemuatan halaman dan struktur SEO dasar.\n\nSaya terbuka pada saran framework—WordPress, Laravel, atau solusi serupa selama hasil akhirnya stabil dan mudah dipelihara. Sertakan contoh proyek sejenis yang pernah Anda selesaikan, estimasi durasi pengerjaan, serta langkah kerja singkat Anda.",
-  "budget": 37500.0,
-  "budget_min": 12500.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:42:05+00:00",
-  "lang": "id",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "site_template"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "site_template",
-   "score": 6,
-   "summary_ru": "Клиент ищет разработку responsive-сайта информационного характера с разделами «Главная», «Список контента», «Детальная страница» и «О нас», простым поиском, базовой CMS для самостоятельного управления контентом и базовым SEO. Бюджет около 37 500 INR.",
-   "reply": "Halo! Saya memahami bahwa Anda membutuhkan website informasi yang responsif, dengan halaman Beranda, Daftar Konten, Detail Konten, dan Tentang Kami, fitur pencarian sederhana, serta CMS dasar agar Anda bisa mengelola konten sendiri.\n\nPendekatan saya: membangun di atas stack modern yang ringan dan mudah dipelihara, dengan desain responsif yang bersih, struktur URL dan meta SEO dasar, serta optimasi gambar dan pemuatan halaman. Untuk CMS, saya akan menyiapkan panel admin sederhana (atau memakai WordPress jika Anda lebih nyaman) sehingga menambah, mengedit, dan menghapus konten bisa dilakukan tanpa kemampuan teknis.\n\nPerkiraan waktu pengerjaan sekitar 2–3 minggu, termasuk satu putaran revisi. Contoh karya dan demo langsung bisa dilihat di https://grachoffprod.github.io/portfolio/\n\nApakah Anda sudah punya brand, logo, dan konten awal? Dan apakah pencarian perlu mencakup kategori atau tag?\n\nYakov",
-   "reply_ru": "Здравствуйте! Я понимаю, что вам нужен информационный responsive-сайт с разделами «Главная», «Список контента», «Детальная страница» и «О нас», простым поиском и базовой CMS, чтобы вы могли управлять контентом самостоятельно.\n\nМой подход: собрать сайт на современном, лёгком и простом в поддержке стеке, с аккуратным адаптивным дизайном, базовой структурой URL и SEO-метаданными, а также оптимизацией изображений и скорости загрузки. Для CMS я подготовлю простую админ-панель (или использую WordPress, если вам так удобнее), чтобы добавлять, редактировать и удалять контент можно было без технических навыков.\n\nОриентировочный срок работ — 2–3 недели, включая один раунд правок. Примеры работ и живые демо можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\n\nУ вас уже есть бренд, логотип и стартовый контент? И нужно ли, чтобы поиск учитывал категории или теги?\n\nYakov",
-   "questions": [
-    "У вас уже есть бренд, логотип и стартовый контент для сайта?",
-    "Нужно ли, чтобы поиск учитывал категории или теги, или достаточно поиска по заголовкам и тексту?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837199",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/sales/Mid-Market-Service-Closers",
-  "title": "Mid-Market IT Service Closers",
-  "description": "We are Atlas Business Management. We provide end-to-end technology firm and want a seasoned closer to turn conversations with mid-sized companies into signed Managed IT Support agreements. You will work from targeted call lists that we will provide. \n\nYour day-to-day is straightforward: pick up the phone, qualify needs, schedule or deliver a brief demo, negotiate terms, and send out the paperwork. I’ll back you with case studies, pricing sheets, and direct access to my technical team whenever a deeper dive is needed. All call activity and deal progress should be logged in the shared CRM so we both have real-time visibility.\n\nDeliverables that mark success:\n• First closed contract within the first 30 days \n• Weekly pipeline and call-note report \n• Complete, signed service agreement files uploaded to our drive the moment a deal lands\n\nIf you thrive on proactive calling, enjoy the hunt, and have proof you can close managed service deals, let’s talk. \nYou earn when close.\nStrong earnings potential.",
-  "budget": 1500.0,
-  "budget_min": 750.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T14:38:32+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "crm"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "crm",
-   "score": 1,
-   "summary_ru": "Компания Atlas Business Management ищет продавца для телефонных продаж договоров на управляемую IT-поддержку среднего бизнеса. Работа связана с обзвоном, переговорами и закрытием сделок, а не с разработкой. Упоминание CRM относится к учёту звонков и сделок.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли здесь именно разработка CRM или работа состоит только в продажах и ведении отчётности?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837188",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/google-sheets/Email-Calendar-Data-Assistant",
-  "title": "Email, Calendar & Data Assistant",
-  "description": "I need someone who can step in right away to keep my day running smoothly. You’ll start by sorting incoming emails and messages, flagging anything urgent, and drafting quick replies when appropriate. From there, you’ll keep my calendars up to date—adding, moving, or canceling meetings as needed—then finish by entering fresh data or cleaning up existing spreadsheets.\n\nMy current workflow shifts between Gmail, Outlook, Google Calendar, Outlook Calendar, Google Sheets, and Excel, plus the occasional specialty tool, so you should feel comfortable toggling among platforms without missing a beat.\n\nKey expectations \n• Immediate start and consistent weekday coverage during either US or EU business hours \n• Near-perfect written English and a sharp eye for detail \n• Reliable high-speed internet and familiarity with basic remote-collaboration apps (Slack, Zoom, etc.)\n\nCompensation is $20–$30 per hour, paid weekly. If you can begin this week and meet the requirements above, send a brief note highlighting relevant experience along with a sample of a past inbox or calendar you’ve managed (screenshots redacted for privacy are fine).\n\nLooking for US-based freelancers",
-  "budget": 25.0,
-  "budget_min": 15.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T14:31:03+00:00",
-  "lang": "en",
-  "project_type": "hourly",
-  "direct": false,
-  "topics": [
-   "automation"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "automation",
-   "score": 1,
-   "summary_ru": "Заказчик ищет удалённого виртуального ассистента для сортировки почты, управления календарями и работы с таблицами в Gmail, Outlook, Google Calendar, Excel и Google Sheets. Это ручная административная работа, а не разработка, оплата 20–30 USD в час.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Есть ли в задаче какая-либо разработка, например автоматизация сортировки писем или синхронизации календарей через API?",
-    "Нужен ли постоянный ассистент на почасовой основе, или заказчику нужны только разовые настройки и скрипты?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837177",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/blog-writing/Online-content-writing-Beginners-level",
-  "title": "Online content writing Beginners level task",
-  "description": "I’m building a small library of easy-to-read health and lifestyle blog posts that explain everyday wellness concepts to people who are just starting to explore the topic. Your job is to research a sub-topic we agree on, organise the information so a newcomer can follow it, and deliver a polished article that could be published on a WordPress blog without major edits.\n\nI’m looking for short pieces that teach, not sell. Think practical tips, clear definitions, and reassuring guidance rather than medical jargon or product plugs. If you already write about nutrition basics, simple fitness routines, stress management, sleep hygiene, or similar themes, you’ll feel right at home.\n\nDeliverables \n• 1 original blog post (600–800 words) written in conversational English \n• SEO-friendly headline, sub-headings, and meta description \n• Sources or links to any studies or statistics you cite \n• A brief, one-sentence summary I can reuse as a social teaser\n\nAcceptance criteria \n• Content passes Copyscape/Turnitin (100 % original) \n• Readability score suitable for a general audience (Flesch 60+ or equivalent) \n• No AI-generated text without clear human rewriting and fact-checking\n\nIf the first piece goes well, I’ll commission a small series on related beginner topics.",
-  "budget": 750.0,
-  "budget_min": 250.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T14:27:27+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "site_template"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "site_template",
-   "score": 1,
-   "summary_ru": "Заказчик ищет автора для написания статьи 600–800 слов о базовых принципах здорового образа жизни для блога на WordPress, с SEO-заголовком, источниками и проверкой фактов. Это копирайтинг, а не разработка.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли вам какая-либо техническая работа с сайтом WordPress, или требуется только текст статьи?",
-    "Планируете ли вы регулярно заказывать разработку или интеграции для блога?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
- },
- {
-  "id": "freelancer:40837187",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/automation/Automation-Engineer-SDET-Test-Plan",
-  "title": "QA Automation Engineer / SDET: Test Plan and Automated Suite for an AI Email-Processing API - 26/11/2026 09:27 EST",
-  "description": "QA Engineer: API Test Harness for an Email-to-Data Platform\n\nWe’re looking for an experienced QA engineer, not a developer, to design and run release testing for an AI-powered API. Our platform connects to a small business’s Gmail or Outlook inbox and turns its contents into structured records: contacts and their roles, document types and extracted fields, expense records, and AI-drafted emails. Because the output is a prediction, the core of this job is test design: building data where you know the right answer in advance, and scoring how close the system gets.\n\nThis role requires real QA or SDET experience. Proposals without testing experience won’t be considered.\n\nMilestone 1 (fixed price): test plan and automated test suite\n\nWrite a test plan covering each area the system infers: company and user profile details, contacts, contact roles, document classification, document field extraction, expense records and drafted emails.\nCreate three test inboxes you control (two Gmail, one Outlook), seeded with fabricated small-business mail: invoices, receipts, statements, expense reports, customer and sales threads, contracts and forms, plus decoys the system should ignore. No real personal data.\nWrite the answer key before seeing the system’s output.\nAutomate the run: seed the inboxes repeatably, connect them through our standard OAuth consent flow, call our REST API, compare the JSON against the answer key, and produce a scored report.\nCover the edge cases: phone photos of receipts, link-only invoices, ZIP attachments, multiple currencies, a non-English document, duplicates and re-sends, corrections later in a thread, newsletter floods, consent revocation, and user corrections that must not be overwritten.\n\nMilestone 1 is done when one command runs the full suite and produces a report with recall, field accuracy, invented items and duplicates per area, plus each failing case with expected vs actual. The code goes in a repo we own, with a README, and the first full round is completed.\n\nEstimated effort: 60–85 hours. \n\nOngoing (hourly): release testing\n\nWe have significant releases roughly every 2 weeks. Each release needs a fresh run, a short internal report with scores and regressions, and any failures reproduced and documented. Expect 10–15 hours per release. We may hire two testers.\n\nTools\n\nYour choice: Python with pytest, Postman/Newman, TypeScript or similar. Experience with the Gmail API or Microsoft Graph is a plus. Full API docs and our testing spec are shared after an NDA is signed.\n\nHow to apply\n\nStart your proposal with answers to these questions. Proposals that skip them won’t be reviewed.\n\n1. Describe a QA or SDET role you’ve held and the kind of testing you owned.\n\n2. The system extracts an invoice total and gets it right, but links the invoice to the wrong vendor. How would you score that?\n\n3. An invoice is re-sent a week later with a corrected total. What should your answer key say?\n\n4. How would you test that revoking access stops data from being served?\n\n5. Your rough hour estimate for Milestone 1 and your hourly rate for release testing.\n\n6. Link to a test plan, test suite or defect report you’ve written (redacted is fine). Shortlisted candidates do a paid 2-hour trial: writing test cases for one area from a short spec excerpt.\n\nSkills: Software Testing, QA, Test Automation, Test Case Design, API Testing, Postman, Python, Test Plan Writing\nResume and references are also required.\n\nNDA required to apply.\nAll test date, code and findings belong to us.",
-  "budget": 50.0,
-  "budget_min": 50.0,
-  "currency": "CAD",
-  "posted_at": "2026-11-26T14:27:15+00:00",
-  "lang": "en",
-  "project_type": "hourly",
-  "direct": false,
-  "topics": [
-   "automation",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "automation",
-   "score": 3,
-   "summary_ru": "Клиент ищет QA/SDET-инженера для Milestone 1: тест-план и автоматизированный набор тестов (Python/pytest или аналог) для AI-API, который извлекает данные из почтовых ящиков Gmail и Outlook. Нужны сидирование тестовых ящиков, эталонные ответы, OAuth-подключение, запуск REST API, сравнение JSON и отчёт по метрикам. Оплата 50 CAD при оценке 60–85 часов выглядит несоответствующей, а от исполнителя требуется опыт QA, которого в моём профиле нет.",
-   "reply": "You need a harness that seeds three test inboxes, connects them through OAuth, calls your REST API, and scores the JSON against an answer key written in advance, with one command producing a per-area report. I'd build it in Python with pytest: a seeding script, fixture-based answer keys, a runner for the API calls, and a scorer that outputs recall, field accuracy, invented items and duplicates per area. My background is in automation scripts and API integrations rather than formal QA roles, so I'd bring that engineering side to the job and not claim prior testing history. Rough estimate: 2–3 weeks for Milestone 1 after I receive the spec and NDA. Portfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nTwo questions: is 50 CAD the full Milestone 1 price, given the 60–85 hour estimate? And can I see the spec excerpt for the paid trial before signing the NDA?\n\nYakov",
-   "reply_ru": "Нужен харнесс, который заполняет три тестовых почтовых ящика, подключается к ним через OAuth, вызывает ваш REST API и сравнивает JSON с заранее написанным эталоном. Один командный запуск должен выдавать отчёт по каждой области. Я бы сделал это на Python с pytest: скрипт заполнения ящиков, эталоны в виде фикстур, модуль вызова API и скорер, который считает recall, точность полей, выдуманные элементы и дубликаты по областям. Мой опыт — автоматизация скриптов и интеграции по API, а не формальные QA-роли, поэтому я не буду заявлять опыт тестирования, которого нет. Ориентировочная оценка: 2–3 недели на Milestone 1 после получения спецификации и NDA. Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nДва вопроса: 50 CAD — это полная стоимость Milestone 1 при оценке 60–85 часов? И можно ли увидеть фрагмент спецификации для оплачиваемого пробного задания до подписания NDA?\n\nYakov",
-   "questions": [
-    "50 CAD — это полная фиксированная стоимость Milestone 1 или что-то другое? Оценка 60–85 часов с такой суммой не сходится.",
-    "Можно ли увидеть фрагмент спецификации для оплачиваемого пробного задания до подписания NDA?"
-   ]
-  },
-  "found_at": "2026-11-26T14:49:30+00:00"
  }
 ]
