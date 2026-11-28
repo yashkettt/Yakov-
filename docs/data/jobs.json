@@ -1,5 +1,315 @@
 [
  {
+  "id": "freelancer:40840218",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/php/Commerce-Website-for-Physical-Goods-40840218",
+  "title": "E-Commerce Website for Physical Goods",
+  "description": "I need a full-featured e-commerce site that lets me sell products online—specifically physical products that need shipping. The store must present each item clearly, guide customers through a secure checkout, and give me a simple back-end to add or edit products, track stock, and process orders.\n\nKey things I expect:\n• Clean, mobile-responsive design that matches my brand \n• Product pages with multiple photos, descriptions, and variant options \n• Integrated payment gateways (Stripe, PayPal, plus any other mainstream option you recommend) \n• Shipping setup for real-time rates and label generation so I can fulfil orders quickly \n• Order dashboard that shows status at a glance and emails customers automatically when their package ships \n• Basic on-page SEO and Google Analytics connected before launch \n• Clear hand-off: short video or guide walking me through day-to-day tasks (adding products, printing labels, refunds)\n\nYou can build on a platform you know best—Shopify, WooCommerce, or another that fits these needs—as long as it supports easy growth and minimal monthly overhead.\n\nI’m ready to move forward as soon as I see a concise plan, timeline, and examples of similar stores you’ve launched.",
+  "budget": 25.0,
+  "budget_min": 15.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T14:45:32+00:00",
+  "lang": "en",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "shop",
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "shop",
+   "score": 3,
+   "summary_ru": "Заказчик хочет интернет-магазин физических товаров с вариантами, галереями фото, админкой для товаров, остатков и заказов, расчётом доставки в реальном времени, печатью этикеток и автоматическими письмами об отправке. Бюджет 25 USD явно не покрывает такой объём.",
+   "reply": "You need a store for physical goods with variants, multi-photo product pages, a back-office for stock and orders, live shipping rates with label printing, and automatic shipping emails. I'd build the core on a ready platform like Shopify or WooCommerce rather than from scratch, which keeps monthly costs low and launch fast, then add the shipping integration and order-status automation as custom code. The full scope is well beyond a $25 budget, so I'd suggest starting with a core store (catalog, variants, checkout, Google Analytics) and adding shipping and email automation in a second phase. The core store would take about 1–2 weeks. Which carriers do you ship with, and roughly how many products and variants do you expect at launch?\n\nSee live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужен магазин физических товаров с вариантами, страницами товаров с несколькими фото, админкой для управления остатками и заказами, расчётом доставки в реальном времени с печатью этикеток и автоматическими письмами об отправке. Я бы сделал основу на готовой платформе вроде Shopify или WooCommerce, а не с нуля: так ниже ежемесячные расходы и быстрее запуск. Интеграцию доставки и автоматизацию статусов заказов добавил бы как кастомный код. Полный объём заметно выходит за бюджет 25 USD, поэтому предлагаю начать с базового магазина (каталог, варианты, оформление заказа, Google Analytics), а доставку и письма добавить вторым этапом. Базовый магазин займёт примерно 1–2 недели. Какими службами доставки вы пользуетесь и сколько товаров и вариантов ожидаете к запуску?\n\nЖивые демо можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Какими службами доставки вы пользуетесь и нужна ли печать этикеток именно для них?",
+    "Сколько товаров и вариантов ожидаете к запуску?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "freelancer:40840207",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/customer-service/Admin-Pesanan-Pelanggan",
+  "title": "Admin Pesanan & Pelanggan",
+  "description": "Saya membutuhkan bantuan jarak jauh untuk menangani alur pesanan dan informasi pelanggan toko online saya. Fokus utamanya:\n\n• Memeriksa pesanan yang masuk di dashboard, memastikan detail alamat, metode pembayaran, dan stok sudah tepat. \n• Memperbarui status pengiriman, mengunggah nomor resi, serta mencatat setiap perubahan di spreadsheet Google Sheets agar data selalu rapi dan mudah ditelusuri. \n• Menanggapi pertanyaan sederhana pelanggan melalui email atau chat (template jawaban sudah tersedia), lalu meneruskan kasus kompleks kepada saya jika diperlukan. \n• Menyusun laporan mingguan singkat tentang jumlah pesanan, pengembalian, dan isu pelanggan untuk membantu saya mengambil keputusan stok.\n\nSaya mencari seseorang yang teliti, nyaman bekerja dari rumah, dan terbiasa dengan input data ataupun layanan pelanggan dasar. Familiaritas dengan Google Workspace, e-commerce dashboard (mis. Shopify, WooCommerce, atau marketplace lokal), dan komunikasi tertulis yang jelas dalam Bahasa Indonesia merupakan nilai tambah.\n\nBerikan gambaran singkat pengalaman serupa yang pernah Anda pegang, perkiraan jam kerja harian yang tersedia, serta perangkat atau koneksi internet yang Anda gunakan. Saya akan memilih kandidat yang bisa mulai segera dan berkomitmen setidaknya satu bulan dengan peluang diperpanjang.",
+  "budget": 25.0,
+  "budget_min": 15.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T14:37:08+00:00",
+  "lang": "id",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "shop",
+   "automation"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "shop",
+   "score": 2,
+   "summary_ru": "Заказчик ищет удалённого помощника-администратора для интернет-магазина: проверка заказов и адресов, обновление статусов и трек-номеров, ответы клиентам по шаблонам и еженедельные отчёты в Google Sheets. Это операционная работа, а не разработка.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Нужна ли вам разработка, например автоматическая выгрузка заказов из вашей платформы в Google Sheets или интеграция с мессенджером для ответов клиентам?",
+    "На какой платформе работает магазин (Shopify, WooCommerce или местный маркетплейс) и есть ли к ней API?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "freelancer:40840202",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/android-app-development/Premium-Railway-Information-Android-App",
+  "title": "Premium Railway Information Android App",
+  "description": "ANDROID APP DEVELOPMENT PROJECT\n\nComplete Railway Information Application – UI/UX, Development & Google Play Store Publishing\n\nProject Type: Railway Information Android Application\nPlatform: Android\nMaximum Fixed Budget: ₹10,000 INR\nDevelopment Technology: Kotlin + Jetpack Compose\nClient: Private Client\nApp Name & Company Name: Confidential\n\n---\n\n1. PROJECT OVERVIEW\n\nWe are looking for an experienced Android Developer to develop a complete, modern, premium and professional Railway Information Android Application from scratch.\n\nThe application will provide Indian railway passengers with useful railway information through 11 different tools.\n\nOur priority is to build a fast, lightweight, reliable and extremely easy-to-use application with world-class UI/UX.\n\nThe application must be developed as a native Android application, not a website wrapped inside an Android WebView.\n\n2. UI/UX DESIGN – HIGHEST PRIORITY\n\nWe want a premium, modern and professional design.\n\nDesign Theme:\n\n- Navy Blue & White.\n- Modern and elegant interface.\n- Original and unique UI/UX.\n- Beautiful typography and icons.\n- Premium cards and buttons.\n- Smooth animations and transitions.\n- Proper spacing and visual hierarchy.\n- Light Mode and Dark Mode.\n- English and Hindi language support.\n\nDo not use ordinary templates or outdated designs.\n\nDesign Approval Process\n\nBefore starting complete development:\n\n1. Create and show the Home Screen UI.\n2. Wait for client approval.\n3. Show all 11 railway tool screens.\n4. Show More Menu, Profile and Settings.\n5. Complete the design approval.\n6. Start full development after approval.\n\nThe client must be able to review and approve each major screen.\n\n3. REQUIRED 11 RAILWAY TOOLS\n\nIntegrate the following existing RapidAPI endpoints:\n\n1. Station Search – SearchStation\n2. Train Search – SearchTrain\n3. Trains Between Stations – TrainsBetweenStations V3\n4. Live Train Status – Get Train Live Status\n5. Train Schedule – Get Train Schedule\n6. PNR Status – Get PNR Status V3\n7. Seat Availability – CheckSeatAvailability V2\n8. Train Classes – GetTrainClasses\n9. Fare Enquiry – Get Fare\n10. Trains By Station – Get Trains By Station\n11. Live Station – Get Live Station\n\nOnly these 11 approved tools should be included.\n\nDo not create duplicate or unnecessary railway tools.\n\nUse real API responses. No mock APIs, fake results or hardcoded railway information.\n\n4. COMPLETE UI SCREENS\n\nA. App Opening\n\n- Splash Screen\n- Onboarding\n- Language Selection\n- Home Screen\n\nB. Home Screen\n\n- Railway Information Search\n- Google Sign-In button\n- All 11 Railway Tools\n- Recent Searches\n- Saved Trains\n- Train Alerts\n- Advertisement placement\n- Bottom Navigation\n\nC. Railway Tool Screens\n\nEvery tool must have:\n\n- Input Screen\n- Loading State\n- Results Screen\n- Error State\n- Empty State where applicable\n\nD. More Menu\n\n- My Profile\n- Saved Trains\n- Train Alerts\n- Language Settings\n- Theme Settings\n- Notification Settings\n- About Application\n- Privacy Policy\n- Terms & Conditions\n- Help & Support\n- Contact Us\n- Delete Account\n- App Version\n\nE. Bottom Navigation\n\n- Home\n- Search\n- Alerts\n- Saved\n- More\n\n5. GOOGLE SIGN-IN & ACCOUNT\n\n- Google Sign-Up.\n- Google Login.\n- Firebase Authentication.\n- No mandatory login popup when opening the app.\n- Home Screen should open directly.\n- Google Sign-In option available on Home Screen.\n- Account Management.\n- Delete Account functionality.\n\nGuest access should be available for ordinary railway information features.\n\n6. GOOGLE ADMOB INTEGRATION\n\nGoogle AdMob is an important part of the business model.\n\nRequired:\n\n- Banner Ads.\n- Native Ads.\n- Other suitable permitted ad formats.\n- Responsive ad placements.\n- Proper spacing around advertisements.\n- No accidental-click placements.\n- No interruption during important railway tasks.\n\nThe goal is to maximize sustainable advertising revenue while maintaining an excellent user experience.\n\n7. BACKEND & API SECURITY\n\n- Secure backend API integration.\n- API keys must remain on the server.\n- Proper caching.\n- Error handling.\n- Loading indicators.\n- Retry functionality.\n- Proper API response handling.\n- No exposed secrets in the Android application.\n\n8. ANDROID TECHNICAL REQUIREMENTS\n\n- Android Studio.\n- Kotlin.\n- Jetpack Compose.\n- MVVM Architecture.\n- Responsive layouts.\n- Modern Android navigation.\n- Smooth performance.\n- Proper Android permissions.\n- Different Android screen-size testing.\n- Crash and bug fixing.\n\n9. GOOGLE PLAY STORE PUBLISHING\n\nDeveloper must assist with:\n\n- Complete Android Studio Project.\n- Full Source Code.\n- App Icon.\n- Play Store Screenshots.\n- Privacy Policy.\n- Terms & Conditions.\n- Data Safety information.\n- Signed Release AAB.\n- Android Testing.\n- Play Console Submission Assistance.\n- Fixing issues identified during review within the agreed scope.\n\nFinal publishing is subject to Google Play approval and applicable testing requirements.\n\n10. LEGAL & COMPLIANCE\n\nThis is an independent railway information application.\n\n- Do not use Indian Railways or IRCTC official logos.\n- Do not claim government affiliation.\n- Do not copy another application's branding or proprietary design.\n- Use only legally permitted API data.\n- Verify commercial-use and redistribution permissions.\n- Follow Google Play Developer and AdMob policies.\n- Include appropriate privacy and data disclosures.\n\n11. SOURCE CODE & OWNERSHIP\n\nThe client must receive:\n\n- Complete Kotlin Source Code.\n- Complete Android Studio Project.\n- Backend Source Code.\n- Build Instructions.\n- API Integration Documentation.\n- Signed AAB.\n- All necessary project assets.\n\nAll project deliverables and agreed intellectual property rights must be transferred to the client.\n\nClient-owned Google Play Console, AdMob and backend accounts must remain under the client's control.\n\n12. BUDGET & MILESTONES\n\nMaximum Fixed Budget: ₹10,000 INR.\n\nPlease provide a realistic milestone-based delivery plan.\n\nSuggested milestones:\n\n1. UI/UX Design Approval.\n2. Android UI Development.\n3. API & Backend Integration.\n4. Google Sign-In & AdMob.\n5. Testing and Bug Fixing.\n6. Signed AAB and Play Store Submission Assistance.\n\nDo not begin additional paid work without client approval.\n\nIf the complete scope cannot be delivered within the budget, clearly explain the limitations and propose a realistic scope before accepting the project.\n\n13. DEVELOPER QUESTIONS\n\nPlease answer all questions:\n\n1. Do you have experience with Kotlin and Jetpack Compose?\n2. Have you published Android applications on Google Play Store?\n3. Can you integrate all 11 RapidAPI endpoints?\n4. Can you build a secure backend?\n5. Can you implement Google Sign-In?\n6. Can you integrate Google AdMob?\n7. Can you provide the complete source code?\n8. Can you prepare a signed AAB?\n9. Can you assist with Play Store publishing?\n10. Can you deliver the agreed scope within ₹10,000?\n\nImportant: We are looking for a developer who can deliver a genuine, production-quality Android application, not just a UI prototype.\n\nPlease share your previous Android application work, portfolio, estimated timeline and fixed-price quotation.\n\nMaximum Budget: ₹10,000 INR.",
+  "budget": 12500.0,
+  "budget_min": 1500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T14:31:54+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "api_integration",
+   "mvp",
+   "fixes"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "api_integration",
+   "score": 3,
+   "summary_ru": "Нужно разработать нативное Android-приложение на Kotlin и Jetpack Compose с 11 железнодорожными инструментами на базе RapidAPI, дизайн-согласованием, Firebase-авторизацией, AdMob и публикацией в Google Play. Фиксированный бюджет ₹10 000, что мало для такого объёма работ.",
+   "reply": "You need a native Android app that connects 11 RapidAPI railway endpoints, with a design approval stage, Firebase sign-in, AdMob, and Play Store release. The core of this is the API layer: a server-side proxy that keeps the keys private, normalizes responses from the 11 endpoints, and handles loading, errors, and caching so the app stays fast. I would build and test that layer first, then the screens after you approve the design. My rough estimate is 1–2 weeks for the backend and integrations, with the app after that depending on final scope. Since the fixed budget has to cover UI, auth, ads, and publishing, I'd like to agree on what's included before we start.\n\nDo you already have RapidAPI subscriptions for all 11 endpoints, and would you like the backend hosted on your side or mine?\n\nYou can see live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужно нативное Android-приложение, которое подключает 11 railway-эндпоинтов RapidAPI, с этапом согласования дизайна, входом через Firebase, AdMob и публикацией в Google Play. Основа здесь — слой API: серверный прокси, который хранит ключи в безопасности, нормализует ответы от 11 эндпоинтов и обрабатывает загрузку, ошибки и кэширование, чтобы приложение работало быстро. Я бы сначала собрал и протестировал этот слой, а экраны делал бы после вашего согласования дизайна. Ориентировочно это 1–2 недели на backend и интеграции, а дальше приложение, в зависимости от итогового объёма. Так как фиксированный бюджет должен покрыть интерфейс, авторизацию, рекламу и публикацию, сначала хочу согласовать, что входит в работу.\n\nУ вас уже есть подписки RapidAPI на все 11 эндпоинтов, и где вы хотите разместить backend: у себя или у меня?\n\nЖивые демо можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "У вас уже есть подписки RapidAPI на все 11 эндпоинтов или их нужно подключать с нуля?",
+    "Где вы хотите разместить backend-прокси: на вашем сервере или на моём?",
+    "Бюджет ₹10 000 фиксированный: входят ли в него дизайн всех экранов, публикация в Google Play и настройка AdMob, или это отдельные этапы?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "freelancer:40840191",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/backend-development/Education-Consultancy-Backend",
+  "title": "Education Consultancy Backend Development",
+  "description": "I’ve completed the front-end of an education-consultancy website and now need a backend expert to make the site fully functional. This project is strictly for the web version—no mobile app work is required.\n\nMy top priority is an intuitive, secure admin panel that lets my team update pages, program details, testimonials and blog posts without touching code. Beyond that, the backend should handle contact enquiries efficiently and keep all student data protected.\n\nDeliverables\n• Database design and setup \n• RESTful endpoints for public pages and enquiry forms \n• Password-protected, role-based admin dashboard \n• Security best practices (input validation, sanitisation, HTTPS, etc.) \n• Deployment to a live server with basic documentation \n\nI’m flexible on the tech stack—Node/Express, Django, Laravel or similar are all fine—as long as the code is clean and maintainable. If you can own the server-side build from architecture through deployment, let’s discuss your approach and timeline.",
+  "budget": 12500.0,
+  "budget_min": 1500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T14:21:52+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "crm"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "crm",
+   "score": 5,
+   "summary_ru": "Нужно написать бэкенд для готового фронтенда сайта образовательного консалтинга: база данных, REST API, защищённая админ-панель с ролями для редактирования контента и обработки заявок, безопасность и деплой на сервер. Бюджет низкий для такого объёма.",
+   "reply": "You need a backend that turns your finished front-end into a working site: a role-based admin panel where your team can edit pages, programs, testimonials and blog posts, plus secure handling of contact enquiries and student data. I'd build it on Node/Express with PostgreSQL, cover input validation, sanitisation, HTTPS and role permissions, and deploy to a live server with short documentation. Using modern tooling and AI-assisted development, I'd expect the core to take about 2–3 weeks, depending on how many content types you need. Which stack is your front-end built with, and should enquiries go by email or into a CRM?\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\nYakov",
+   "reply_ru": "Вам нужен бэкенд, который превратит готовый фронтенд в полноценный сайт: админ-панель с ролями, где ваша команда сможет редактировать страницы, программы, отзывы и блог, а также безопасная обработка заявок и данных студентов. Я бы собрал это на Node/Express с PostgreSQL, реализовал валидацию и санитизацию входных данных, HTTPS и разграничение ролей, а затем задеплоил на живой сервер с краткой документацией. При использовании современных инструментов и ИИ-ассистентов в разработке ядро, по моей оценке, займёт около 2–3 недель, в зависимости от количества типов контента. На каком стеке сделан фронтенд и должны ли заявки уходить на email или в CRM?\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\nYakov",
+   "questions": [
+    "На каком стеке построен фронтенд сайта?",
+    "Заявки должны отправляться на email или сохраняться в CRM?",
+    "Сколько типов контента нужно редактировать через админ-панель и какие роли пользователей предполагаются?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "freelancer:40840190",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/appointment-setting/Kolkata-International-Appointment-Setter",
+  "title": "Kolkata International Appointment Setter Needed",
+  "description": "### International Appointment Setter – Female Candidates (Kolkata Only)\n\nWe are looking for a professional, confident, and fluent English-speaking female Appointment Setter based **ONLY in Kolkata, West Bengal, India**, to join our international business development team.\n\n**Job Description:**\n- Communicate professionally with international clients through phone calls, WhatsApp, email, and online platforms.\n- Contact potential international buyers and business prospects.\n- Schedule appointments and arrange online meetings with overseas clients.\n- Follow up with leads and maintain professional client relationships.\n- Have a clear understanding of international communication standards and business etiquette.\n\n**Candidate Requirements:**\n- Female candidates only.\n- Must be based in Kolkata, West Bengal.\n- Fluent in spoken and written English with a clear, professional accent.\n- Previous international experience in appointment setting, telecalling, customer support, or international sales will be highly preferred.\n- Confident in communicating with clients from Africa, Europe, and other international markets.\n- Good communication, convincing, and follow-up skills.\n- Basic computer knowledge and familiarity with email, WhatsApp, and online meeting platforms.\n\n**Preferred Experience:** 1–3 years in international calling, appointment setting, or overseas client handling.\n\n**We are looking for:** A serious, dedicated, well-presented, and target-oriented professional interested in building a long-term career with an international business.\n\n**Location: KOLKATA ONLY.**",
+  "budget": 15000.0,
+  "budget_min": 10000.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T14:21:14+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "booking"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "booking",
+   "score": 1,
+   "summary_ru": "Вакансия на постоянную работу: англоязычный ассистент по назначению встреч (appointment setter) для международных продаж. Требуется женщина из Калькутты, работа с зарубежными клиентами по телефону и email. Это найм сотрудника, а не разработка проекта.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": []
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "freelancer:40840179",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/woocommerce/Commerce-Website-for-Physical-Goods-40840179",
+  "title": "E-Commerce Website for Physical Goods",
+  "description": "I need a full-featured e-commerce site that lets me sell products online—specifically physical products that need shipping. The store must present each item clearly, guide customers through a secure checkout, and give me a simple back-end to add or edit products, track stock, and process orders.\n\nKey things I expect:\n• Clean, mobile-responsive design that matches my brand \n• Product pages with multiple photos, descriptions, and variant options \n• Integrated payment gateways (Stripe, PayPal, plus any other mainstream option you recommend) \n• Shipping setup for real-time rates and label generation so I can fulfil orders quickly \n• Order dashboard that shows status at a glance and emails customers automatically when their package ships \n• Basic on-page SEO and Google Analytics connected before launch \n• Clear hand-off: short video or guide walking me through day-to-day tasks (adding products, printing labels, refunds)\n\nYou can build on a platform you know best—Shopify, WooCommerce, or another that fits these needs—as long as it supports easy growth and minimal monthly overhead.\n\nI’m ready to move forward as soon as I see a concise plan, timeline, and examples of similar stores you’ve launched.",
+  "budget": 37500.0,
+  "budget_min": 12500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T14:10:09+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "shop",
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "shop",
+   "score": 4,
+   "summary_ru": "Заказчик хочет интернет-магазин физических товаров с вариантами товаров, расчётом доставки в реальном времени, печатью этикеток, панелью заказов и автоматическими письмами о отправке. Бюджет небольшой для такого объёма.",
+   "reply": "You're looking for a store for physical goods with variant-based product pages, real-time shipping rates, label printing, and an order dashboard that emails customers when a parcel ships. For this scope, I'd start by choosing the platform (Shopify or WooCommerce, depending on how much you want to manage yourself), then set up the catalog and variants, connect shipping rates and labels through the carrier's API, and add the automated shipping emails and analytics. Using a modern stack and AI-assisted development, I can usually deliver a first working version in about 2–3 weeks, followed by a short handover walkthrough. Portfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nWhich carriers do you ship with, and roughly how many products will you start with?\n\nYakov",
+   "reply_ru": "Вам нужен магазин физических товаров с карточками товаров и вариантами, расчётом доставки в реальном времени, печатью этикеток и панелью заказов, которая отправляет клиентам письмо при отправке посылки. Для такого объёма я бы начал с выбора платформы (Shopify или WooCommerce, в зависимости от того, сколько вы хотите администрировать сами), затем настроил бы каталог и варианты, подключил бы расчёт доставки и этикетки через API службы доставки и добавил бы автоматические письма об отправке и аналитику. Используя современный стек и разработку с ИИ-ассистентами, обычно можно сдать первую рабочую версию примерно за 2–3 недели, затем короткое обучение по работе с магазином. Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nКакими службами доставки вы пользуетесь и примерно сколько товаров планируете добавить на старте?\n\nYakov",
+   "questions": [
+    "С какими службами доставки вы работаете и нужна ли интеграция с их API для печати этикеток?",
+    "Примерно сколько товаров и вариантов планируется на старте и нужно ли видео-инструкция в рамках бюджета?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "freelancer:40840172",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/flask/Python-API-for-CRM-Email",
+  "title": "Python API for CRM-Email Sync",
+  "description": "I need a small, well-structured Python web service that sits between our customer-management tool and our email-marketing platform, keeping the two perfectly in step. When a contact is created, updated, or tagged in the CRM, the same change should be reflected in the email list almost instantly. Likewise, campaign events from the email tool—opens, clicks, bounces, unsubscribes—have to flow back to the CRM so our sales team always sees the latest engagement data.\n\nCore expectations \n• Build a RESTful API (Flask or FastAPI preferred) that receives webhooks from both systems, normalises the payloads, and pushes the appropriate updates through the partner’s API. \n• Map common fields (name, email, status, tags, custom properties) and include a clean way to extend the mapping later. \n• Handle authentication for each service (OAuth2 where required) and refresh tokens automatically. \n• Log every transaction with clear success / failure messages; failed syncs should retry with exponential back-off. \n• Containerise the solution (Docker) and provide a simple deployment script for a Linux VPS.\n\nDeliverables \n1. Full Python source code in a private Git repository \n2. README covering environment setup, config variables, and example curl requests \n3. Postman (or similar) collection showcasing the endpoints \n4. Brief screencast or screenshots demonstrating a successful bi-directional sync\n\nAcceptance criteria \n• Creating or updating a contact in the CRM reflects in the email platform within 30 seconds. \n• Email engagement events appear in the CRM timeline within 2 minutes. \n• All unit tests pass (minimum 85 % coverage).\n\nIf you favour test-driven development, type hints, and concise, readable code, we’ll get along well. Let me know which frameworks you propose and any relevant projects you can point to, and I’ll share our sandbox credentials so you can start right away.",
+  "budget": 50.0,
+  "budget_min": 50.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T14:03:50+00:00",
+  "lang": "en",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "crm",
+   "api_integration",
+   "saas"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "api_integration",
+   "score": 4,
+   "summary_ru": "Нужен Python-сервис (FastAPI или Flask) для двусторонней синхронизации CRM и email-платформы: изменения контактов передаются в рассылки почти мгновенно, а события открытий, кликов, баунсов и отписок возвращаются в CRM. Включает OAuth2, повторы с экспоненциальной задержкой, Docker, деплой на VPS, тесты с покрытием от 85%. Бюджет 50 USD заметно ниже объёма работ.",
+   "reply": "You need a Python service that keeps your CRM and email platform in sync both ways: contact changes go out to the email list within seconds, and opens, clicks, bounces and unsubscribes flow back to the CRM timeline. I'd build it with FastAPI, using webhook receivers, a normaliser with declarative field mapping, retries with exponential back-off, and automatic OAuth2 token refresh for each service, all packaged in Docker with a deploy script for the VPS. I'd write the tests first to reach the 85% coverage target, and check the 30-second and 2-minute latency criteria in your sandbox. Rough estimate: 5–7 days for the core sync, with the screencast included.\n\nWhich CRM and email platforms do you use, and does the 50 USD budget cover the full scope or only the core sync to start?\n\nSee live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужен сервис на Python, который будет синхронизировать CRM и email-платформу в обе стороны: изменения контактов уходят в email-список в течение секунд, а открытия, клики, баунсы и отписки возвращаются в таймлайн CRM. Я бы собрал его на FastAPI: приёмники вебхуков, нормализатор с декларативным маппингом полей, повторы с экспоненциальной задержкой и автоматическое обновление OAuth2-токенов для каждого сервиса. Всё упаковал бы в Docker со скриптом деплоя на VPS. Тесты писал бы в первую очередь, чтобы выйти на покрытие 85%, а задержки 30 секунд и 2 минуты проверил бы в вашей песочнице. Ориентировочный срок: 5–7 дней на основную синхронизацию, скринкаст включён.\n\nКакими CRM и email-платформами вы пользуетесь и покрывает ли бюджет 50 USD полный объём или сначала только базовую синхронизацию?\n\nПримеры живых демо в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Какими CRM и email-платформами вы пользуетесь (и есть ли у них открытые API и вебхуки)?",
+    "Покрывает ли бюджет 50 USD полный объём работ или сначала нужна только базовая синхронизация контактов?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "flru:5530862",
+  "source": "flru",
+  "url": "https://www.fl.ru/projects/5530862/vnesti-pravki-v-lending-na-tilda.html",
+  "title": "Внести правки в лендинг на Tilda",
+  "description": "Здравствуйте.\nВ лендинге на Tilda нужно поменять блоки и заменить текст на наш готовый. \nПодробно расскажу в ЛС, отправлю ссылку на лендинг.",
+  "budget": null,
+  "budget_min": null,
+  "currency": null,
+  "posted_at": "Sat, 28 Nov 2026 14:11:54 GMT",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "landing"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "landing",
+   "score": 6,
+   "summary_ru": "Нужно внести правки в существующий лендинг на Tilda: заменить часть блоков и поменять тексты на готовые от заказчика. Подробности и ссылка на страницу будут переданы в личных сообщениях.",
+   "reply": "Вижу, что нужно обновить существующий лендинг на Tilda: поменять часть блоков и заменить тексты на ваши готовые материалы. Внесу правки прямо в редакторе Tilda, аккуратно сохраняя текущую верстку и адаптив под мобильные. Сначала посмотрю страницу и оценю объём, затем внесу изменения и покажу результат на согласование. Для небольших правок обычно хватает 1–2 дней. Подскажите, пожалуйста, новые блоки нужно сделать с нуля или достаточно взять из стандартной библиотеки Tilda, и сможете ли вы добавить меня в проект в редакторе? Примеры работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вижу, что нужно обновить существующий лендинг на Tilda: поменять часть блоков и заменить тексты на ваши готовые материалы. Внесу правки прямо в редакторе Tilda, аккуратно сохраняя текущую верстку и адаптив под мобильные. Сначала посмотрю страницу и оценю объём, затем внесу изменения и покажу результат на согласование. Для небольших правок обычно хватает 1–2 дня. Подскажите, пожалуйста, новые блоки нужно сделать с нуля или достаточно взять из стандартной библиотеки Tilda, и сможете ли вы добавить меня в проект в редакторе? Примеры работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Новые блоки нужно сделать с нуля или достаточно взять из стандартной библиотеки Tilda?",
+    "Сможете ли вы добавить меня в проект Tilda с правами редактора или передать доступ к странице?",
+    "Какой у вас желаемый срок выполнения правок?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "kwork:3066682",
+  "source": "kwork",
+  "url": "https://kwork.ru/projects/3066682",
+  "title": "Поддержка сайтов на вордпресс",
+  "description": "Интересует человек с опытом - в первом письме пришлите: \n1) какие сайты вы вели, сколько страниц было \n2) если у вас диплом, сертификаты о ВП, программировании \n3) как быстро можете восстановить сайт после ботов атаки, какой в этом опыт \nЦена за 22 дня поддержка на WP 4-х сайтов: 20.000 руб.",
+  "budget": 20000.0,
+  "budget_min": null,
+  "currency": "RUB",
+  "posted_at": "2026-11-28 17:33:52",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "site_template"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "site_template",
+   "score": 4,
+   "summary_ru": "Заказчик ищет специалиста для поддержки четырёх сайтов на WordPress на 22 дня с возможностью быстро восстановить сайт после атаки ботов. Бюджет 20 000 ₽, в первом письме просят указать опыт, дипломы и сертификаты.",
+   "reply": "Нужна поддержка четырёх сайтов на WordPress в течение 22 дней: обновления, защита и быстрое восстановление после атак. Начну с аудита каждого сайта: плагины, темы, версия PHP, доступы и наличие бэкапов. За первые 2–3 дня закрою критичные уязвимости, настрою регулярные резервные копии и проверю, что восстановление из них действительно работает. Дальше — плановые обновления с копией перед каждым шагом, мониторинг доступности и готовый план действий при атаке: изоляция, очистка или откат из бэкапа. Сроки по каждому сайту зафиксирую после аудита. Ответьте, пожалуйста, на два вопроса: какой у сайтов хостинг и есть ли сейчас актуальные бэкапы? Какое время реакции на инцидент вам нужно: в рабочие часы или круглосуточно?\n\nПримеры работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Нужна поддержка четырёх сайтов на WordPress в течение 22 дней: обновления, защита и быстрое восстановление после атак. Начну с аудита каждого сайта: плагины, темы, версия PHP, доступы и наличие бэкапов. За первые 2–3 дня закрою критичные уязвимости, настрою регулярные резервные копии и проверю, что восстановление из них действительно работает. Дальше — плановые обновления с копией перед каждым шагом, мониторинг доступности и готовый план действий при атаке: изоляция, очистка или откат из бэкапа. Сроки по каждому сайту зафиксирую после аудита. Ответьте, пожалуйста, на два вопроса: какой у сайтов хостинг и есть ли сейчас актуальные бэкапы? Какое время реакции на инцидент вам нужно: в рабочие часы или круглосуточно?\n\nПримеры работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Какой хостинг используется для сайтов и есть ли сейчас актуальные резервные копии?",
+    "Какое время реакции на инцидент вам нужно: в рабочие часы или круглосуточно?",
+    "Какие именно сайты и сколько у них страниц, плагинов и тем, которые нужно поддерживать?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
+  "id": "telegram:FreelancehuntProjects/910921",
+  "source": "telegram",
+  "url": "https://t.me/FreelancehuntProjects/910921",
+  "title": "Разработка программы автоматизации бронирования на сайте",
+  "description": "Разработка программы автоматизации бронирования на сайте\n💰\n 1500 UAH\n🛠\n#python\nИщу опытного Python-разработчика для создания программы автоматизации бронирования падел-кортов на сайте Alba Play (Bodo Golfsenter, Норвегия).\nСуть проекта:\nМне нужна программа для Windows, которую я буду запускать вручную, когда потребуется зарезервировать определённое время игры.\nВ программе…",
+  "budget": null,
+  "budget_min": null,
+  "currency": null,
+  "posted_at": "2026-11-28T14:20:02+00:00",
+  "lang": "ru",
+  "project_type": null,
+  "direct": true,
+  "topics": [
+   "booking",
+   "automation"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "booking",
+   "score": 5,
+   "summary_ru": "Нужна Windows-программа на Python, которую заказчик будет запускать вручную, чтобы автоматически бронировать падел-корты на сайте Alba Play (Bodo Golfsenter, Норвегия). Бюджет 1500 UAH, описание обрывается, поэтому детали требуют уточнения.",
+   "reply": "Вам нужна Windows-программа на Python, которая по запуску бронирует падел-корт на Alba Play на нужное время. Сначала я изучу, как устроено бронирование на сайте: вход в аккаунт, выбор корта и слота, подтверждение. Затем сделаю простой интерфейс с выбором даты, времени и корта и соберу всё в .exe, чтобы программа запускалась без установки Python. Ориентировочный срок на рабочую версию с проверкой на реальном сайте: 2–3 дня.\n\nМне нужно уточнить два момента: бронирование включает оплату внутри сайта или достаточно занять слот, и есть ли на сайте капча или другие ограничения для автоматического входа? Оплату могу принять в USDT (TRC20 / TON) или другим удобным способом.\n\nПримеры работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужна Windows-программа на Python, которая по запуску бронирует падел-корт на Alba Play на нужное время. Сначала я изучу, как устроено бронирование на сайте: вход в аккаунт, выбор корта и слота, подтверждение. Затем сделаю простой интерфейс с выбором даты, времени и корта и соберу всё в .exe, чтобы программа запускалась без установки Python. Ориентировочный срок на рабочую версию с проверкой на реальном сайте: 2–3 дня.\n\nМне нужно уточнить два момента: бронирование включает оплату внутри сайта или достаточно занять слот, и есть ли на сайте капча или другие ограничения для автоматического входа? Оплату могу принять в USDT (TRC20 / TON) или другим удобным способом.\n\nПримеры работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Бронирование включает оплату на сайте или достаточно занять слот?",
+    "Есть ли на сайте капча или другие ограничения для автоматического входа?",
+    "Какие параметры нужно задавать в программе: дата, время, корт, количество повторов?"
+   ]
+  },
+  "found_at": "2026-11-28T14:56:00+00:00"
+ },
+ {
   "id": "freelancer:40840159",
   "source": "freelancer",
   "url": "https://www.freelancer.com/projects/web-design/Local-Service-Business-Website-Build",
@@ -14861,312 +15171,5 @@
    ]
   },
   "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837334",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/web-development/Online-Store-Development-for-Physical",
-  "title": "Online Store Development for Physical Products",
-  "description": "I'm looking for an experienced developer to create an online store specifically for selling physical products. The store should be user-friendly and feature-rich to enhance the shopping experience.\n\nKey requirements include:\n- Product search and filters\n- Online payments\n- Customer accounts and order tracking\n- Delivery options for both shipping and local pickup\n\nIdeal Skills and Experience:\n- Proven experience in developing e-commerce websites\n- Strong knowledge of payment gateways and secure online transactions\n- Ability to implement comprehensive product search and filtering systems\n- Experience with customer account management and order tracking systems\n- Familiarity with setting up both shipping and local pickup options",
-  "budget": 750.0,
-  "budget_min": 250.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:04:27+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "shop",
-   "score": 5,
-   "summary_ru": "Заказчик ищет разработчика для интернет-магазина физических товаров с поиском и фильтрами, личными кабинетами с отслеживанием заказов и вариантами доставки, включая самовывоз. Бюджет 750 USD, требования объёмные для такой суммы.",
-   "reply": "You need a store for physical goods with search and filters, customer accounts with order tracking, and both shipping and local pickup. I would build it on a modern stack and use AI-assisted development to move quickly on the catalog, filtering, and account flows, then add delivery options as a separate configurable module so pickup and shipping can be managed independently. A realistic first version with the core features would take about 3 to 4 weeks, with a staging build for your review partway through.\n\nTwo questions: Do you already have a product catalog (CSV or an existing system) that needs to be imported? And for shipping, do you need live carrier rates or flat rules by region?\n\nYou can see live demos of my work here: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен магазин физических товаров с поиском и фильтрами, личными кабинетами с отслеживанием заказов и двумя вариантами доставки: курьерской и самовывозом. Я бы сделал его на современном стеке и использовал ИИ-ассистентов в разработке, чтобы быстро собрать каталог, фильтры и логику аккаунтов. Доставку вынес бы в отдельный настраиваемый модуль, чтобы самовывоз и отправка управлялись независимо. Реалистичный первый вариант с основными функциями займёт около 3–4 недель, а промежуточную тестовую версию вы сможете посмотреть на полпути.\n\nДва вопроса: есть ли у вас уже каталог товаров (CSV или существующая система), который нужно импортировать? И для доставки нужны расчёты перевозчиков в реальном времени или фиксированные тарифы по регионам?\n\nЖивые демо моих работ здесь: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Есть ли у вас уже каталог товаров (CSV или существующая система), который нужно импортировать?",
-    "Для доставки нужны расчёты перевозчиков в реальном времени или фиксированные тарифы по регионам?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837321",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/api-integration/Bet-Style-Sports-Betting-Platform",
-  "title": "Bet365-Style Sports Betting Platform",
-  "description": "I’m ready to build the first release of a Bet365-inspired website focused solely on sports betting with real-time odds. At launch I need football, basketball, tennis and cricket fully covered, and the odds and live scores must flow in automatically from a reputable sports-data provider rather than being entered by hand.\n\nThe core work involves:\n\n• Integrating an API that delivers continuous odds and match updates for those four sports. \n• Designing a clean, mobile-friendly interface that mirrors the smooth in-play experience users expect. \n• Implementing secure account creation, wallet management and common payment gateways. \n• Providing an admin panel where I can monitor bets, manage users and view live liabilities.\n\nCode quality, data accuracy and site responsiveness are top priorities. If you have previous experience building similar gambling platforms and can demonstrate integrations with live-data feeds, I’d like to see it. Let’s discuss which API, tech stack and deployment pipeline you recommend so we can move quickly toward a rock-solid MVP.",
-  "budget": 1500.0,
-  "budget_min": 750.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:01:22+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "crm",
-   "api_integration",
-   "mvp"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "mvp",
-   "score": 3,
-   "summary_ru": "Заказчик хочет сделать MVP букмекерской платформы в стиле Bet365 для футбола, баскетбола, тенниса и крикета с live-коэффициентами из спортивного API, адаптивным интерфейсом, кошельком, платёжными шлюзами и админ-панелью. Бюджет 1500 USD явно не покрывает такой объём.",
-   "reply": "You're looking for a sports betting MVP covering football, basketball, tennis and cricket, with odds and live scores pulled automatically from a sports-data API, a mobile-friendly in-play interface, and an admin panel for bets, users and liabilities. I'd build it on a modern stack with a clear split between the feed-ingestion layer, the odds and bet service, and the frontend, so live updates stay reliable. For the first release I'd focus on the feed integration, the betting flow and the admin panel, and keep wallet logic minimal until the scope is confirmed. A realistic first phase is about 3–4 weeks; the full scope with wallet and payments would need more time and budget.\n\nTwo questions: Which jurisdiction will you operate in, since it determines the wallet and compliance requirements? And have you chosen a data provider yet? Their subscription is usually separate from the project budget.\n\nYou can see live demos here: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен MVP букмекерской платформы с футболом, баскетболом, теннисом и крикетом, где коэффициенты и live-счёт автоматически поступают из спортивного API, есть адаптивный интерфейс для ставок в лайве и админ-панель для ставок, пользователей и лайабилити. Я бы строил это на современном стеке с чётким разделением на слой приёма данных, сервис коэффициентов и ставок и фронтенд, чтобы live-обновления оставались надёжными. Для первого релиза я бы сосредоточился на интеграции с данными, потоке ставок и админ-панели, а логику кошелька оставил минимальной, пока не согласован объём. Реалистичный срок первого этапа — около 3–4 недель; полный объём с кошельком и платежами потребует больше времени и бюджета.\n\nДва вопроса: в какой юрисдикции вы планируете работать, так как от этого зависят требования к кошельку и соответствию нормативам? И выбран ли уже провайдер данных? Его подписка обычно оплачивается отдельно от бюджета проекта.\n\nЖивые демо можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "В какой юрисдикции планируется работа платформы? От этого зависят требования к кошельку и соответствию законодательству.",
-    "Выбран ли уже провайдер спортивных данных? Его подписка обычно оплачивается отдельно от бюджета проекта."
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837320",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/full-stack-development/Full-Stack-Freelance-Platform",
-  "title": "Full-Stack Freelance Platform Development -- 2",
-  "description": "I need a modern, responsive web application built with React.js + TypeScript on the front end and Node.js + Express.js on the back end, tied to either PostgreSQL, MySQL, or MongoDB—whichever you prefer and can justify. \n\nThe core idea is simple: a place “for earning” where people engage in freelancing focused on Web, app, and software development services. The platform must therefore support account creation, secure authentication, protected routes, and the usual CRUD flows for posting jobs, bidding, messaging, and managing profiles. Expect additional needs such as media or file uploads (e.g., portfolios, briefs) and solid error handling throughout.\n\nWhat I expect from you \n• Component-based UI with clean state management and full mobile responsiveness \n• Well-structured REST APIs that expose every critical function \n• Role-based access so only authorised users hit protected areas \n• Complete environment setup with clear, developer-friendly documentation \n• One-click (or as close as possible) deployment to a mainstream host—Vercel, Render, AWS, or a comparable alternative\n\nWhen you reply, please share: \n1. Links to at least two similar full-stack projects you’ve shipped \n2. Your estimated timeline with key milestones \n3. Your cost breakdown \n\nI’m ready to move forward as soon as we align on scope and schedule.",
-  "budget": 1250.0,
-  "budget_min": 750.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T15:59:02+00:00",
-  "lang": "en",
-  "project_type": "hourly",
-  "direct": false,
-  "topics": [
-   "api_integration",
-   "saas"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "saas",
-   "score": 2,
-   "summary_ru": "Заказчик хочет создать фриланс-платформу для веб-, мобильной и software-разработки на React + TypeScript, Node.js/Express и одной из баз данных (PostgreSQL, MySQL или MongoDB). Нужны аутентификация, роли, CRUD для вакансий, откликов, сообщений и профилей, загрузка файлов, документация и деплой. Бюджет 1250 INR очень мал для такого объёма.",
-   "reply": "You're looking to build a freelancing platform for web, app, and software work: a React + TypeScript front end, an Express API, and a database of your choice, with secure auth, role-based access, jobs, bids, messaging, profiles, file uploads, documentation, and deployment. I'd start with the data model and auth, then build the job and bid flows, messaging, and uploads, and finish with docs and deployment to Render or Vercel. With a modern stack and AI-assisted development, I can move fast. A realistic first milestone (auth, jobs, and bidding) is about one to two weeks, and the full scope depends on how deep messaging and file handling need to go. Since the budget is tight for this scope, I'd suggest starting with a focused MVP and expanding from there. Two questions: Do you need real-time messaging (WebSockets) or is polling enough? Do you have a database preference, or should I choose and justify one?\n\nFor live demos of my work, see https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вы хотите создать фриланс-платформу для веб-, мобильной и software-разработки: фронтенд на React + TypeScript, API на Express, база данных на ваш выбор, с безопасной аутентификацией, ролевым доступом, вакансиями, откликами, сообщениями, профилями, загрузкой файлов, документацией и деплоем. Я бы начал с модели данных и аутентификации, затем сделал бы потоки вакансий и откликов, сообщения и загрузку файлов, а в конце добавил бы документацию и деплой на Render или Vercel. Благодаря современному стеку и разработке с помощью ИИ-ассистентов я могу работать быстро. Реалистичный первый этап (аутентификация, вакансии и отклики) занимает примерно одну-две недели, а полный объём зависит от того, насколько глубоко нужны сообщения и работа с файлами. Поскольку бюджет для такого объёма ограничен, я предлагаю начать с сфокусированного MVP и расширять его дальше. Два вопроса: нужны ли сообщения в реальном времени (WebSockets) или достаточно опроса сервера? Есть ли предпочтение по базе данных или её выбор стоит оставить мне с обоснованием?\n\nЖивые демо моих работ смотрите здесь: https://grachoffprod.github.io/portfolio/\n\nЯков",
-   "questions": [
-    "Нужны ли сообщения в реальном времени (WebSockets) или достаточно периодического обновления?",
-    "Есть ли предпочтение по базе данных (PostgreSQL, MySQL, MongoDB) или выбрать и обосновать её должен разработчик?",
-    "Какие функции входят в первый релиз, а какие можно отложить на следующие этапы при текущем бюджете?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837318",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/product-management/Commerce-Product-Management",
-  "title": "E-Commerce Product Management",
-  "description": "I need help adding , updating products , listing on Meesho and Flipkart stores. \n\nTasks include:\n- Adding and updating product photos, titles, and descriptions\n- Adjusting prices, stock levels, and product options\n- Organizing categories, tags, and search keywords\n\nIdeal skills and experience:\n- Experience with Meesho and Flipkart\n- Strong attention to detail\n- Proficient in product data management\n- Good organizational skills\n\nORDERS GROWTH",
-  "budget": 37500.0,
-  "budget_min": 12500.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T15:58:08+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "shop",
-   "score": 2,
-   "summary_ru": "Клиент ищет исполнителя для ручного ведения товарных карточек на маркетплейсах Meesho и Flipkart: загрузка фото, описаний, цен, остатков и категорий. Это операционная работа с данными, а не разработка, и в требованиях указан опыт работы с этими площадками.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли разовая загрузка каталога или постоянная поддержка карточек?",
-    "Есть ли возможность автоматизировать обновление цен и остатков через API площадок или выгрузку из таблиц?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "flru:5530677",
-  "source": "flru",
-  "url": "https://www.fl.ru/projects/5530677/lending-s-ii-dizaynom.html",
-  "title": "Лендинг с ИИ дизайном",
-  "description": "Создать красивый лендинг (ИИ типа Lovable) для продажи услуг по настройке яндекс директ. Есть полное ТЗ (промпт) - прикрепил.",
-  "budget": 1800.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "Thu, 26 Nov 2026 16:36:45 GMT",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "landing"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "landing",
-   "score": 5,
-   "summary_ru": "Нужно создать красивый лендинг для продажи услуг по настройке Яндекс Директ, используя ИИ-подход (вроде Lovable). Полное ТЗ в виде промпта уже есть. Бюджет небольшой, 1800 ₽.",
-   "reply": "Вижу задачу: лендинг для продажи услуг по настройке Яндекс Директ, а структуру и дизайн берём из вашего промпта-ТЗ. Сделаю адаптивную одностраничную версию на современном стеке с помощью ИИ-ассистентов, поэтому сборка идёт быстро. Ориентировочно 2–3 рабочих дня на первую версию и одну итерацию правок. Блоки оффера, кейсов, FAQ и формы заявки реализую строго по ТЗ, без лишних функций. Чтобы оценить объём точнее, уточню:\n1. Куда отправлять заявки из формы: в Telegram, на почту или в CRM?\n2. Есть ли готовые тексты, фото и логотип или их нужно подготовить?\n\nПосмотреть живые демо можно в портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вижу задачу: лендинг для продажи услуг по настройке Яндекс Директ, а структуру и дизайн берём из вашего промпта-ТЗ. Сделаю адаптивную одностраничную версию на современном стеке с помощью ИИ-ассистентов, поэтому сборка идёт быстро. Ориентировочно 2–3 рабочих дня на первую версию и одну итерацию правок. Блоки оффера, кейсов, FAQ и формы заявки реализую строго по ТЗ, без лишних функций. Чтобы оценить объём точнее, уточню:\n1. Куда отправлять заявки из формы: в Telegram, на почту или в CRM?\n2. Есть ли готовые тексты, фото и логотип или их нужно подготовить?\n\nПосмотреть живые демо можно в портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Куда отправлять заявки из формы: в Telegram, на почту или в CRM?",
-    "Есть ли готовые тексты, фото и логотип или их нужно подготовить?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "kwork:3275781",
-  "source": "kwork",
-  "url": "https://kwork.ru/projects/3275781",
-  "title": "HTML5-листалка из PDF (150 стр., 279 МБ → 40–70 МБ)",
-  "description": "Задача: оптимизировать PDF (150 стр. + обложка, ~279 МБ) до 40–70 МБ и установить на сайт guitarworld-kaluga.ru как адаптивную HTML5-листалку (flipbook). \nТребования: \nДаунсэмплинг изображений до 120–150 DPI, удаление метаданных, без потери читаемости текста и качества фото. \nРеалистичное перелистывание, свайпы на смартфонах (iOS/Android). \nLazy loading — книга не должна зависать на мобильных. \nПредпочтительно локальный плагин (DearFlip / dFlip / Real3D Flipbook), файл на нашем хостинге. \nФункционал: зум, полноэкранный режим, опционально скачивание PDF, работа оглавления (если есть гиперссылки). \nБез водяных знаков, без Flash, только HTML5/WebGL. \nЕсли облачный сервис — аккаунт на почту заказчика, без лимитов по времени/просмотрам. \nПорядок работ: \nТест на 10 страницах — согласование качества и скорости. \nОбработка всего файла и установка на сайт. \nПроверка на ПК и смартфоне. \nПередача доступов, файлов плагина, инструкции по замене PDF. \nCMS: [указать или «стандартная, доступ к админке предоставлю»]. \nОбязательно ответьте в отклике: \nКакими инструментами оптимизируете PDF на 279 МБ? (конкретика) \nКакой плагин/сервис предложите и почему? \nБудет ли lazy loading? \nПришлите 1–2 ссылки на работы с тяжёлыми PDF, быстро открывающимися на мобильном. \nОтклики без ответов на эти вопросы или с шаблонными фразами не рассматриваются.",
-  "budget": 3000.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "2026-11-26 19:42:57",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "crm"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "crm",
-   "score": 5,
-   "summary_ru": "Нужно сжать PDF на 150 страниц (279 МБ) до 40–70 МБ и встроить его на сайт guitarworld-kaluga.ru как адаптивную HTML5-листалку с перелистыванием, свайпами и зумом. Бюджет небольшой, а работа состоит из обработки файла и интеграции плагина.",
-   "reply": "Нужно сжать PDF на 150 страниц (279 МБ) до 40–70 МБ и вывести его на сайт guitarworld-kaluga.ru как адаптивную листалку с реалистичным перелистыванием, свайпами и зумом. Сначала пересожму изображения через Ghostscript до 120–150 DPI, метаданные уберу через exiftool и qpdf, а читаемость текста и качество фото проверю на выборке страниц. Для листалки предлагаю dFlip: он работает локально на HTML5, без Flash, поддерживает свайпы и зум. Ленивую подгрузку страниц сделаю и проверю на тестовых 10 страницах с замером на смартфоне. Тест займёт около дня, обработка всего файла и установка на сайт ещё 2–3 дня. Есть ли у вас оглавление с гиперссылками и какая CMS стоит на сайте?\n\nПример работ: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Нужно сжать PDF на 150 страниц (279 МБ) до 40–70 МБ и вывести его на сайт guitarworld-kaluga.ru как адаптивную листалку с реалистичным перелистыванием, свайпами и зумом. Сначала пересожму изображения через Ghostscript до 120–150 DPI, метаданные уберу через exiftool и qpdf, а читаемость текста и качество фото проверю на выборке страниц. Для листалки предлагаю dFlip: он работает локально на HTML5, без Flash, поддерживает свайпы и зум. Ленивую подгрузку страниц сделаю и проверю на тестовых 10 страницах с замером на смартфоне. Тест займёт около дня, обработка всего файла и установка на сайт ещё 2–3 дня. Есть ли у вас оглавление с гиперссылками и какая CMS стоит на сайте?\n\nПример работ: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Какая CMS стоит на сайте guitarworld-kaluga.ru и есть ли доступ к админке или к файлам для установки плагина?",
-    "Есть ли в PDF оглавление с гиперссылками, которое нужно сохранить в листалке?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "kwork:3262922",
-  "source": "kwork",
-  "url": "https://kwork.ru/projects/3262922",
-  "title": "Создать Магазин приложений типа rustore.ru",
-  "description": "БЕЗ описания ЧТО сделаете И ЗА сколько-ИГНОР.Зачем нужен \nПлатформа решает несколько задач: \n* даёт пользователям доступ к приложениям, в том числе к тем, которых нет в зарубежных сторах (например, к банковским и государственным сервисам); \n* служит альтернативным каналом дистрибуции для разработчиков; \n* поддерживает российские платёжные инструменты — можно оплачивать подписки и покупки внутри приложений с российских карт. \nпредставлено свыше 100 тысяч приложений. Среди них: \n* мобильные банки («СберБанк Онлайн», «ВТБ Онлайн» и др.); \n* государственные сервисы («Госуслуги», «Мой налог», «Госключ» и т. п.); \n* маркетплейсы и сервисы доставки (Ozon, Wildberries, «Самокат» и др.); \n* соцсети и развлекательные сервисы («ВКонтакте», «Одноклассники», онлайн‑кинотеатры); \n* игры и утилиты \nОсновные функции для пользователей \nПоиск, скачивание и обновление приложений.** Можно искать по категориям или через строку поиска, устанавливать и обновлять софт. \n Платежи и подписки. Поддерживаются локальные способы оплаты, есть возможность привязки карты. \nПодборки и рекомендации. В разделе «Интересное» — редакционные подборки, новинки и популярное. \nАвторизация.Можно войти через VK ID, Sber ID, Tinkoff ID или Yandex ID либо пользоваться магазином без аккаунта (если не нужны платные покупки). \nВозможности для разработчиков",
-  "budget": 500.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "2026-11-26 19:40:17",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "api_integration",
-   "score": 2,
-   "summary_ru": "Заказчик хочет создать магазин приложений по образцу RuStore с каталогом, поиском, подборками, авторизацией через VK ID, Sber ID, Tinkoff ID и Yandex ID и возможностями для разработчиков. Описание большое и похоже на описание готового сервиса, а бюджет 500 ₽ несоизмеримо мал.",
-   "reply": "Вижу задачу так: нужен магазин приложений по образцу RuStore с каталогом, поиском по категориям, подборками и личным кабинетом разработчика для загрузки и обновления приложений. Бюджета 500 ₽ хватит только на небольшой пилот, поэтому предлагаю сначала выделить MVP: каталог, поиск, страницу приложения и загрузку версий. Подключение внешних ID-провайдеров и платёжный модуль можно вынести во второй этап. Работаю на современном стеке с ИИ-ассистентами, поэтому MVP такого объёма реально сделать примерно за 2–4 недели, точнее скажу после уточнения задачи.\n\nКакие функции должны войти в первый этап и готовы ли вы обсудить бюджет под выбранный объём?\n\nДемо моих работ: https://grachoffprod.github.io/portfolio/\nYakov",
-   "reply_ru": "Вижу задачу так: нужен магазин приложений по образцу RuStore с каталогом, поиском по категориям, подборками и личным кабинетом разработчика для загрузки и обновления приложений. Бюджета 500 ₽ хватит только на небольшой пилот, поэтому предлагаю сначала выделить MVP: каталог, поиск, страницу приложения и загрузку версий. Подключение внешних ID-провайдеров и платёжный модуль можно вынести во второй этап. Работаю на современном стеке с ИИ-ассистентами, поэтому MVP такого объёма реально сделать примерно за 2–4 недели, точнее скажу после уточнения задачи.\n\nКакие функции должны войти в первый этап и готовы ли вы обсудить бюджет под выбранный объём?\n\nДемо моих работ: https://grachoffprod.github.io/portfolio/\nYakov",
-   "questions": [
-    "Какие функции должны войти в первый этап: только каталог и загрузка приложений или также авторизация и подборки?",
-    "Готовы ли вы обсудить бюджет под выбранный объём работ, так как 500 ₽ покрывают только небольшой пилот?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "kwork:3258367",
-  "source": "kwork",
-  "url": "https://kwork.ru/projects/3258367",
-  "title": "Создать видеомедиаплатфорформа",
-  "description": "Без описания и цены предложения в корзину. Видеомедиаплатформа — это онлайн‑сервис, где пользователи могут размещать, просматривать, делиться и иногда монетизировать видеоконтент. Это одновременно и хранилище видео, и инструмент доставки контента зрителю, и (часто) среда для взаимодействия — с комментариями, подписками, рекомендациями и т. д.",
-  "budget": 500.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "2026-11-26 19:39:53",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "shop",
-   "score": 2,
-   "summary_ru": "Заказчик хочет создать видеомедиаплатформу: сервис для загрузки, просмотра и распространения видео с возможностью монетизации, комментариями, подписками и рекомендациями. Описание расплывчатое, а бюджет в 500 ₽ far меньше объёма такой работы.",
-   "reply": "Вы хотите сделать видеоплатформу, где пользователи загружают, смотрят и делятся роликами, с комментариями и подписками. Для старта я бы выделил MVP: загрузку и хранение видео в облачном хранилище, плеер, страницы каналов, комментарии и простую ленту. Монетизацию и рекомендации лучше вынести во второй этап. Базовая версия займёт около 3–4 недель. Бюджет 500 ₽ покроет только небольшой этап, поэтому сначала стоит согласовать объём работ. Какие функции критичны для первого релиза? И какой примерно объём видео и аудитория вы ожидаете? Работы с живыми демо можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\nYakov",
-   "reply_ru": "Вы хотите сделать видеоплатформу, где пользователи загружают, смотрят и делятся роликами, с комментариями и подписками. Для старта я бы выделил MVP: загрузку и хранение видео в облачном хранилище, плеер, страницы каналов, комментарии и простую ленту. Монетизацию и рекомендации лучше вынести во второй этап. Базовая версия займёт около 3–4 недель. Бюджет 500 ₽ покроет только небольшой этап, поэтому сначала стоит согласовать объём работ. Какие функции критичны для первого релиза? И какой примерно объём видео и аудитория вы ожидаете? Работы с живыми демо можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\nYakov",
-   "questions": [
-    "Какие функции критичны для первого релиза: загрузка видео, комментарии, подписки, рекомендации?",
-    "Какой примерно объём видео и количество пользователей вы ожидаете на старте?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "kwork:3210602",
-  "source": "kwork",
-  "url": "https://kwork.ru/projects/3210602",
-  "title": "Создать мессенджер с публикацией в Google Play",
-  "description": "БЕЗ описания ЧТО сделаете И ЗА сколько-ИГНОР. \nПримерный функционал: \n- Регистрацию и авторизацию пользователей. \n- Личные и групповые чаты. \n- Отправку текста, изображений, документов, голосовых сообщений и видео. \n- Push-уведомления. \n- Поиск пользователей и переписок. \n- Статусы сообщений (отправлено, доставлено, прочитано). \n- Создание каналов и сообществ. \n- Административную панель для управления пользователями и модерации. \n- Приложения для Android и iOS, а также веб-версию. \nДополнительно можно реализовать: \n- Аудио- и видеозвонки. \n- Сквозное шифрование сообщений. \n- Облачное хранение файлов. \n- Ботов и API для интеграций. \n- Монетизацию (подписки, премиум-функции). \n- Стикеры, реакции, истории и другие современные возможности. \nВаши предложения то же рассмотрю.",
-  "budget": 500.0,
-  "budget_min": null,
-  "currency": "RUB",
-  "posted_at": "2026-11-26 19:38:18",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "api_integration",
-   "score": 2,
-   "summary_ru": "Заказчик хочет получить полноценный мессенджер с чатами, медиа, push-уведомлениями, админ-панелью, приложениями для Android и iOS и веб-версией, но указывает бюджет всего 500 ₽.",
-   "reply": "You describe a full messenger: chats, media, push notifications, an admin panel, Android and iOS apps, and a web version. That scope won't fit into 500 RUB, so I suggest starting with an MVP: registration and authorization, personal chats in real time over WebSocket, text and image sending, and a web version. After that, the project can be wrapped as an Android app and prepared for Google Play. The MVP would take roughly 2–3 weeks, and we can estimate the rest once the scope is agreed.\n\nWhat budget can you allocate for the first stage? Do you need a native iOS app, or is a web version plus an Android app enough?\n\nLive demos are in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вы описываете полноценный мессенджер: чаты, медиа, push-уведомления, админ-панель, приложения для Android и iOS и веб-версию. Такой объём не уложится в 500 ₽, поэтому предлагаю начать с MVP: регистрация и авторизация, личные чаты в реальном времени через WebSocket, отправка текста и изображений, веб-версия. Затем проект можно обернуть в Android-приложение и подготовить к публикации в Google Play. MVP займёт ориентировочно 2–3 недели, остальное оценим после согласования объёма.\n\nКакой бюджет вы готовы выделить на первый этап? Нужна ли нативная iOS-версия или достаточно веб-версии и Android-приложения?\n\nЖивые демо смотрите в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Какой бюджет вы готовы выделить на первый этап разработки?",
-    "Нужна ли нативная iOS-версия или достаточно веб-версии и Android-приложения?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837244",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/ai-chatbot/Claude-Chatbot-for-Product-Queries",
-  "title": "Claude Chatbot for Product Queries",
-  "description": "I want to embed a Claude-powered chat widget on my e-commerce site so visitors can instantly ask about any item we sell and get accurate, conversational answers. The bot’s focus is product and delivery questions—no cart or payment handling—so its scope is tightly defined.\n\nHere’s what I need it to do: \n• Load the product list I’ll supply (CSV or Google Sheet) and use it as the single source of truth. \n• From that data, return ingredients, materials, or technical specifications whenever a shopper asks. \n• When customers ask “When will this arrive?” or “Which shipping option is fastest?” the bot should surface delivery choices and ETA rules I’ll provide. \n• Run on Anthropic’s Claude via API, wrapped in either a lightweight Node.js or Python backend, and appear on the site as a floating chat bubble that matches our brand colors. \n• Update itself automatically whenever I replace the spreadsheet, without requiring code changes.\n\nAcceptance criteria \n— Chat widget loads on my staging site and answers at least 95 % of test questions correctly using only the spreadsheet content. \n— Responses stay under Claude’s token limit and never reveal internal prompts or keys. \n— Clear README covering local setup, environment variables, and how to swap in a new product sheet.\n\nIf this sounds straightforward, let’s get it running.",
-  "budget": 25.0,
-  "budget_min": 15.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T15:34:19+00:00",
-  "lang": "en",
-  "project_type": "hourly",
-  "direct": false,
-  "topics": [
-   "shop",
-   "tg_bot",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "api_integration",
-   "score": 4,
-   "summary_ru": "Заказчик хочет встроить на интернет-магазин чат-виджет на базе Claude API, который отвечает на вопросы о товарах (состав, материалы, характеристики) и доставке, используя только данные из таблицы CSV или Google Sheets. Таблица должна обновляться без изменения кода. Бюджет низкий (25 USD), а требование к точности ответов 95% довольно строгое.",
-   "reply": "You want a floating chat bubble on your store that answers product, ingredient, spec, and delivery questions strictly from a spreadsheet you can swap out without code changes. I'd build a small Node.js (or Python) backend that loads the CSV or Google Sheet, passes only the relevant rows to Claude, and uses a system prompt that keeps answers grounded in that data while hiding internal instructions and keys. The widget would be a lightweight script styled with your brand colors. Expect about 3–4 days for a working staging version with a README. Two questions: should the sheet be fetched on every request or cached with a refresh interval, and are the delivery rules in a sheet tab or a separate document?\n\nSee live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вы хотите плавающий чат-виджет в магазине, который отвечает на вопросы о товарах, составе, характеристиках и доставке строго по таблице, которую можно заменить без изменения кода. Я бы сделал небольшой бэкенд на Node.js (или Python), который загружает CSV или Google Sheets, передаёт Claude только релевантные строки и использует системный промпт, чтобы ответы опирались на эти данные, а внутренние инструкции и ключи оставались скрытыми. Виджет будет лёгким скриптом в цветах вашего бренда. Ориентировочный срок — 3–4 дня до рабочей версии на staging вместе с README. Два вопроса: таблицу нужно запрашивать при каждом обращении или кэшировать с интервалом обновления, и правила доставки находятся на отдельном листе таблицы или в отдельном документе?\n\nЖивые демо смотрите в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Таблицу нужно запрашивать при каждом обращении к боту или кэшировать с интервалом обновления (например, раз в 5–10 минут)?",
-    "Правила доставки и сроки (ETA) находятся на отдельном листе таблицы или в отдельном документе?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
  }
 ]
