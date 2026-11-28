@@ -1,5 +1,239 @@
 [
  {
+  "id": "freelancer:40840282",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/flutter/Launch-Web-Portal-Apps-Stores",
+  "title": "Launch Web Portal Apps to Stores",
+  "description": "We are looking for an experienced mobile app developer to wrap our existing responsive web portal (VoIP & telecom management platform) into mobile apps for both iOS and Android, handle developer console configurations, and manage the full submission process until both apps are 100% live in the stores.\n\nPROJECT SCOPE:\n1. App Wrapper Setup:\n - Convert/wrap our responsive web app using Capacitor, Flutter, or React Native WebView shell.\n - Configure splash screen, app icons, status bar styling, safe-area insets, and proper offline/error fallback pages.\n - Ensure smooth navigation, external link handling, and file downloads (PDF/CSV/CDR reports).\n\n2. Developer Accounts & Store Setup:\n - Assist and guide us in setting up our own Apple Developer and Google Play Console accounts (all accounts will be created in our company name).\n - Prepare store listings: app descriptions, metadata, category, privacy policy URL, and store screenshots for all required screen sizes.\n\n3. Google Play 14-Day Testing Requirement:\n - Full management of the Google Play closed testing phase using Testers Community (https://www.testerscommunity.com/) or equivalent tester network.\n - Meet Google's requirement of 14 continuous days of closed testing with 20+ active testers to unlock production release access.\n\n4. Store Approvals & Review Support:\n - Submit both apps for review on the App Store and Google Play Store.\n - Handle any reviewer feedback, technical queries, or revision requests (especially Apple Guideline 4.2 compliance) until full public approval.\n\nPAYMENT TERMS & MILESTONE CONDITION:\n- 100% Milestone-based.\n- Milestone will ONLY be released after BOTH apps are officially approved and publicly live on Google Play and Apple App Store.\n- Please do not bid if you cannot commit to supporting the review process until final publication.\n\nREQUIRED SKILLS:\n- Mobile App Development (iOS & Android)\n- Capacitor / Flutter / React Native\n- App Store & Google Play Console Submission & Review Management\n- Experience with Google Play 14-day closed testing cycles",
+  "budget": 250.0,
+  "budget_min": 30.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T15:50:52+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "saas"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "saas",
+   "score": 4,
+   "summary_ru": "Нужно обернуть существующий адаптивный веб-портал для VoIP и телеком-управления в мобильные приложения для iOS и Android, настроить аккаунты разработчика и провести приложения через ревью до публикации в сторах, включая 14-дневное закрытое тестирование в Google Play. Оплата только по milestone после публикации обоих приложений, бюджет 250 USD.",
+   "reply": "You need your existing responsive VoIP and telecom portal packaged as iOS and Android apps, with store accounts, listings, and review handling covered until both are live. I would wrap it with Capacitor so the web codebase stays shared, and handle the splash screen, icons, safe-area insets, offline fallback, and file downloads for the PDF, CSV, and CDR reports. Store listings and submissions can run in parallel with the 14-day closed test, so I estimate about 3–4 weeks overall, with the test window as the main constraint. The usual risk is Apple Guideline 4.2, so the app needs to offer enough native functionality beyond a website wrapper. Portfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nTwo questions: do you already have 20+ testers lined up, or should that be sourced through Testers Community within the budget? Does the login and billing flow happen fully on the web, since Apple may review that closely?\n\nYakov",
+   "reply_ru": "Вам нужно упаковать существующий адаптивный портал для VoIP и телеком-управления в приложения для iOS и Android, а также взять на себя аккаунты разработчика, карточки в сторах и работу с ревью до публикации обоих приложений. Я бы использовал Capacitor, чтобы сохранить общую кодовую базу с веб-версией, и занялся бы сплэш-экраном, иконками, safe-area, офлайн-страницей ошибок и скачиванием отчётов PDF, CSV и CDR. Подготовку карточек и отправку на ревью можно вести параллельно с 14-дневным закрытым тестированием, поэтому ориентировочный срок — 3–4 недели, и главное ограничение здесь — окно тестирования. Основной риск — Apple Guideline 4.2, поэтому приложению нужна нативная функциональность, а не только обёртка сайта. Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nДва вопроса: уже есть 20+ тестировщиков, или их нужно подобрать через Testers Community в рамках бюджета? Проходят ли логин и оплата полностью в вебе, ведь Apple может пристально это проверять?\n\nYakov",
+   "questions": [
+    "Есть ли у вас уже 20+ тестировщиков для закрытого тестирования в Google Play, или их нужно подобрать через Testers Community в рамках бюджета?",
+    "Проходят ли логин и оплата полностью в вебе? Apple может тщательно проверять такие приложения на соответствие 4.2."
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840283",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/ai-automation/Social-Content-Drafting-Agent",
+  "title": "AI Social Content Drafting Agent",
+  "description": "I want to automate the “blank-page” stage of posting on both Instagram and Facebook while still keeping full control over what finally goes live. The goal is an AI-powered agent that studies the style, voice, and performance history of my existing posts, pulls fresh photos and videos from my Facebook and Instagram libraries, a shared Google Drive, and my website, then assembles complete post drafts—image or video asset, caption, and hashtags—for my review.\n\nScope of work \n• Connect to Meta Graph API, Google Drive API, and my site’s media endpoint so the agent can continually harvest new assets. \n• Analyse past captions, hashtags, and engagement metrics to learn my brand voice. \n• Generate ready-to-publish drafts but stop short of scheduling or publishing; everything must remain in Drafts for my manual approval. \n• Output drafts in a review-friendly format (Meta’s Creator Studio, a Notion database, or Google Sheet—open to suggestions). \n• Provide clean, well-commented code, a brief setup guide, and a quick Loom walkthrough so I can rerun the agent on demand without touching the code.\n\nAcceptance criteria \n1. Each run gathers the latest media from all three sources. \n2. At least five unique draft posts per platform are produced, each with caption (≤2,000 characters) and relevant hashtags (≤30). \n3. No content is published or scheduled automatically; drafts only. \n4. Documentation lets me redeploy the agent on a standard VPS or locally in under 30 minutes.\n\nIf you’ve built similar social-media automations with Python, LangChain, OpenAI, or comparable tools, outline your proposed stack and any prior results when you reply.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T15:49:22+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "automation",
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "automation",
+   "score": 6,
+   "summary_ru": "Клиент хочет AI-агента, который собирает свежие фото и видео из Instagram, Facebook, Google Drive и сайта, изучает стиль его прошлых постов и формирует черновики (медиа, подпись, хэштеги) для ручной проверки без автопубликации. Бюджет 750 USD, объём работ заметный из-за интеграции с Meta API.",
+   "reply": "You want an agent that pulls fresh photos and videos from Instagram, Facebook, Google Drive and your site, learns your voice from past captions and engagement, and leaves complete drafts (asset, caption, hashtags) in a review queue, with nothing published automatically. I'd build it in Python: Meta Graph API and Google Drive API for harvesting, an OpenAI model with few-shot examples from your best-performing posts for captions and hashtags, and Notion or Google Sheets as the review board. Each run is a single command driven by a config file, so you can rerun it without touching code. Estimated timeline: about 2 weeks for the core agent, plus a day for the setup guide and recorded walkthrough. Two things to confirm: do you already have a Meta app with access to Instagram and Page insights, and which review board do you prefer? Portfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужен агент, который забирает свежие фото и видео из Instagram, Facebook, Google Drive и с вашего сайта, изучает ваш стиль по прошлым подписям и показателям вовлечённости и формирует готовые черновики (медиа, подпись, хэштеги) в очереди на проверку, без автоматической публикации. Я бы сделал его на Python: Meta Graph API и Google Drive API для сбора материалов, модель OpenAI с примерами ваших самых успешных постов для подписей и хэштегов, а в качестве доски для проверки Notion или Google Sheets. Каждый запуск выполняется одной командой с конфигурационным файлом, так что перезапускать агента можно без работы с кодом. Ориентировочный срок: около 2 недель на основной агент и ещё день на инструкцию по развёртыванию и записанный видеообзор. Нужно уточнить два момента: есть ли у вас уже приложение Meta с доступом к статистике Instagram и Страницы Facebook и какая доска для проверки вам удобнее? Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Есть ли у вас уже приложение в Meta for Developers с доступом к статистике Instagram и Страницы Facebook, или его нужно будет создавать и проходить проверку?",
+    "Какой инструмент для проверки черновиков вам удобнее: Notion, Google Sheets или Creator Studio?"
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840266",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/android/HRMS-Location-Tracking-Enhancements",
+  "title": "HRMS Location Tracking Enhancements",
+  "description": "I already have an HRMS with a PHP web dashboard and its companion Android APK; both are stable but need stronger, more configurable location-tracking features. Here’s what I’m aiming for:\n\nLive Map \n• I want to display employees’ live positions on a map inside the dashboard, but only for the teams or departments I pick from an admin drop-down. Any group I leave unchecked must stay invisible.\n\nAutomatic Tracking Logic \n• As soon as an employee in a selected team taps “Check In,” the Android app should start pinging GPS at regular intervals (we can agree on the exact interval during development) and stop automatically when the same user checks out. No tracking should run in the background for anyone who is not checked in.\n\nHistory & Routes \n• Every captured point needs to be stored so I can pull a complete route for a given date range and play it back on the map. I still need the quick snapshot of where the user was at Check In and Check Out.\n\nDashboard Changes \n• Add filter controls for department/team selection, a toggle for live view, and a date picker to review past routes. \n• Make sure data seen on the map syncs cleanly with whatever is stored for reports.\n\nAPK Changes \n• Use the newest stable location API that balances accuracy with battery use. \n• Respect Android runtime permissions and fail gracefully if the user revokes them while still checked in.\n\nData Flow \nThe app is already authenticated through our current REST endpoints; you just need to extend them for the new GPS payloads, then read those on the PHP side for display and reporting.\n\nDeliverables \n1. Updated Android source (Studio project) and compiled APK \n2. Modified PHP modules/views and any SQL updates \n3. Brief setup notes so I can deploy on staging and production\n\nI can spin up staging servers and share existing code as soon as we agree on an approach, so let me know any clarifying questions and your estimated turnaround.",
+  "budget": 1500.0,
+  "budget_min": 600.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T15:48:16+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "api_integration",
+   "score": 3,
+   "summary_ru": "Доработка существующей HRMS: живая карта сотрудников по выбранным командам, автоматический GPS-трекинг между Check In и Check Out в Android-приложении, хранение маршрутов и их воспроизведение за выбранный период в PHP-дашборде. Бюджет низкий для объёма работ.",
+   "reply": "You need three things added to your working HRMS: a live map filtered by the teams an admin selects, GPS pings that run only between Check In and Check Out, and stored route history that can be played back for a date range. I'd start with the REST payload extension and the SQL schema for location points, then build the PHP map view with the team filter and date picker, and finally the Android side using the fused location provider, with graceful handling if permissions are revoked mid-shift. Given the scope, I'd split it into two phases: backend and dashboard first, then the APK. You can see live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nWhich features are must-haves for the first phase, given the budget? And do you have a preferred map provider, such as Google Maps or OpenStreetMap?\n\nYakov",
+   "reply_ru": "Нужно добавить три вещи в вашу работающую HRMS: живую карту сотрудников с фильтром по командам, которые выбирает администратор, GPS-пинги только между Check In и Check Out и сохранение истории маршрутов с воспроизведением за выбранный период. Я бы начал с расширения REST-payload и SQL-схемы для точек местоположения, затем сделал бы PHP-представление карты с фильтром по командам и выбором даты, а в конце Android-часть с использованием fused location provider и корректной обработкой отзыва разрешений во время смены. Учитывая объём, я бы разбил работу на два этапа: сначала бэкенд и дашборд, затем APK. Демо живых примеров можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nКакие функции обязательны для первого этапа с учётом бюджета? И есть ли у вас предпочтительный провайдер карт, например Google Maps или OpenStreetMap?\n\nYakov",
+   "questions": [
+    "Какие функции обязательны для первого этапа с учётом бюджета?",
+    "Есть ли предпочтительный провайдер карт, например Google Maps или OpenStreetMap?"
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840261",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/web-development/Multi-Product-Commerce-Site-Build",
+  "title": "Multi-Product E-Commerce Site Build",
+  "description": "I’m ready to launch an online store that can comfortably house a large catalogue of physical products. Shoppers must be able to browse intuitive categories, use a fast predictive search, filter results, and land on clean product pages that clearly show price, variants, shipping options, and—crucially—live stock levels. When an item reaches zero inventory the system must automatically prevent further sales and display an “out of stock” notice.\n\nAt checkout, customers should have the choice to pay by credit or debit card or complete a direct bank transfer. Please set these gateways up end-to-end, including test transactions, currency settings, order confirmation emails, and refund flows.\n\nOn the back end I need an admin dashboard where I can:\n• Add or bulk-upload products, assign them to multiple categories, and manage images and descriptions. \n• Track inventory in real time and receive low-stock alerts. \n• View, filter, and export order data.\n\nThe storefront has to be fully responsive, loading quickly on mobile and desktop, and optimised for search engines out of the box (meta tags, clean URLs, and an XML sitemap). I’m open to whichever modern platform or framework you believe best meets these needs—whether that’s Shopify, WooCommerce, Magento, or another proven solution—as long as it keeps future scaling and maintenance straightforward.\n\nDeliverable: a production-ready e-commerce website deployed on my chosen hosting, complete with sample data so I can verify every workflow from product search through to payment and confirmation emails.",
+  "budget": 1250.0,
+  "budget_min": 750.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T15:27:58+00:00",
+  "lang": "en",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "shop"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "shop",
+   "score": 3,
+   "summary_ru": "Заказчик хочет запустить интернет-магазин с большим каталогом физических товаров: категории, предиктивный поиск, фильтры, страницы товаров с вариантами и остатками, блокировкой продажи при нулевом складе, адаптивный дизайн, SEO и админ-панель с массовой загрузкой товаров, уведомлениями о низком остатке и выгрузкой заказов. Бюджет 1250 INR явно не соответствует объему работ.",
+   "reply": "You need a multi-category online store with predictive search, filters, product pages that show variants and live stock, automatic sales blocking at zero inventory, and an admin panel for bulk product uploads, low-stock alerts and order exports, plus responsive design and SEO basics. I'd build it on a modern stack and use AI-assisted development to move quickly. I would start with the catalog, stock logic and admin panel, since they form the core of the store, then add search, SEO and order emails, and deliver a working version with sample data for you to test every workflow. A realistic timeline for the full scope is about 3–4 weeks. You can see live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nDoes the 1250 INR budget cover the full scope or only a first phase? Roughly how many products do you expect at launch?",
+   "reply_ru": "Вам нужен многокатегорийный интернет-магазин с предиктивным поиском, фильтрами, страницами товаров с вариантами и актуальными остатками, автоматической блокировкой продаж при нулевом складе, а также админ-панелью для массовой загрузки товаров, уведомлений о низком остатке и выгрузки заказов, плюс адаптивный дизайн и базовое SEO. Я бы построил проект на современном стеке и использовал разработку с ИИ-ассистентами, чтобы двигаться быстро. Сначала сделал бы каталог, логику остатков и админ-панель, так как это основа магазина, затем добавил бы поиск, SEO и письма о заказах, и передал бы рабочую версию с тестовыми данными, чтобы вы могли проверить все сценарии. Реалистичный срок для полного объема — около 3–4 недель. Живые демо можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nПокрывает ли бюджет 1250 INR полный объем или только первый этап? Примерно сколько товаров вы ожидаете к запуску?",
+   "questions": [
+    "Бюджет 1250 INR покрывает весь описанный объем работ или только первый этап?",
+    "Примерно сколько товаров планируется загрузить к запуску?"
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840260",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/mechanical-engineering/Motorized-Pet-Product-Furniture-Grade",
+  "title": "Motorized Pet Product in a Furniture-Grade Cabinet",
+  "description": "An independent inventor is developing a patent-pending furniture-grade, semi-automated pet care cabinet. It has a moving mechanism that works by motor or by hand, closed waste handling and built-in storage.\nWe need an experienced mechanical designer to turn our concept into an alpha prototype that we can build. We give you the functions, the main sizes and a few fixed rules. You choose the mechanisms and the detailed design. A beta package (near-production materials and production drawings) is quoted now and contracted only after the alpha passes its tests.\nWe build the prototypes and develop the electronics and firmware ourselves. You design the mechanics and the cabinet, select the motors and actuators, and leave space and mounts for the electronics.\nFull details are shared after you sign an NDA and an IP assignment agreement.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T15:26:35+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "mvp"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "mvp",
+   "score": 1,
+   "summary_ru": "Заказчик ищет механического конструктора для разработки полуавтоматического шкафа-мебели для ухода за питомцами с мотором или ручным приводом и альфа-прототипа. Это инженерная конструкторская работа (механика, CAD, мебельный корпус), а не разработка ПО, поэтому она не соответствует услугам Yakov.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Есть ли в проекте программная часть, которую нужно разработать (например, веб-панель или приложение для управления шкафом)?",
+    "Нужен ли только механический дизайн и прототип, или заказчик ожидает также интеграцию электроники через API или программное управление?"
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840250",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/full-stack-development/Responsive-Web-App-Build",
+  "title": "Responsive Web & App Build -- 2",
+  "description": "I need one seasoned professional or a tightly-knit team that can take my idea from sketches to a live, production-ready experience on the web as well as on Android and iOS. This is a full-stack engagement: you will shape the UI/UX, craft the frontend, wire up the backend, and publish the finished apps to their respective stores while deploying the website on my chosen hosting.\n\nI am expecting a single, consistent look and feel across all platforms, smooth performance, and clean, maintainable code. You should be comfortable working with modern stacks (React, Vue, Flutter, React Native, Swift, Kotlin, Node, Django—whichever you can justify) and able to advise me on the best architecture for scalability and security.\n\nDeliverables I will review:\n\n• Interactive UI/UX prototypes for web, Android, and iOS \n• Fully responsive website connected to its backend/API \n• Android and iOS apps built from the same design language \n• Source code and documentation ready for hand-off and future updates \n• Assistance through testing, deployment, and first release\n\nIf you thrive on owning a project end-to-end, let’s talk timelines, milestones, and any clarifications you need before we start.",
+  "budget": 25.0,
+  "budget_min": 15.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T15:16:54+00:00",
+  "lang": "en",
+  "project_type": "hourly",
+  "direct": false,
+  "topics": [
+   "api_integration",
+   "mvp"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "mvp",
+   "score": 2,
+   "summary_ru": "Клиент ищет команду для полного цикла разработки: UI/UX-прототипы, адаптивный сайт с бэкендом и API, Android- и iOS-приложения с единым дизайном и публикацией в сторах. Бюджет 25 USD явно не соответствует такому объёму работ.",
+   "reply": "You want one design language across a responsive website and Android/iOS apps, taken from sketches through store release. I'd start by turning your sketches into a clickable prototype and a shared set of UI components, then build the responsive web frontend and its API backend on a modern stack so the mobile versions can reuse the same logic and design. Store submission and native-specific work would be scoped separately once we agree on the mobile approach. For a first milestone covering the prototype and the web version, I'd estimate about 2–3 weeks. Could you share your sketches or a feature list for the first release? And would you prefer native apps for each store or a cross-platform app?\n\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вы хотите единый дизайн для адаптивного сайта и приложений под Android и iOS, от наброски до публикации в сторах. Я бы начал с превращения ваших эскизов в кликабельный прототип и общего набора UI-компонентов, затем сделал бы адаптивный фронтенд и бэкенд с API на современном стеке, чтобы мобильные версии могли переиспользовать логику и дизайн. Публикация в сторах и платформенно-специфичные доработки оценивались бы отдельно, после того как мы выберем подход к мобильным приложениям. Для первого этапа, включающего прототип и веб-версию, я оцениваю срок примерно в 2–3 недели. Не могли бы вы прислать эскизы или список функций для первого релиза? И какой вариант вам ближе: нативные приложения для каждого стора или кроссплатформенное приложение?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Есть ли у вас эскизы или список функций для первого релиза?",
+    "Бюджет 25 USD — это на первый этап (прототип и веб-версия) или на весь объём работ?",
+    "Вам нужны нативные приложения под каждый стор или подойдёт кроссплатформенное решение?"
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840233",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/shopify-development/Premium-Shopify-Experience",
+  "title": "Premium Shopify UX/UI Experience",
+  "description": "Project Overview\n\nWe are a UK-based startup developing a new premium consumer brand and are looking for an experienced UX/UI designer and Shopify developer to design and build our e-commerce website.\n\nOur objective is to create a sophisticated, modern, mobile-first website with the visual quality and user experience associated with leading luxury and premium consumer brands.\n\nWe are particularly inspired by the design principles of Apple, Rolex, Bang & Olufsen and RIMOWA.\n\nWe are not looking for a generic Shopify template or a standard e-commerce website.\n\nWe want a distinctive digital experience combining premium branding, elegant product presentation, editorial storytelling and seamless online shopping.\n\nPlease note: Due to the confidential nature of our business, further details about the company, products and specialist website functionality will only be shared with shortlisted applicants following the signing of a Non-Disclosure Agreement (NDA).\n\nWebsite Requirements\n\nThe website will require approximately 25–35 pages/screens, many of which will share reusable templates and components.\n\nThe project will include:\n\n* Premium homepage with cinematic imagery and video.\n* E-commerce product and collection pages.\n* Custom product landing pages.\n* Customer registration and login.\n* Customer account dashboard.\n* Shopping basket and secure checkout.\n* Educational and editorial content sections.\n* Interactive charts and data visualisation.\n* Custom product-related functionality.\n* Contact and customer support pages.\n* Standard legal and policy pages.\n* Newsletter/email capture.\n\nCertain proprietary features will be discussed following NDA execution.\n\nDesign Expectations\n\nWe require a high standard of modern UX/UI design, including:\n\n* Mobile-first design.\n* Minimalist, luxury-inspired visual identity.\n* Excellent typography and spacing.\n* High-quality product presentation.\n* Subtle animations and micro-interactions.\n* Scroll-based storytelling where appropriate.\n* Intuitive navigation.\n* Fast, responsive interfaces.\n* Accessibility best practices.\n* Consistent design systems and reusable components.\n\nThe website should feel premium, refined and contemporary without unnecessary visual clutter.\n\nSEO & AI Search\n\nThe website must be structured for strong technical SEO and AI search discoverability.\n\nRequirements include:\n\n* SEO-friendly site architecture.\n* Semantic HTML and logical heading structure.\n* Structured data/schema markup.\n* Internal linking and breadcrumbs.\n* Mobile performance optimisation.\n* Core Web Vitals considerations.\n* Search-engine-accessible content.\n* Editorial pages designed for long-form educational content.\n\nPreferred Technology\n\nOur preferred platform is Shopify.\n\nWe are open to technical recommendations, but the final website must be easy for our team to manage and update.\n\nDeliverables\n\nWe require:\n\n1. Sitemap review and UX planning.\n2. Wireframes.\n3. High-fidelity Figma designs.\n4. Mobile and desktop responsive designs.\n5. Complete design system.\n6. Fully developed e-commerce website.\n7. Payment and checkout integration.\n8. Technical SEO implementation.\n9. Website testing and optimisation.\n10. Launch assistance.\n11. Full source-file and project handover.\n12. Post-launch bug-fix support.\n\nBudget\n\nWe are an early-stage startup with a carefully managed budget.\n\nOur indicative budget is £4,000–£6,000, depending on experience, quality of work and the agreed scope.\n\nWe prefer fixed-price proposals with milestone payments.\n\nAdvanced custom functionality can be quoted separately once the complete project brief has been shared.\n\nQuestions for Applicants\n\nPlease answer the following:\n\n1. Can you provide three examples of premium e-commerce websites you have personally designed and developed?\n2. Do you handle both UX/UI design and Shopify development yourself?\n3. Can you provide examples of mobile-first designs created in Figma?\n4. Have you developed custom Shopify functionality beyond standard themes and plugins?\n5. What is your approach to website performance, technical SEO and AI search readiness?\n6. What is your estimated price for a premium website of approximately 25–35 pages/screens using reusable templates?\n7. What is your estimated completion timeline?\n8. How many design revisions are included?\n9. Will we receive full ownership of the completed designs, source files and custom code?\n10. Are you willing to sign a mutual NDA before receiving the full project brief?\n\nPlease start your application with the words “Premium Digital Experience” to confirm you have read the requirements.\n\nWe are looking for a reliable, detail-oriented freelancer with excellent design standards who may also be interested in supporting the brand as it grows.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T15:05:40+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "landing",
+   "shop",
+   "api_integration"
+  ],
+  "analysis": null,
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
+  "id": "freelancer:40840227",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/product-research/Shopify-Product-Research-Listing",
+  "title": "Shopify Product Research & Listing",
+  "description": "I need a detail-oriented Shopify specialist to populate my store with new products right away. The catalogue is still blank, so every item will require full research before it can be published. That means locating reliable information online, distilling it into clear benefits-focused copy, sourcing or creating high-quality images, and then entering everything directly into the Shopify admin so each listing goes live error-free.\n\nSpeed is crucial—I’d like to see the first batch live as soon as possible—yet accuracy, engaging language, and an eye for conversion must never slip. You should feel comfortable handling product titles, long and short descriptions, key features, pricing, variant options, and basic on-page SEO fields. If you already use tools such as Google Lens, Canva, or Photoshop to refine photos, even better; the goal is for every listing to look cohesive and professional the moment it hits the storefront.\n\nDeliverables:\n• A mutually agreed number of fully researched and published product listings\n• Compelling, original copy for each item (no copy-paste)\n• High-resolution images correctly sized and optimised\n• Correct pricing, SKU, inventory, and variant data\n• Meta titles and descriptions filled for basic SEO\n• A brief hand-over note summarising the work completed and any next steps\n\nI’m ready to give fast feedback and approvals so we can keep momentum. Let me know how quickly you can begin and how many polished listings you can realistically deliver in the first 24–48 hours.",
+  "budget": 37500.0,
+  "budget_min": 12500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T14:56:18+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "shop"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "shop",
+   "score": 2,
+   "summary_ru": "Клиент ищет специалиста по Shopify, который исследует товары, напишет описания, подберёт или подготовит изображения и заполнит карточки товаров в пустом магазине. Это наполнение контентом и ручной ввод данных, а не разработка, поэтому проект не подходит под услуги.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Нужна ли какая-либо техническая доработка магазина Shopify (тема, приложения, интеграции), или задача только в наполнении каталога?",
+    "Есть ли у вас готовый список товаров и поставщик, или исследование ассортимента входит в объём работ?"
+   ]
+  },
+  "found_at": "2026-11-28T15:52:47+00:00"
+ },
+ {
   "id": "freelancer:40840218",
   "source": "freelancer",
   "url": "https://www.freelancer.com/projects/php/Commerce-Website-for-Physical-Goods-40840218",
@@ -14934,242 +15168,5 @@
    ]
   },
   "found_at": "2026-11-26T17:40:54+00:00"
- },
- {
-  "id": "freelancer:40837410",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/web-development/parkside-cafe",
-  "title": "parkside cafe",
-  "description": "I want to launch a full-service online presence for my restaurant that goes live with a complete website and companion mobile app at the same time. Customers must be able to browse the menu, place both pickup and delivery orders, and pay online with cards or digital wallets right from day one.\n\nBeyond the ordering flow, I also need you to create and hand over a Meta Business / Ads account and a Google AdSense account so I can start running promotions as soon as we open. Please include basic pixel or tag integration on the site and in the app so campaign tracking is ready.\n\nKey deliverables I’m expecting:\n• Responsive restaurant website with secure ordering, menu management, and real-time order dashboard \n• iOS and Android apps that mirror the website’s ordering experience and sync all data \n• Payment gateway setup for online card and wallet transactions only \n• Pickup-or-delivery toggle with address validation for delivery orders \n• Meta Business Suite setup, initial ad account configuration, and pixel installed \n• Google AdSense account creation and code placed on informational pages \n• Admin access and brief hand-off guide so my staff can manage content, orders, and ads\n\nI’m open to the tech stack you prefer—WordPress + WooCommerce, Laravel, React Native, Flutter, or another solid solution—as long as it delivers a smooth user experience and can scale. Let me know the framework you recommend, your timeline, and any similar projects you have shipped.",
-  "budget": 1500.0,
-  "budget_min": 750.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:59:43+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop",
-   "api_integration",
-   "site_template"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "shop",
-   "score": 3,
-   "summary_ru": "Заказчик хочет запустить сайт ресторана и iOS/Android приложения с меню, самовывозом и доставкой, онлайн-оплатой картами и кошельками, а также создать рекламные кабинеты Meta и Google AdSense с пикселем и тегами. Бюджет 1500 USD явно не покрывает такой объём работ.",
-   "reply": "You want a restaurant website plus iOS and Android apps with a menu, pickup and delivery ordering, online payments, and ad accounts ready at launch. Two native apps and a delivery flow are a lot for 1500 USD, so I'd suggest one responsive web app that also installs on phones like an app, with the same ordering flow and a staff dashboard for orders and menu edits. I'd build it on a modern stack, add address validation for delivery, and connect live order updates, then add native apps later if you need them. The core ordering flow would take about 3–4 weeks. The Meta and Google ad accounts should be registered under your business details, and I can install the pixel and AdSense code once they're set up. Roughly how many menu items do you have, and which delivery area do you need to cover?\n\nSee live demos here: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен сайт ресторана и приложения для iOS и Android с меню, самовывозом и доставкой, онлайн-оплатой и готовыми рекламными кабинетами к запуску. Два нативных приложения и логистика доставки за 1500 USD — это много, поэтому я предлагаю один адаптивный веб-сервис, который также можно установить на телефон как приложение. Он будет иметь тот же сценарий заказа и панель для персонала с заказами и редактированием меню. Я бы построил его на современном стеке, добавил проверку адреса для доставки и обновление заказов в реальном времени, а нативные приложения можно сделать позже, если понадобятся. Основной сценарий заказа займёт примерно 3–4 недели. Рекламные кабинеты Meta и Google лучше регистрировать на данные вашего бизнеса; пиксель и код AdSense я смогу установить, как только они будут созданы. Сколько примерно позиций в меню и на какую зону нужна доставка?\n\nПосмотреть живые демо можно здесь: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Сколько примерно позиций в меню и нужны ли модификаторы блюд (размеры, добавки)?",
-    "В каком районе или городе нужна доставка и нужна ли зона доставки с расчётом по расстоянию?",
-    "Готовы ли вы зарегистрировать рекламные кабинеты Meta и Google на данные своего бизнеса, а не на нас?"
-   ]
-  },
-  "found_at": "2026-11-26T17:40:54+00:00"
- },
- {
-  "id": "freelancer:40837391",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/html/Nike-Inspired-Fashion-Commerce-Build",
-  "title": "Nike-Inspired Fashion E-Commerce Build",
-  "description": "I want a slick, Nike-style online store built with pure HTML, CSS and JavaScript. The look has to be clean, modern and fast, with subtle animations that feel premium rather than flashy. \n\nCore pages and sections \n• A striking, scroll-friendly homepage that immediately showcases the brand vibe. \n• A stylish, sticky navigation bar that stays intuitive on desktop, tablet and mobile. \n• Product collection pages focused on sportswear and sneakers, each with interactive galleries (zoom, colour swap, slide-through thumbnails). \n• “Try the Look” blocks where full outfits appear on a model and individual items link straight to their detail pages. \n\nShopping experience \nVisitors need to browse items, view detailed descriptions, then add products to a cart and place an order in a friction-free flow. I’m open to whichever lightweight cart logic you prefer as long as it feels seamless and keeps the tech stack to HTML/CSS/JS. \n\nVisual & performance expectations \nSmooth transitions between sections, micro-animations on buttons or image hovers, and responsive layouts that adapt perfectly from widescreen down to small phones. Code should be clean, well-commented and optimised so pages load quickly even on mobile data.\n\nDeliverables \n- Full front-end source code with clear folder structure \n- Sample product JSON (or similar) ready for easy data swap-out \n- Brief setup/readme so I can run and update the site locally \n\nIf you have recent e-commerce examples—especially sports or fashion—send links so I can gauge fit. Looking forward to seeing how you’d bring this concept to life.",
-  "budget": 250.0,
-  "budget_min": 30.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:44:26+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "shop",
-   "score": 5,
-   "summary_ru": "Заказчик хочет премиальный интернет-магазин спортивной одежды и кроссовок в стиле Nike на чистом HTML, CSS и JS, с интерактивными галереями, блоками «Try the Look», корзиной и JSON-каталогом товаров. Бюджет небольшой для такого объёма, поэтому стоит заранее согласовать приоритеты.",
-   "reply": "You want a premium, Nike-style storefront in plain HTML, CSS and JS: a scroll-driven homepage, a sticky responsive nav, sneaker and sportswear collections with zoomable galleries and colour swaps, \"Try the Look\" outfit blocks linking to product pages, and a lightweight cart with a friction-free order flow. Since there's no framework, I'd build static pages that render from a JSON product catalogue, so you can swap data without touching the markup. Animations would be CSS transitions with IntersectionObserver, kept light so mobile pages load fast. Given the budget, I'd deliver the homepage, one collection page, the product page and the cart first, then polish the rest. Estimated timeline is about a week for the full set. Two questions: how many products and colour variants do you expect at launch, and do you have photos ready or should I use placeholders? You can see live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен премиальный магазин в стиле Nike на чистом HTML, CSS и JS: главная страница с анимациями при прокрутке, адаптивная закреплённая навигация, коллекции кроссовок и спортивной одежды с галереями с зумом и сменой цвета, блоки «Try the Look» со ссылками на карточки товаров и лёгкая корзина с простым процессом заказа. Так как фреймворка нет, я бы сделал статические страницы, которые строятся из JSON-каталога товаров, чтобы данные можно было менять без правки верстки. Анимации выполнил бы через CSS-переходы и IntersectionObserver, оставив их лёгкими, чтобы страницы быстро открывались на мобильном интернете. С учётом бюджета сначала сделал бы главную, одну страницу коллекции, карточку товара и корзину, а потом доработал остальное. Ориентировочный срок на весь объём — около недели. Два вопроса: сколько товаров и вариантов цвета планируется к запуску и есть ли готовые фото или использовать заглушки? Живые демо можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Сколько товаров и вариантов цвета планируется к запуску?",
-    "Есть ли готовые фотографии товаров и образов или использовать заглушки?"
-   ]
-  },
-  "found_at": "2026-11-26T17:40:54+00:00"
- },
- {
-  "id": "telegram:normrabota/9512",
-  "source": "telegram",
-  "url": "https://t.me/normrabota/9512",
-  "title": "Карьеру до сих пор часто представляют в виде лестницы: пришел младшим специалистом, стал старшим, потом руководителем. Хотя по себе замечаю, что двигался вбок чаще, чем вверх. И в итоге этот опыт тоже",
-  "description": "Карьеру до сих пор часто представляют в виде лестницы: пришел младшим специалистом, стал старшим, потом руководителем. Хотя по себе замечаю, что двигался вбок чаще, чем вверх. И в итоге этот опыт тоже оказался полезным.\nОказывается, это уже полноценный тренд. На форуме «Коммерсанта» директор по организационному развитию и автоматизации HR-процессов Т2 Ольга Финоченко рассказала, что линейную карьеру постепенно сменяет портфельная. Это не только движение вверх, но и горизонтальные переходы, смена функций и участие в проектах с другими командами.\nЕщё один тренд: сотрудники хотят лучше понимать, какие возможности для профессионального и карьерного развития есть в компании именно для них. Им важно, чтобы работодатель помог найти подходящее направление с учётом их интересов, опыта и запросов, а не предлагал универсальные решения. Поэтому растёт спрос на профориентационные консультации.\nВ Т2 уже запустили проект карьерного консультирования. Каждый сотрудник может посетить несколько сессий в год. Эксперты помогают разобраться в накопленном опыте и вместе с сотрудником составляют индивидуальный план достижения карьерных целей.\nМне бы такая возможность в свое время пригодилась. В общем, карьера — это не только про должность. Иногда шаг в сторону дает гораздо больше, чем шаг вверх.",
-  "budget": null,
-  "budget_min": null,
-  "currency": null,
-  "posted_at": "2026-11-26T17:00:10+00:00",
-  "lang": "ru",
-  "project_type": null,
-  "direct": true,
-  "topics": [
-   "automation"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "automation",
-   "score": 1,
-   "summary_ru": "Текст статьи или поста о трендах карьерного развития: горизонтальная «портфельная» карьера и карьерное консультирование в компании Т2. Это не запрос на разработку.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Есть ли в этом тексте задача по разработке, которую нужно реализовать?"
-   ]
-  },
-  "found_at": "2026-11-26T17:40:54+00:00"
- },
- {
-  "id": "freelancer:40837380",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/cold-calling/Cold-Caller-Appointment-Setter-Business",
-  "title": "Cold Caller / Appointment Setter - US Business Owners (100% Commission)",
-  "description": "Cold Caller / Appointment Setter - US Business Owners (Remote, 100% Commission)\n\nPaps Automation builds custom AI systems for owner-run service businesses in the US (HVAC, plumbing, electrical). We save owners hours every week on quotes, invoices and scheduling.\n\nWhat you do:\n- Cold call US business owners on their cell, from home.\n- Book a free 30-minute AI Growth Session with one of our specialists. No product pitch, no price talk.\n- Log every call in our CRM. We give you the leads, a US phone number, the dialer, the script and daily feedback.\n\nPay: 100% commission, no base salary. 7% of the setup fee + 7% of the client's first 3 monthly payments on every deal that closes from a meeting you booked. About USD 575 per closed deal. No cap. Not a fit if you need a fixed salary.\n\nSchedule: US Eastern business hours (8 AM to 6 PM ET).\n\nWe need: natural spoken English for US owners, cold calling or appointment setting experience, coachable, resilient with rejection, stable internet and a headset.\n\nTo apply: send us a message here with one line on your cold calling experience, and we will reply with where to send your CV. Short video interview with a role-play, then kickoff and a one-week trial.",
-  "budget": 750.0,
-  "budget_min": 250.0,
-  "currency": "CAD",
-  "posted_at": "2026-11-26T16:33:15+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "crm",
-   "booking",
-   "automation"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "booking",
-   "score": 1,
-   "summary_ru": "Вакансия на удалённую позицию холодного обзвона и назначения встреч для владельцев бизнеса в США. Оплата только комиссионная (100%), без базового оклада. Это не проект разработки.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": []
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837367",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/shopify-development/Shopify-App-developer-40837367",
-  "title": "Shopify App developer",
-  "description": "I need a custom Shopify app that keeps a constant eye on my stock levels and tells me—instantly—when any item is running low or hits zero. The app’s core job is two-fold: (1) fire off low- and out-of-stock alerts, and (2) generate clear, scheduled reports on overall store activity so I can act before problems snowball.\n\nWorkflow I’m after \n• Real-time monitoring of every SKU via the Admin API and webhooks. \n• Adjustable thresholds per product (bulk edit welcomed). \n• Alerts delivered by email first; Slack or in-app notifications are a nice bonus if they’re straightforward to wire up. \n• A lightweight dashboard inside Shopify (Polaris-styled) summarising current low-stock items, recent alert history, and a quick sales / inventory snapshot. \n• Daily and weekly summary reports sent automatically—CSV export optional but appreciated.\n\nTech notes \nA private app is fine; no need for public-app review. Build in Node.js or Ruby—whichever you’re fastest with—and structure it so I can host on Heroku or any standard VPS. Clean, well-commented code is important; I’ll be maintaining it after hand-off.\n\nDeliverables \n• Full source code with README covering setup, environment variables, and deployment. \n• Step-by-step installation guide plus a brief user manual (thresholds, scheduling, adding notification channels). \n• One live demo on my dev store proving alerts and reports work as described.\n\nAcceptance criteria: changing a product’s threshold triggers the correct alert, the dashboard loads error-free in the admin, and scheduled emails land on time. If you know Shopify APIs, webhooks, and Polaris, this should be a straightforward build—let’s get started.",
-  "budget": 8.0,
-  "budget_min": 2.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:26:53+00:00",
-  "lang": "en",
-  "project_type": "hourly",
-  "direct": false,
-  "topics": [
-   "shop",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "api_integration",
-   "score": 3,
-   "summary_ru": "Заказчику нужно приватное приложение для Shopify, которое отслеживает остатки каждого SKU через Admin API и вебхуки, отправляет уведомления о низком запасе и нулевом остатке (email, опционально Slack), показывает дашборд в стиле Polaris и присылает ежедневные и еженедельные отчёты. Бюджет очень низкий для такого объёма работ.",
-   "reply": "You need a private Shopify app that watches stock for every SKU through the Admin API and webhooks, sends low and out-of-stock alerts by email (with Slack optional), adds a Polaris dashboard, and schedules daily and weekly reports. I would build it in Node.js with a small job scheduler and a lightweight database for thresholds and alert history, structured for Heroku or a VPS, with a README and a user manual. A first version with threshold alerts and email could be ready in about a week, and the dashboard and reports would follow in roughly another week. Two questions: how many SKUs and locations does your store have, and should Slack be part of the first milestone?\n\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужно приватное приложение для Shopify, которое отслеживает остатки каждого SKU через Admin API и вебхуки, отправляет уведомления о низком запасе и нулевом остатке по email (Slack опционально), добавляет дашборд в стиле Polaris и планирует ежедневные и еженедельные отчёты. Я бы сделал его на Node.js с простым планировщиком задач и легковесной базой для порогов и истории уведомлений, с расчётом на Heroku или VPS, с README и пользовательской инструкцией. Первую версию с уведомлениями по порогам и email можно сделать примерно за неделю, дашборд и отчёты добавятся примерно ещё за неделю. Два вопроса: сколько у вас SKU и локаций и нужен ли Slack в первом этапе?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Сколько у вас SKU и складских локаций и какой тарифный план Shopify?",
-    "Нужен ли Slack уже в первом этапе или достаточно email-уведомлений?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837357",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/malware-removal/Limpiar-malware-recuperar-WordPress",
-  "title": "Limpiar malware y recuperar WordPress",
-  "description": "he recibido el siguiente ensaje y mi web no funciona:Hola:\nNuestros sistemas de seguridad han detectado contenido malicioso dentro del archivo wp-config.php de tu página web dintelobras.es, que utiliza el gestor de contenido WordPress.\nEste archivo es uno de los más sensibles de la instalación, ya que contiene los datos de conexión a la base de datos (nombre, usuario, contraseña y servidor) y las claves de seguridad y \"salts\" que WordPress emplea para cifrar las sesiones. Al haber quedado expuesto su contenido, un atacante podría conectarse directamente a tu base de datos, crear usuarios administradores, añadir o modificar contenido sin tu autorización, mantener sesiones válidas suplantando a tus usuarios y comprometer los datos de tus visitantes.\nTe escribo para informarte de esta situación y ayudarte a proteger tu sitio lo antes posible. Quiero aclararte que tu página web sigue operativa como siempre, pero te aconsejo que actúes rápido por tu seguridad y la de tus usuarios. Para solucionar esto, te recomiendo realizar las siguientes tareas:\n1. Cambiar la contraseña de la base de datos: modifícala de inmediato desde tu Panel de Control y recuerda actualizar ese mismo cambio en el archivo wp-config.php para que tu web siga funcionando.\n2. Regenerar las claves de seguridad (salts): sustituye los valores de las claves AUTH_KEY, SECURE_AUTH_KEY, LOGGED_IN_KEY, NONCE_KEY y sus correspondientes \"salts\" en wp-config.php. Puedes generar valores nuevos desde https://api.wordpress.org/secret-key/1.1/salt/. Esto invalidará todas las sesiones abiertas, incluidas las del atacante.\n3. Cambiar las contraseñas: modifica la clave de todos los usuarios administradores de WordPress, así como las de tus accesos FTP y del propio Panel de Control.\n4. Revisar los usuarios administradores: elimina todos los usuarios que no reconozcas o que no correspondan a personas de tu confianza.\n5. Actualizar WordPress: instala la última versión disponible del CMS, así como de todos los plugins y temas que tengas activos, ya que una vulnerabilidad en alguno de ellos suele ser la vía por la que se llega a leer este archivo.\n6. Proteger el archivo wp-config.php: comprueba que sus permisos sean restrictivos (640 o 644) y que no sea accesible desde el navegador. También puedes bloquear su acceso desde el archivo .htaccess.\n7. Instalar un plugin especializado en seguridad: puedes utilizar una herramienta de confianza como, por ejemplo, WordFence, y lanzar un análisis completo de archivos.\n8. Revisar el contenido: examina las tablas de tu base de datos y los archivos de tu espacio web (especialmente los ficheros PHP modificados recientemente) para asegurarte de no dejar rastro del malware.\nTe envío este aviso únicamente a título informativo para que puedas tomar las medidas preventivas oportunas y mantener a salvo tu proyecto.\nsegundo:Hola:\nNuestros sistemas de seguridad han detectado un comportamiento anómalo en las visitas a tu hosting dintelobras.es, y creemos que tiene un agujero de seguridad en el código. Hemos detectado, entre otras, estas URL que sospechamos que están infectadas con malware:\n/srv/vhost/dintelobras.es/home/html/wp-config.php\nPara tu información, el WordPress que usas en tu web tiene estos componentes que no están en la última versión. Te recomendamos mantener siempre actualizado el core, los plugin y los temas para evitar potenciales problemas de seguridad:\n********************************************************\n\nWordPress: (Ver: 6.2.2)\nRuta instalación: /html/nuevawebold\n\ncore => wordpress v6.2.2\nplugin => addons-for-elementor v7.7.1\nplugin => contact-form-7 v5.7.7\nplugin => elementor-pro v3.13.2\nplugin => elementor v3.13.4\nplugin => google-site-kit v1.102.0\nplugin => ht-contactform v1.1.6\nplugin => really-simple-ssl v7.0.3\nplugin => theme-demo-import v1.1.1\nplugin => wordpress-seo v20.8\n\n********************************************************\nPor tu seguridad y la de tus usuarios, hemos tomado estas medidas:\n• Renombrar los ficheros con malware. Si un archivo se llamaba, por ejemplo, formulario_web.php ahora se llamará formulario_web.php._malware. Así, minimizamos el daño que pueda hacerte a ti y a tus clientes.\n• Limitar páginas con formularios. Hemos deshabilitado en tu hosting las peticiones http de tipo POST, que son las que utilizan las páginas que contienen un formulario (apartado de contacto, página de alta de clientes, etc.). Ahora, solo se pueden completar los formularios desde direcciones IP de España.\nEl resto de funcionalidades de tu hosting siguen 100% operativas.\nTe recomendamos que actúes porque, aunque tu página web siga funcionando sin formularios ahora, tiene un problema de seguridad que puede comprometer tus datos y los de tus usuarios.\nEs importante que realices las siguientes tareas en el menor tiempo posible:\n• Actualiza y verifica todos los plugins que consideres necesarios para el correcto funcionamiento de tu Web.\n• Revisa el contenido de tu sitio web y asegúrate de no dejar rastro del malware.\n• Adicionalmente te sugiero que, si haces uso de formularios de envío de correo, incluyas códigos captcha para evitar ataques de robots.\nCuando hayas realizado todas las tareas , envíanos un mensaje desde el apartado Contacto de tu Área de Cliente, y restableceremos el uso normal de los formularios de tu web. \ntercer correo:Hola:\nEn relación con tu consulta sobre el estado de dintelobras.es, te informamos de que el incidente detectado corresponde a una infección por malware / inyección de código malicioso en la aplicación alojada.\nDesde el departamento de soporte no realizamos tareas de limpieza, desinfección ni recuperación de sitios web, ya que el mantenimiento y seguridad del contenido alojado corresponde exclusivamente al titular del servicio (o a su equipo técnico/desarrollador). Por tanto, deberás encargarte tú mismo de tomar las medidas oportunas para limpiar y asegurar el alojamiento.\nUna vez hayas llevado a cabo dichas acciones, por favor respóndenos directamente al correo electrónico en el que te informamos de la detección del malware detallando las medidas tomadas. En cuanto recibamos tu respuesta, analizaremos de nuevo el sitio web y, si verificamos que todo está correcto, eliminaremos las restricciones impuestas.",
-  "budget": 250.0,
-  "budget_min": 30.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:15:14+00:00",
-  "lang": "es",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "api_integration",
-   "site_template"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "site_template",
-   "score": 4,
-   "summary_ru": "Клиент получил уведомления о вредоносном коде в wp-config.php и подозрительных файлах на хостинге сайта dintelobras.es на WordPress 6.2.2 с Elementor и несколькими плагинами. Нужно очистить сайт, закрыть уязвимости и обновить компоненты. Бюджет 250 USD.",
-   "reply": "Entiendo que su web dintelobras.es (WordPress 6.2.2 con Elementor Pro y varios plugins) presenta código malicioso en wp-config.php y rutas sospechosas en el hosting. Mi plan: primero una copia de seguridad completa de archivos y base de datos; después revisar wp-config.php, .htaccess, los archivos PHP modificados recientemente y las tablas de la base de datos; eliminar el código inyectado; cambiar credenciales (BD, FTP, salts y contraseñas de administradores); actualizar el core, Elementor, Yoast y el resto de plugins; y terminar con un escaneo final. Calculo unos 2–3 días laborables para la limpieza y una verificación posterior. Puede ver ejemplos de mis proyectos con demos en vivo aquí: https://grachoffprod.github.io/portfolio/",
-   "reply_ru": "Понимаю, что ваш сайт dintelobras.es (WordPress 6.2.2 с Elementor Pro и несколькими плагинами) содержит вредоносный код в wp-config.php и подозрительные пути на хостинге. Мой план: сначала полная резервная копия файлов и базы данных; затем проверка wp-config.php, .htaccess, недавно изменённых PHP-файлов и таблиц базы данных; удаление внедрённого кода; смена учётных данных (БД, FTP, salts и пароли администраторов); обновление ядра, Elementor, Yoast и остальных плагинов; финальное сканирование. Оцениваю очистку и последующую проверку в 2–3 рабочих дня. Примеры моих проектов с живыми демо можно посмотреть здесь: https://grachoffprod.github.io/portfolio/",
-   "questions": [
-    "Есть ли у вас доступ к хостингу (FTP/SSH и панель управления), и можно ли временно создать резервную копию?",
-    "Нужно ли сохранить все текущие плагины и тему, или можно заменить некоторые из них на более безопасные аналоги?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837346",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/full-stack-development/Build-Streaming-Wagering-MVP",
-  "title": "Build Streaming and P2P Wagering MVP",
-  "description": "Looking for a full-stack developer to build the MVP and core platform for ATA Global Entertainment (ABOUT THAT ACTION LLC), combining live pay-per-view (PPV), live TV and on-demand streaming, and 1-on-1 peer-to-peer (P2P) sports wagering.\n\nReference landing page: https://ataglobalentertainment.netlify.app\n\nCore Requirements:\n- Streaming & PPV: Live event streams, PPV access/ticketing, live TV channels, and on-demand video library with user accounts and role-based access.\n- 1-on-1 Peer-to-Peer Sports Betting: User-to-user matchup creation, wager locking/escrow logic, settlement workflows, and automated 3% host fee calculation on net winnings.\n- Visual Identity & UX: Dark-mode UI featuring onyx black backgrounds with electric gold, crimson, and ocean blue accents, mobile-responsive layout, and clean navigation between media and sports wagering modules.\n- Backend & Security: Scalable API, database schema, authentication, payment/wallet architecture, and compliance-ready hooks/moderation controls.\n\nPlease include in your proposal:\n- Relevant experience building streaming/media platforms, real-time apps, or sports/wagering/fintech systems\n- Recommended tech stack and architecture approach\n- Milestone breakdown, estimated timeline, and fixed/milestone budget",
-  "budget": 100000.0,
-  "budget_min": 50000.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:07:25+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "landing",
-   "api_integration",
-   "mvp"
-  ],
-  "analysis": null,
-  "found_at": "2026-11-26T16:43:35+00:00"
- },
- {
-  "id": "freelancer:40837344",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/react-native/One-One-Mobile-App",
-  "title": "One-to-One Mobile App",
-  "description": "I need an application built around a simple idea: every interaction happens strictly between two people. The core concept is clear, yet I’m open about the exact feature mix—whether that turns into private text and photo exchange, voice or video calling, or even appointment-style sessions will depend on what you and I determine is best after an initial technical discussion.\n\nCross-platform delivery is important to me. I expect ready-to-install builds for iOS and Android, with the possibility of adding a lightweight web version if the framework we choose (React Native, Flutter, or a similarly efficient toolset) makes that practical without bloating the schedule.\n\nSecurity, smooth onboarding, and a clean, modern UI are non-negotiable. I also want straightforward deployment and handover so updates remain manageable once the project is complete.\n\nDeliverables\n• Clickable prototype and final UI assets \n• Full source code with clear documentation \n• Backend setup (user auth, real-time or REST APIs, secure data storage) \n• Test flight / APK releases and store-ready builds \n• Post-launch bug-fix window\n\nLet me know your preferred tech stack, estimated timeline, and any questions you need answered before you can lock down scope and milestones.",
-  "budget": 25.0,
-  "budget_min": 15.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T16:06:08+00:00",
-  "lang": "en",
-  "project_type": "hourly",
-  "direct": false,
-  "topics": [
-   "booking",
-   "api_integration",
-   "mvp"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "mvp",
-   "score": 2,
-   "summary_ru": "Заказчик хочет мобильное приложение для приватного общения один на один (текст, фото, возможно звонки или запись) с версиями для iOS и Android, авторизацией, безопасным хранением данных и публикацией в сторах. Бюджет 25 USD явно не соответствует объёму работ, а функционал пока не определён.",
-   "reply": "You're describing a private, two-person app with iOS and Android builds, secure auth, and store-ready releases. Since the feature set is still open, I'd start with a short discovery step to lock down one core flow, such as private chat with photos, then build it in React Native or Flutter with a lightweight backend so you get a testable build early. With modern tooling and AI-assisted development, a first working MVP with TestFlight and APK builds could be ready in about 2–3 weeks, with store submission after that. At 25 USD, the budget would only cover a very small first milestone, so we'd need to agree on what that includes. Which features are must-haves for launch, and do you already have a preferred backend or hosting?\n\nSee live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вы описываете приватное приложение для общения двух людей с сборками под iOS и Android, безопасной авторизацией и готовностью к публикации в сторах. Поскольку набор функций ещё открыт, я бы начал с короткого этапа обсуждения, чтобы зафиксировать одну основную функцию, например приватный чат с фото, а затем сделал бы её на React Native или Flutter с простым бэкендом, чтобы вы быстро получили рабочую сборку для тестирования. С современным стеком и разработкой с помощью ИИ-ассистентов первый рабочий MVP с билдами для TestFlight и APK может быть готов примерно за 2–3 недели, а отправка в сторы — после этого. При бюджете 25 USD его хватит только на очень небольшой первый этап, поэтому нам нужно согласовать, что он включает. Какие функции обязательны для запуска и есть ли у вас предпочтительный бэкенд или хостинг?\n\nЖивые демо можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Какие функции обязательны для первого запуска: только текст и фото или также звонки и запись?",
-    "Есть ли у вас предпочтительный бэкенд, хостинг или уже существующая инфраструктура?",
-    "Какой бюджет вы закладываете на весь проект, а не только на первый этап?"
-   ]
-  },
-  "found_at": "2026-11-26T16:43:35+00:00"
  }
 ]
