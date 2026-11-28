@@ -1,5 +1,345 @@
 [
  {
+  "id": "freelancer:40840159",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/web-design/Local-Service-Business-Website-Build",
+  "title": "Local Service Business Website Build",
+  "description": "I need a clean, modern website that presents my local service business clearly and convincingly. The site’s primary job is to showcase who we are, the range of services we offer, and why a visitor should choose us. Beyond that, every page should guide users toward one simple action: reaching out through a contact-or-quote form.\n\nCore elements I expect \n• A sharp, mobile-responsive layout that loads fast on phones and desktops alike. \n• Service pages with concise descriptions and strong visuals so prospects instantly grasp our value. \n• A prominent contact/quote request form that is easy to complete and routes messages to my email. \n• Basic on-page SEO setup—clean URLs, meta tags, and clear heading structure—to help local customers find us. \n• An intuitive CMS (WordPress, Webflow, or something similarly user-friendly) so I can tweak text and images myself after launch.\n\nI’ll provide logos, color guidelines, and copy points. You handle design, development, and a brief hand-over session showing me how to update content. Please factor cross-browser testing and at least one round of revisions into your timeline.",
+  "budget": 12500.0,
+  "budget_min": 1500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T13:51:18+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "calculator",
+   "site_template"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "site_template",
+   "score": 5,
+   "summary_ru": "Нужен быстрый адаптивный сайт для локального сервисного бизнеса с страницами услуг, формой заявки на почту и простой CMS (WordPress или Webflow), чтобы клиент сам менял тексты и изображения. В бюджет 12 500 INR входят дизайн, разработка, тестирование и передача проекта.",
+   "reply": "You need a fast, mobile-friendly site for your local service business that shows who you are and what you offer, with one clear path: a contact or quote form that sends messages to your email. You also want to edit text and images yourself after launch. I would build it on a lightweight modern stack with responsive layouts, a separate page for each service, clean URLs, meta tags and a proper heading structure. I can also deliver it in WordPress or Webflow if you prefer one of those for editing. Timeline is about 7–10 days, including design, cross-browser testing, one round of revisions and a short hand-over call showing you how to update content. Portfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nHow many service pages do you expect, and do you already have hosting and a domain?\n\nYakov",
+   "reply_ru": "Вам нужен быстрый сайт для локального сервисного бизнеса, адаптивный под телефоны, который рассказывает о компании и услугах и ведёт посетителя к одному действию: форме заявки или запроса цены с отправкой на вашу почту. После запуска вы хотите сами редактировать тексты и изображения. Я бы сделал его на лёгком современном стеке: адаптивная вёрстка, отдельная страница для каждой услуги, понятные URL, мета-теги и правильная структура заголовков. Если вам удобнее редактировать сайт в WordPress или Webflow, могу сделать и на них. Сроки примерно 7–10 дней, включая дизайн, тестирование в разных браузерах, один раунд правок и короткий созвон, где я покажу, как обновлять контент. Портфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nСколько страниц услуг вы ожидаете и есть ли у вас уже хостинг и домен?\n\nЯков",
+   "questions": [
+    "Сколько страниц услуг нужно сделать и какие разделы должны быть на сайте?",
+    "Какой CMS вам удобнее: WordPress, Webflow или другой вариант с простым редактором?",
+    "Есть ли у вас уже хостинг и домен или их нужно подключить?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "freelancer:40840156",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/ai-agents/Build-Agents-for-Restaurants",
+  "title": "Build AI Agents for Restaurants",
+  "description": "**Project Title: AI Automation Developer Needed – Build AI Employees for Restaurants & QSR Businesses**\n\nWe are building an AI Employee Agency that provides intelligent AI-powered workforce solutions to restaurants, QSRs, cafés, and takeaway businesses internationally.\n\nWe are looking for an experienced AI Developer / Automation Specialist to help us build and implement AI employees, including:\n\n- **AI Receptionist:** Handles customer calls, FAQs, reservations and enquiries.\n- **AI Order Management Agent:** Automates order processing and customer notifications.\n- **AI Customer Support Agent:** Handles complaints, queries and follow-ups.\n- **AI Marketing Agent:** Automates promotions, WhatsApp campaigns and customer re-engagement.\n- **AI Operations Agent:** Automates repetitive restaurant workflows and reporting.\n\n**Required Skills:**\n- n8n / Make automation\n- AI agents using Claude, Gemini or OpenAI APIs\n- Voice AI and conversational AI\n- WhatsApp Business API integration\n- POS, CRM and restaurant system integrations\n- API integrations and workflow automation\n\n**Important:** We need someone capable of building real, production-ready AI employees, not just basic chatbots.\n\nThis is an opportunity for long-term collaboration with an international AI solutions business. Please share your relevant projects, technical approach, estimated development cost and availability.\n\nWe prefer developers with proven experience in AI agent development and automation.",
+  "budget": 12500.0,
+  "budget_min": 1500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T13:50:51+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "tg_bot",
+   "crm",
+   "automation",
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "automation",
+   "score": 4,
+   "summary_ru": "Клиент из международной AI-компании ищет разработчика, который создаст AI-агентов для ресторанов и QSR: приём звонков и бронирований, обработку заказов, поддержку клиентов и автоматизацию отчётов с интеграцией WhatsApp, POS и CRM. Бюджет небольшой (12 500 INR) для такого объёма, а часть требований (голосовой AI) выходит за рамки профиля.",
+   "reply": "You need AI agents that handle restaurant workflows, such as reservations, order updates and customer follow-ups, connected to WhatsApp and your POS or CRM, running in production rather than as a demo bot. My approach: start with one agent (I'd suggest reservations and order notifications), build it in n8n or Make, use the OpenAI or Claude API for intent handling, and connect the POS through its API or webhooks. I'd add logging, a handoff to a human and error alerts before adding the other agents. A first working version with WhatsApp and one system connected would take about 1-2 weeks, depending on API access. Which POS or CRM do you use, and do you already have a WhatsApp Business API account? See live demos: https://grachoffprod.github.io/portfolio/ Yakov",
+   "reply_ru": "Вам нужны AI-агенты, которые ведут рабочие процессы ресторана, например бронирования, уведомления о заказах и последующую связь с клиентами, подключены к WhatsApp и вашей POS или CRM и работают в продакшене, а не как демо-бот. Мой подход: начать с одного агента (я бы предложил бронирования и уведомления о заказах), собрать его в n8n или Make, использовать API OpenAI или Claude для распознавания намерений и подключить POS через её API или вебхуки. Перед добавлением остальных агентов я бы внедрил логирование, передачу диалога человеку и оповещения об ошибках. Первая рабочая версия с WhatsApp и одной системой заняла бы примерно 1-2 недели, в зависимости от доступа к API. Какой POS или CRM вы используете и есть ли у вас аккаунт WhatsApp Business API? Примеры работ в живых демо: https://grachoffprod.github.io/portfolio/ Yakov",
+   "questions": [
+    "Какую POS или CRM система вы используете и есть ли у неё открытый API или вебхуки?",
+    "Есть ли у вас уже аккаунт WhatsApp Business API и какой объём сообщений в месяц ожидается?",
+    "Подойдёт ли вам поэтапный запуск, где сначала делается один агент, а остальные добавляются позже?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "freelancer:40839765",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/administrative-support/Admin-Arsip-Dokumen-Perusahaan",
+  "title": "Admin Arsip Dokumen Perusahaan",
+  "description": "Saya membutuhkan bantuan administrasi untuk menangani input data dan pengelolaan arsip dokumen perusahaan—terutama surat, kontrak, dan berkas legal sejenis. Fokus utama pekerjaan ini meliputi:\n\n• Memasukkan data arsip ke spreadsheet atau sistem manajemen dokumen digital dengan akurasi tinggi. \n• Menyusun, memberi label, dan mengindeks file agar mudah dicari kembali, baik versi fisik maupun versi digital (PDF, scan). \n• Mengecek ulang kelengkapan dokumen, tanggal kedaluwarsa, dan nomor kontrak, lalu memperbarui catatan statusnya secara rutin. \n• Membuat daftar kontrol (check-list) sederhana untuk monitor dokumen yang baru masuk atau perlu diperpanjang. \n\nSaya sudah memiliki folder dasar di Google Drive; silakan kembangkan struktur sub-folder yang lebih rapi dan konsisten. Untuk spreadsheet kami menggunakan Google Sheets; jika Anda lebih nyaman di Excel, pastikan file-nya tetap kompatibel.\n\nKeahlian yang saya cari: ketelitian tinggi, pengalaman input data, pemahaman dasar pengarsipan legal, serta kemampuan bekerja mandiri tanpa pengawasan ketat. Sertakan contoh pekerjaan serupa atau tangkapan layar sistem file yang pernah Anda susun.\n\nDeliverable akhir berupa:\n1. Spreadsheet terkini berisi semua metadata dokumen. \n2. Struktur folder digital lengkap beserta file terunggah. \n3. Panduan singkat (1-2 halaman) tentang cara memperbarui arsip ke depannya.\n\nProyek bersifat satu kali, namun ada peluang kerja lanjutan jika proses ini berjalan lancar. Saya menantikan kolaborasi dengan Anda.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "USD",
+  "posted_at": "2026-11-28T13:43:37+00:00",
+  "lang": "id",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "automation",
+   "score": 1,
+   "summary_ru": "Клиент ищет администратора для ручного ввода данных и ведения архива документов: сортировка сканов и физических бумаг, индексация, проверка сроков контрактов и подготовка Google Drive/Sheets. Это рутинная офисная работа, а не разработка.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Есть ли в проекте задача по автоматизации, например скрипт, который сам разбирает PDF, переименовывает файлы или напоминает о сроках контрактов?",
+    "Нужна ли интеграция Google Drive и Sheets с другими системами через API?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "freelancer:40840121",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/embedded-systems/Automatic-Wheelchair-Battery-Redundancy",
+  "title": "Automatic Wheelchair Battery Redundancy",
+  "description": "My self-balancing electric wheelchair now runs on a single 60 V 13.5 Ah lithium pack that feeds two 1 250 W hub motors. I want to add a second, identical pack as a hot-standby and have an electronic module sit between the batteries and the existing mainboard. The module must:\n\n• Monitor the main battery continuously. \n• Switch to the backup pack instantly and without the slightest power dip if the main battery faults or drops below a safe threshold—no slowdown, no reboot of the balance controller. \n• Leave charging management to me; I will disconnect and charge each pack separately, so the circuit only has to route motive power, not charger input.\n\nAvailable technical data are limited to voltage, capacity and motor power; no wiring diagram is on hand. That means the design needs to rely on universally understood signals — straight 60 V DC lines, BMS-protected packs, and whatever small-signal connections your circuit requires. \n\nPlease provide, at a minimum, a validated schematic, PCB layout or wiring diagram, parts list, and clear installation instructions that I can hand to an electronics technician. If firmware or a microcontroller is involved, include well-commented source code and a brief commissioning guide. Your solution should fit as a stand-alone module that I can mount inside the wheelchair’s battery bay and splice into the existing high-current leads with minimal disruption.\n\nI’m happy to answer follow-up questions and to test prototype hardware on the chair once a first build is ready.",
+  "budget": 750.0,
+  "budget_min": 250.0,
+  "currency": "GBP",
+  "posted_at": "2026-11-28T13:23:56+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "mvp"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "mvp",
+   "score": 1,
+   "summary_ru": "Заказчик хочет разработать аппаратный модуль переключения резервной литиевой батареи 60 В для электроколяски с двумя моторами по 1250 Вт, включая схему, разводку платы и инструкцию для электрика. Это силовая электроника, а не разработка ПО, и проект связан с безопасностью медицинского средства передвижения.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Есть ли у вас возможность привлечь квалифицированного инженера-электронщика с опытом работы с силовыми цепями на 60 В?",
+    "Готовы ли вы сначала заказать техническое обследование существующей электрики коляски и схемы контроллера?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "freelancer:40840120",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/data-extraction/EgramSwaraj-Panchayat-Report-Automation",
+  "title": "EgramSwaraj Panchayat Report Automation",
+  "description": "I need a program to extract clean, ready-to-use spreadsheet that brings together two public reports from the egramswaraj.gov.in portal for village panchayats in Pune district, Maharashtra:\n\n• the Approved Action Plan\n• the Activity-Based Expenditure report\n\nFirst, It should ask for village panchayat and taluka for which the report has to be made.\n1.Then porgram should start browsing egramswaraj.gov.in\n2. It should put year 2020-21\n3. it should read and put captcha\n4, It should press enter\n5. It should select Maharashtra from dropdown and click at village panchayats clickable figure in clumn under village panchayat column .\n6. It should then Select Pune - mulshi for approved action plan.Then it should select the grampanchayat for which the approved action plan is to be downloaded.\nThen it should click on view and then click on activity planned by grampanchayat\n7. Then it should save the spread sheet as Viilagename-year.xls\n8. It should repeat this activity for 2021-22 through 2026-27.\n9. Similar activity needs to be done for activity based expenditure report as well. Here the filename should be villagename-AR-year.xls. \n10. if the reports are multiple times , then it should give name as Viilagename-year-01.xls and so on.\n7. then it should select village panchayat pull both reports for several specific panchayats that I will list once we start. Then, for each panchayat:\n1. Match the two datasets on the Activity Code.\n2. Retain only the rows where the Scheme Name is “xvfc”.\n3. Present the matched plan and expenditure fields side-by-side in one sheet so I can see planned amounts, sanctioned amounts, and actual spending together.\n\nA separate sheet (or file) for every panchayat is fine as long as the structure is identical across all of them. Accuracy of the code matching and the xvfc filter is the success criterion.",
+  "budget": 12500.0,
+  "budget_min": 1500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T13:22:46+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "automation",
+   "score": 6,
+   "summary_ru": "Нужна программа, которая заходит на портал egramswaraj.gov.in, выгружает два отчёта (Approved Action Plan и Activity-Based Expenditure) по панчаятам района Mulshi за 2020-21–2026-27, сохраняет их в Excel по заданной схеме имён, затем сопоставляет данные по Activity Code и фильтрует по схеме xvfc. Бюджет 12 500 INR.",
+   "reply": "You need a script that drives egramswaraj.gov.in for the Mulshi panchayats, pulls the Approved Action Plan and Activity-Based Expenditure reports for 2020-21 through 2026-27, saves them under your naming scheme, and then merges them on Activity Code and filters to the xvfc scheme. I would build this with Playwright in Python for the navigation and downloads, and pandas for the join, so every panchayat produces an identical side-by-side sheet. For the captcha, I would pause for you to type it on each run instead of trying to bypass it, which keeps the tool within the site's intended use. A first working version for one panchayat should take about 3–4 days, with the full multi-year run after that. Could you share a sample export of both reports so I can confirm the column names? Will the panchayat list stay fixed?\n\nSee live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Нужен скрипт, который будет работать с порталом egramswaraj.gov.in для панчаятов Mulshi: выгружать отчёты Approved Action Plan и Activity-Based Expenditure за 2020-21–2026-27, сохранять их под вашей схемой имён, а затем объединять по Activity Code и фильтровать по схеме xvfc. Я бы делал это на Playwright (Python) для навигации и скачивания и на pandas для объединения, чтобы для каждого панчаята получался одинаковый лист с данными рядом. По капче я бы предложил вводить её вручную на каждом запуске, а не обходить автоматически, так что инструмент останется в рамках предполагаемого использования сайта. Первая рабочая версия для одного панчаята займёт около 3–4 дней, затем полный прогон по всем годам. Не могли бы вы прислать образец выгрузки обоих отчётов, чтобы я проверил названия колонок? И будет ли список панчаятов фиксированным?\n\nЖивые демо смотрите в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Можете прислать образец выгрузки обоих отчётов (Approved Action Plan и Activity-Based Expenditure), чтобы проверить названия колонок и формат Activity Code?",
+    "Устраивает ли вариант, при котором капчу программа не обходит автоматически, а вы вводите её вручную на каждом запуске?",
+    "Список панчаятов будет фиксированным или его нужно будет менять при каждом запуске?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "freelancer:40840114",
+  "source": "freelancer",
+  "url": "https://www.freelancer.com/projects/machinery-mobile/Dual-Side-Labelling-Machine-for",
+  "title": "Dual-Side Labelling Machine for Small Cartons",
+  "description": "I'm seeking a specialized labelling machine designed for small cosmetic or medicine cartons. The machine should be capable of applying labels on both sides of the cartons simultaneously. \n\nRequirements:\n- The machine must integrate seamlessly with an automatic packing machine for carton entry.\n- It should be efficient, reliable, and capable of handling high-speed operations.\n\nIdeal skills and experience:\n- Background in machinery design or automation.\n- Experience with labelling machines and packaging integration.\n- Knowledge of the cosmetic and pharmaceutical packaging industry standards.\n\nSpeed:\n- carton speed 60 to 400 CPM",
+  "budget": 75000.0,
+  "budget_min": 37500.0,
+  "currency": "INR",
+  "posted_at": "2026-11-28T13:19:30+00:00",
+  "lang": "en",
+  "project_type": "fixed",
+  "direct": false,
+  "topics": [
+   "automation",
+   "api_integration"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "automation",
+   "score": 1,
+   "summary_ru": "Клиент ищет промышленную этикетировочную машину для маленьких картонных упаковок косметики или медицинских препаратов, которая наносит этикетки на обе стороны одновременно и интегрируется с автоматической упаковочной машиной (60–400 CPM). Это проект по проектированию и поставке оборудования, а не разработка ПО.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Нужна ли клиенту только поставка готового оборудования или также проектирование и изготовление под конкретную линию?",
+    "Есть ли у клиента требования к сертификации оборудования для фармацевтической упаковки?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "kwork:3276124",
+  "source": "kwork",
+  "url": "https://kwork.ru/projects/3276124",
+  "title": "Доработка ботов",
+  "description": "Есть три легких бота по 3 разным проектам. Они все практически готовы (полностью готовы но уже не помню что да как), но во втором и третьем отсутствуют токены (быстро решаемо). Боты легкие но долго пылились и мне надо чтобы вы добавили в ботов если они ''вдруг'' не работают. \nА так мне нужно финально от вас просто уже измененная папка с ботами (если есть было что изменять, так как возможно осталось добавить только токены) и ролик где просто без слов захвачен телеграм и вы нажимаете на все кнопки показывая что все работает. \nПри принятии заказа отправлю 3 ботов, так же на всякий отправлю сохранившиеся ко второму и третьему задания но к первому нет (но там он и не нужен).",
+  "budget": 1000.0,
+  "budget_min": null,
+  "currency": "RUB",
+  "posted_at": "2026-11-28 16:54:32",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "fixes"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "fixes",
+   "score": 5,
+   "summary_ru": "Нужно довести три готовых Telegram-бота до рабочего состояния: добавить недостающие токены во второй и третий, проверить, что всё работает, и подготовить изменённую папку с проектами и видео с работающими кнопками. Бюджет небольшой, но задача простая и понятная.",
+   "reply": "Вы описали, что три готовых бота нужно вернуть в рабочее состояние: во втором и третьем не хватает токенов, и важно, чтобы боты стабильно работали даже после долгого простоя. Сначала проверю каждый проект, подставлю токены и пройду все кнопки и сценарии. Затем добавлю обработку ошибок и автоматический перезапуск, если это нужно для вашего хостинга. После этого соберу изменённую папку и запишу видео без голоса, где видно работу всех кнопок. Ориентировочно управлюсь за 2–3 дня. Подскажите, пожалуйста, где сейчас запускаются боты (сервер, хостинг или локально) и есть ли у первого бота свой токен, который тоже нужно проверить? Примеры моих работ с живыми демо: https://grachoffprod.github.io/portfolio/\nYakov",
+   "reply_ru": "Вы описали, что три готовых бота нужно вернуть в рабочее состояние: во втором и третьем не хватает токенов, и важно, чтобы боты стабильно работали даже после долгого простоя. Сначала проверю каждый проект, подставлю токены и пройду все кнопки и сценарии. Затем добавлю обработку ошибок и автоматический перезапуск, если это нужно для вашего хостинга. После этого соберу изменённую папку и запишу видео без голоса, где видно работу всех кнопок. Ориентировочно управлюсь за 2–3 дня. Подскажите, пожалуйста, где сейчас запускаются боты (сервер, хостинг или локально) и есть ли у первого бота свой токен, который тоже нужно проверить? Примеры моих работ с живыми демо: https://grachoffprod.github.io/portfolio/\nYakov",
+   "questions": [
+    "Где сейчас запускаются боты: на сервере, на хостинге или локально на вашем компьютере?",
+    "Что именно вы имеете в виду под «если вдруг не работают»: нужна автоматическая проверка и перезапуск или только обработка ошибок без падения?",
+    "Есть ли у первого бота свой токен и нужно ли его проверить вместе с остальными?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "kwork:3276064",
+  "source": "kwork",
+  "url": "https://kwork.ru/projects/3276064",
+  "title": "Ссылочная масса на сайте под ключ",
+  "description": "Нужно правильно разместить ссылки на сайт ИК ЭнергоАвтоматик \nСсылки должны быть качественные, правильно выбранные тематики и ссылки на разделы и товары. \nГлавная страница https://nrga.ru/ - ссылки на тему сборка шкафов автоматики по техническому заданию. так же статьи на тему промышленная автоматизация, шкафы диспетчеризации и мониторинга оборудования. \nИнтересуют ссылки на разделы и товары. \nhttps://nrga.ru/product/pa/ - шкафы пожарной автоматики. \nhttps://nrga.ru/product/nasos/shkafy-upravleniya-nasosami-shun-shun2d-shund/ - шкафы управления дренажными насосами. \nhttps://nrga.ru/product/promavtomatika/ - шкафы автоматизации . - в этом разделе интересуют ссылки на конкретные позиции. (список скину исполнителю 5 страниц). \nНужно проработать именно стратегию ссылочной массы, не просто накрутить много ссылок и сделать качественный прирост ссылочной массы с надежными площадками. \nВажно ваше понимание как сделать качественно и ваш опыт в реализации ссылочных стратегий.",
+  "budget": 15000.0,
+  "budget_min": null,
+  "currency": "RUB",
+  "posted_at": "2026-11-28 16:07:05",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "automation"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "automation",
+   "score": 2,
+   "summary_ru": "Заказчик ищет исполнителя, который выстроит стратегию ссылочной массы для сайта ИК «ЭнергоАвтоматик» и разместит качественные ссылки на главную, разделы и товары. Это SEO-продвижение, а не разработка.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Какой бюджет и срок вы планируете на размещение ссылок, и ожидаете ли вы ежемесячной отчетности по позициям?",
+    "Есть ли у вас список целевых запросов и текущая динамика позиций сайта, на которые стоит ориентироваться?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "freelance_ru:16655",
+  "source": "freelance_ru",
+  "url": "https://freelance.ru/task/view/16655",
+  "title": "Внести правки в лендинг на Tilda",
+  "description": "Здравствуйте.В лендинге на Tilda нужно поменять блоки и заменить текст на наш готовый. Работы не много.Подробно расскажу в ЛС, отправлю ссылку на лендинг.",
+  "budget": null,
+  "budget_min": null,
+  "currency": null,
+  "posted_at": "28.11.2026 16:56",
+  "lang": "ru",
+  "project_type": null,
+  "direct": false,
+  "topics": [
+   "landing"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "landing",
+   "score": 5,
+   "summary_ru": "Нужно внести правки в существующий лендинг на Tilda: поменять несколько блоков и заменить текст на готовый. Объём работы небольшой, детали заказчик передаст в личных сообщениях.",
+   "reply": "Вам нужно обновить существующий лендинг на Tilda: заменить часть блоков и подставить готовый текст. Объём небольшой, поэтому задача обычно закрывается быстро. Сначала посмотрю страницу и сверю, какие блоки меняются, затем внесу правки и покажу результат до публикации. Ориентировочно 1–2 рабочих дня, точнее скажу после просмотра. Два вопроса: есть ли у вас доступ к проекту в Tilda или нужно добавить меня как редактора, и готов ли текст в одном файле? Примеры моих работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Вам нужно обновить существующий лендинг на Tilda: заменить часть блоков и подставить готовый текст. Объём небольшой, поэтому задача обычно закрывается быстро. Сначала посмотрю страницу и сверю, какие блоки меняются, затем внесу правки и покажу результат до публикации. Ориентировочно 1–2 рабочих дня, точнее скажу после просмотра. Два вопроса: есть ли у вас доступ к проекту в Tilda или нужно добавить меня как редактора, и готов ли текст в одном файле? Примеры моих работ с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "Есть ли у вас доступ к лендингу в Tilda или нужно добавить меня как редактора?",
+    "Готов ли новый текст в одном файле и сколько блоков нужно заменить?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "telegram:FreelancehuntProjects/910918",
+  "source": "telegram",
+  "url": "https://t.me/FreelancehuntProjects/910918",
+  "title": "Survival quest game, UE 5, анімації, створення сцен",
+  "description": "Survival quest game, UE 5, анімації, створення сцен\n🛠\n#3d_моделирование_и_визуализация\n#анимация\nВсім привіт.\nШукаю людину, яка робить анімації для UE, створює сцени на моїх бібліотеках ассетів або, за потреби, може створити свої меші. Головне при створенні цього рушію та сцен- це фотореалізм. В мене вже є прототип, але дуже сирий. Є своя бібліотека ассетів.\nЄ ідея створення сцен за фото…",
+  "budget": null,
+  "budget_min": null,
+  "currency": null,
+  "posted_at": "2026-11-28T13:13:39+00:00",
+  "lang": "ru",
+  "project_type": null,
+  "direct": true,
+  "topics": [
+   "mvp"
+  ],
+  "analysis": {
+   "relevant": false,
+   "topic": "mvp",
+   "score": 2,
+   "summary_ru": "Заказчик ищет специалиста по анимациям и созданию сцен для survival-квеста на Unreal Engine 5 с фотореалистичной графикой, на основе его ассетов или с 3D-моделированием. Задача относится к 3D-арту и геймдеву, а не к веб-разработке или Telegram-проектам.",
+   "reply": "",
+   "reply_ru": "",
+   "questions": [
+    "Какой бюджет и сроки вы рассматриваете для анимаций и сцен?",
+    "Нужен ли вам разработчик игровой логики или только 3D-художник/аниматор?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
+  "id": "telegram:FreelancehuntProjects/910919",
+  "source": "telegram",
+  "url": "https://t.me/FreelancehuntProjects/910919",
+  "title": "Доработки сайта с помощью клод коде",
+  "description": "Доработки сайта с помощью клод коде\n🛠\n#веб_программирование\n#создание_сайта_под_ключ\nФильтры На страницах фильтрации меняем canonicalна тег Не знаю баг ли это или для экономии ресурсов сделано, когда выбираешь один фильтр доступное количество в скобках не обновляется на актуально доступное. К примеру мы выбираем первый фильтр, часть результатов отсеялось, ставим второй фильтр а там…",
+  "budget": null,
+  "budget_min": null,
+  "currency": null,
+  "posted_at": "2026-11-28T13:28:25+00:00",
+  "lang": "ru",
+  "project_type": null,
+  "direct": true,
+  "topics": [
+   "fixes"
+  ],
+  "analysis": {
+   "relevant": true,
+   "topic": "fixes",
+   "score": 6,
+   "summary_ru": "Нужно исправить страницы фильтрации на сайте: canonical на фильтрованных страницах ведёт на тег, а счётчики доступных значений в фильтрах не пересчитываются после выбора предыдущего фильтра. Бюджет не указан, описание короткое.",
+   "reply": "Здравствуйте! Вижу, что нужно разобраться с двумя моментами на страницах фильтрации: canonical ведёт на базовую страницу, а счётчики в скобках не пересчитываются после выбора первого фильтра. Canonical может быть намеренным для SEO, а счётчики, судя по описанию, считаются по всему каталогу, а не по уже отфильтрованному набору. Сначала проверю код фильтров и логику подсчёта, затем предложу решение: пересчёт доступных значений с учётом активных фильтров и корректный canonical для нужных комбинаций. Ориентировочный срок: 2–4 дня, в зависимости от стека и количества фильтров. Оплата возможна в USDT (TRC20 / TON) или другим удобным способом, обсудим.\n\nПодскажите, на каком стеке сделан сайт и есть ли доступ к коду или админке? Какие фильтры используются чаще всего?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "reply_ru": "Здравствуйте! Вижу, что нужно разобраться с двумя моментами на страницах фильтрации: canonical ведёт на базовую страницу, а счётчики в скобках не пересчитываются после выбора первого фильтра. Canonical может быть намеренным для SEO, а счётчики, судя по описанию, считаются по всему каталогу, а не по уже отфильтрованному набору. Сначала проверю код фильтров и логику подсчёта, затем предложу решение: пересчёт доступных значений с учётом активных фильтров и корректный canonical для нужных комбинаций. Ориентировочный срок: 2–4 дня, в зависимости от стека и количества фильтров. Оплата возможна в USDT (TRC20 / TON) или другим удобным способом, обсудим.\n\nПодскажите, на каком стеке сделан сайт и есть ли доступ к коду или админке? Какие фильтры используются чаще всего?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
+   "questions": [
+    "На каком стеке или CMS сделан сайт и есть ли доступ к коду или админке?",
+    "Какие фильтры используются чаще всего и сколько в каталоге товаров?",
+    "Какой у вас бюджет и желаемые сроки?"
+   ]
+  },
+  "found_at": "2026-11-28T13:59:27+00:00"
+ },
+ {
   "id": "freelancer:40840094",
   "source": "freelancer",
   "url": "https://www.freelancer.com/projects/unreal-engine/VRM-Metaverse-Interaction-Prototype",
@@ -14825,340 +15165,6 @@
    "questions": [
     "Таблицу нужно запрашивать при каждом обращении к боту или кэшировать с интервалом обновления (например, раз в 5–10 минут)?",
     "Правила доставки и сроки (ETA) находятся на отдельном листе таблицы или в отдельном документе?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837256",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/customer-service/Remote-French-Customer-Support",
-  "title": "Remote French Customer Support",
-  "description": "I’m looking for a reliable online customer-support professional who can take full ownership of our French-language inboxes and live chat. You’ll be the first point of contact for our users: greeting them, answering product questions, solving straightforward issues, and escalating anything complex that needs a specialist.\n\nDay-to-day you will log in through our help-desk tools (we currently use Zendesk and Intercom), respond to tickets, chat sessions, and the occasional social-media DM, then note any recurring problems so the rest of the team can address root causes. A clear, friendly writing style in French is essential, and I value fast turnaround times—ideally all new messages are acknowledged within a couple of business hours.\n\nDeliverables & acceptance criteria \n• Inbox, chat, and DM responses handled in fluent, professional French \n• Basic troubleshooting or order-status checks completed without supervision \n• Issues tagged and escalated correctly when outside your scope \n• End-of-day summary highlighting volume handled and any common themes\n\nIf you have previous experience with e-commerce support, SaaS onboarding, or community management, please mention it along with the tools you’re comfortable with. I’ll start with a brief paid trial so we can settle on workflows, then shift to an ongoing arrangement once we’re both confident.",
-  "budget": 750.0,
-  "budget_min": 250.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T15:24:09+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop",
-   "saas"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "shop",
-   "score": 1,
-   "summary_ru": "Заказчик ищет удалённого специалиста поддержки для ведения входящих, чата и личных сообщений на французском языке через Zendesk и Intercom. Это операционная работа по поддержке клиентов, а не разработка.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужна ли разработка или интеграция, например, автоматизация тикетов или подключение Zendesk/Intercom к другим системам?",
-    "Предполагается ли только ручная работа оператора поддержки без программирования?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837257",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/ai-chatbot-development/Telegram-FAQ-Chatbot-Development",
-  "title": "Telegram FAQ Chatbot Development",
-  "description": "I want a Telegram-based chatbot that can step in as our first-line support and instantly answer the everyday questions customers send us. Once it is live, users should be able to type their query in any wording and receive a clear, accurate reply pulled from the knowledge base I will supply. If the bot cannot find a confident match, it should politely acknowledge the question and forward it to a human operator (or a designated Telegram group) so no request is left hanging.\n\nKey expectations \n• Built on the official Telegram Bot API with clean, well-commented code. \n• AI-driven matching—OpenAI GPT, Dialogflow, Rasa, LangChain or a comparable NLP solution is fine as long as responses remain fast and costs are predictable. \n• Admin commands inside Telegram to refresh the FAQ set, turn maintenance mode on/off, and view simple usage stats. \n• Logs of unanswered questions captured to a CSV or Google Sheet so I can expand the knowledge base over time. \n• A short hand-off guide covering deployment (Docker, serverless, or plain VPS—whichever you choose), environment variables, and how to update the model or intents.\n\nI will provide the curated FAQ content as soon as we start; you focus on wiring it to the AI engine, testing edge cases, and ensuring smooth handover to a human when necessary. A demo bot hosted on your infrastructure is fine during development; final delivery should include source code, install steps, and a quick screen-share walkthrough.",
-  "budget": 5000000.0,
-  "budget_min": 5000000.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T15:15:50+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "tg_bot",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "tg_bot",
-   "score": 9,
-   "summary_ru": "Нужен Telegram-бот первой линии поддержки, который отвечает на свободные вопросы клиентов по базе знаний заказчика и передаёт неясные запросы оператору. Также нужны админ-команды, логирование неотвеченных вопросов в CSV или Google Sheets и документация по развёртыванию.",
-   "reply": "You want a Telegram support bot that understands free-form customer questions, answers from your FAQ, and hands off to a human whenever it isn't confident, with admin commands and logging of unanswered questions. I'd build it on the official Bot API with an LLM-based retrieval layer: embed your FAQ entries, match incoming messages by meaning, and reply only when the match clears a confidence threshold. Otherwise the bot acknowledges the message and forwards it to your operator group. Unanswered questions go to a CSV or Google Sheet, and admin commands handle FAQ refresh, maintenance mode, and basic stats. Deployment will be Docker-based with a short setup guide. A first working version with your FAQ could be ready in about 2–3 weeks, followed by testing and handover. Live demos are in my portfolio: https://grachoffprod.github.io/portfolio/\n\nHow many FAQ entries do you expect, and which languages should the bot support?\n\nYakov",
-   "reply_ru": "Вам нужен Telegram-бот поддержки, который понимает свободные вопросы клиентов, отвечает по вашей базе FAQ и передаёт человеку всё, в чём он не уверен, плюс админ-команды и логирование неотвеченных вопросов. Я бы сделал его на официальном Bot API с слоем поиска на основе LLM: эмбеддинги записей FAQ, сопоставление входящих сообщений по смыслу и ответ только при достаточно высокой уверенности. Иначе бот подтверждает получение вопроса и пересылает его в группу операторов. Неотвеченные вопросы попадают в CSV или Google Sheets, а админ-команды управляют обновлением FAQ, режимом обслуживания и базовой статистикой. Развёртывание будет на Docker с короткой инструкцией по установке. Первая рабочая версия с вашим FAQ может быть готова примерно за 2–3 недели, после чего идут тестирование и передача проекта. Живые демо есть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nСколько записей FAQ вы ожидаете и на каких языках должен отвечать бот?\n\nYakov",
-   "questions": [
-    "Сколько примерно записей будет в FAQ и на каких языках должен отвечать бот?",
-    "Операторы будут работать в одной группе или нужна маршрутизация вопросов по темам?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837017",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/graphic-design/Frontend-Website-Development",
-  "title": "Frontend Website Development",
-  "description": "You need a frontend developer to create a complete website with features like wallet balance, deposit, and withdrawal functionalities. This includes the frontend design and admin panel but excludes backend payment integration. The timeline for completion is 5 days.",
-  "budget": 2000.0,
-  "budget_min": 1000.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T15:12:06+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "crm",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "crm",
-   "score": 4,
-   "summary_ru": "Нужен фронтенд сайта с кошельком (баланс, пополнение, вывод) и админ-панелью. Бэкенд с платежами не входит в задачу, срок 5 дней, бюджет 2000 INR.",
-   "reply": "You need a frontend for a wallet-style site: a balance view, deposit and withdrawal screens, and an admin panel, with the payment backend handled separately. I would build it as a responsive single-page app on a modern stack, with the wallet and admin screens connected to your API through a mocked data layer, so the UI can be tested before the backend is ready. For the 5-day window, I would start with the core wallet flow and admin tables on days 1–2, add the deposit and withdrawal forms with status states on days 3–4, and finish with responsive polish and handover on day 5. AI-assisted development helps me keep this on schedule. Two quick questions: do you have Figma designs, or should I work from a reference? Will the backend provide documented endpoints for balance, transactions, and admin actions?\n\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Нужен фронтенд для сайта в формате кошелька: экран баланса, формы пополнения и вывода, а также админ-панель. Бэкенд с платежами отдельный и в задачу не входит. Я бы сделал адаптивное одностраничное приложение на современном стеке и подключил экраны кошелька и админки к вашему API через mock-слой данных, чтобы интерфейс можно было проверить до готовности бэкенда. Под 5 дней: в первые 1–2 дня основной поток кошелька и таблицы админки, в дни 3–4 формы пополнения и вывода с состояниями статусов, на 5-й день адаптивная доработка и передача проекта. ИИ-ассистенты в разработке помогают держать такие сроки. Два быстрых вопроса: есть ли у вас макеты в Figma или ориентироваться на референс? Будет ли у бэкенда документированное API для баланса, транзакций и действий админа?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Есть ли у вас готовые макеты в Figma или нужно ориентироваться на референс?",
-    "Будет ли у бэкенда документированное API для баланса, транзакций и действий администратора?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837246",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/full-stack-development/Bilingual-Web-App-Performance-Audit",
-  "title": "Bilingual Web App Performance Audit",
-  "description": "I need a fluent English-Spanish full-stack consultant to audit our dual-language web application. Please start with speed and reliability: profile load times, server response, caching, and any backend or front-end bottlenecks. Once performance is charted, move on to code quality, scalability, and finally the localization layer.\n\nThe most visible problem is that, after a user switches languages mid-session, some pages or features continue to display the wrong language. I want a clear diagnosis of why this happens and concrete guidance on making the entire experience stay consistently bilingual.\n\nDeliverables \n• A written audit covering performance metrics, architecture review, and the current i18n implementation \n• A prioritized, step-by-step roadmap of fixes and improvements, separating quick wins from deeper refactors \n• A follow-up call to discuss findings and next actions\n\nYou are free to use Lighthouse, Chrome DevTools, WebPageTest, profiling tools, or any preferred i18n debuggers—as long as the final report is clear and actionable. I will provide repository access, staging credentials, and feature documentation once we begin. Let’s make this platform fast, reliable, and flawlessly bilingual.",
-  "budget": 750.0,
-  "budget_min": 250.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T15:07:14+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "saas"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "saas",
-   "score": 6,
-   "summary_ru": "Клиент просит провести аудит производительности и архитектуры двуязычного веб-приложения, а также диагностировать, почему после смены языка в середине сессии часть страниц остаётся на прежнем языке. Результат нужен в виде письменного отчёта, приоритизированного плана исправлений и созвона.",
-   "reply": "You want a full performance and architecture audit of your bilingual app, with a focus on why some pages keep the previous language after a mid-session switch. I'd start with Lighthouse, Chrome DevTools and WebPageTest runs to get baseline numbers for load time, server response and caching. Then I'd trace the language switch itself: where the locale is stored, whether components re-render with the new translations, and which routes or cached responses hold onto the old language. You'd receive a written report with metrics, an architecture review and an i18n assessment, a prioritized roadmap separating quick wins from deeper refactors, and a follow-up call. Estimated timeline is about 5–7 working days after I get repository and staging access.\n\nTwo questions: which framework and i18n library are you using, and does the staging environment hold production-like data?\n\nPortfolio with live demos: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вы хотите полный аудит производительности и архитектуры двуязычного приложения, с акцентом на то, почему после смены языка в середине сессии часть страниц остаётся на предыдущем языке. Я бы начал с замеров Lighthouse, Chrome DevTools и WebPageTest, чтобы получить базовые показатели времени загрузки, ответа сервера и кеширования. Затем проследил бы сам процесс смены языка: где хранится локаль, перерисовываются ли компоненты с новыми переводами и какие маршруты или закешированные ответы сохраняют старый язык. На выходе вы получите письменный отчёт с метриками, обзор архитектуры и оценку i18n, приоритизированный план с разделением на быстрые исправления и более глубокие рефакторинги, а также созвон для обсуждения. Ориентировочный срок — около 5–7 рабочих дней после получения доступа к репозиторию и staging-среде.\n\nДва вопроса: какой фреймворк и библиотеку для i18n вы используете и содержит ли staging-среда данные, близкие к продакшену?\n\nПортфолио с живыми демо: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Какой фреймворк и библиотеку для интернационализации вы используете?",
-    "Содержит ли staging-среда данные, близкие к продакшену?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837227",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/api/project-40837227",
-  "title": "搭建 支付宝 自动 回调 收银 系统",
-  "description": "我需要一套完整的支付宝收银解决方案。客户在我的页面点击“去付款”后，应被跳转到支付宝的“转账到银行卡”界面完成付款。系统必须做到以下几点：\n\n• 生成付款订单并自动跳转到支付宝转账页面 \n• 以设定间隔定时查询支付宝交易状态，确认成功或失败后自动回调 \n• 在系统后台展示每笔交易的实时状态，并通过 API 向我指定的服务发送结果通知（成功 / 失败） \n• 记录查询与回调日志，方便排查 \n• 基本后台界面：订单列表、状态筛选、手动重查、通知记录 \n• 部署与配置文档，含支付宝开放平台参数获取说明\n\n技术选型不限，PHP、Node.js、Java 等皆可，只要能稳定调用支付宝开放接口并易于后期维护。代码需结构清晰，包含必要注释与错误处理。完成后，请在测试环境演示完整付款 → 查询 → 回调流程，并提交全部源代码、SQL 脚本及安装指南。",
-  "budget": 1500.0,
-  "budget_min": 750.0,
-  "currency": "USD",
-  "posted_at": "2026-11-26T14:55:20+00:00",
-  "lang": "zh",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "api_integration",
-   "score": 7,
-   "summary_ru": "Нужно построить систему приёма платежей через Alipay: создание заказа и переход на страницу оплаты, периодическая проверка статуса транзакции, уведомления о результате через API, а также простая админка с логами и ручной повторной проверкой. Бюджет 1500 USD, для тестовой среды нужна демонстрация полного цикла.",
-   "reply": "You need a working Alipay checkout flow: create orders and redirect customers to the payment page, poll transaction status at set intervals, then send success or failure results to your service via API. You also want an admin panel with order list, status filters, manual re-check, notification history, and logs. I would build this on Node.js with a job queue for scheduled polling and retries, store orders, queries, and callbacks in a database, and deliver the SQL scripts, deployment guide, and Alipay setup instructions. With modern tooling and AI-assisted development, I estimate about 10–14 working days, including a demo of the full payment → query → callback cycle on a test environment.\n\nQuestions:\n1. Is your Alipay Open Platform app already created with the required API permissions, and who will provide the sandbox keys?\n2. What endpoint and payload format do you expect for result notifications, and do they need to be signed?\n\nYou can see live demos in my portfolio: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен рабочий процесс оплаты через Alipay: создание заказов и переход клиента на страницу оплаты, периодическая проверка статуса транзакции и отправка результата (успех или ошибка) в ваш сервис через API. Также нужна админка со списком заказов, фильтрами по статусу, ручной повторной проверкой, историей уведомлений и логами. Я бы сделал это на Node.js с очередью задач для регулярных проверок и повторных попыток, сохранял заказы, запросы и callback-уведомления в базе данных и передал SQL-скрипты, документацию по развёртыванию и инструкцию по получению параметров Alipay. С современным стеком и разработкой с помощью ИИ-ассистентов оцениваю срок примерно в 10–14 рабочих дней, включая демонстрацию полного цикла оплаты → проверки → уведомления в тестовой среде.\n\nВопросы:\n1. Создано ли у вас приложение в Открытой платформе Alipay с нужными правами на API и кто предоставит ключи для песочницы?\n2. Какой адрес и формат данных ожидаются для уведомлений о результате и нужна ли подпись запросов?\n\nЖивые демо можно посмотреть в моём портфолио: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": []
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837230",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/ui-design/Ayurvedic-Physician-Appointment-Website",
-  "title": "Ayurvedic Physician Appointment Website -- 2",
-  "description": "I need a professional website to facilitate appointment bookings for my Ayurvedic practice. \n\nEssential Features:\n- User-friendly interface for patients to book appointments\n- Calendar integration to manage availability\n- Secure payment gateway for booking fees\n- Mobile-responsive design\n- SEO optimization to enhance visibility\n\nIdeal Skills and Experience:\n- Proven experience in developing appointment booking websites\n- Strong portfolio showcasing relevant past work\n- Expertise in UI/UX design\n- Knowledge of SEO best practices\n\nPlease include past work in your application, particularly in appointment booking systems.",
-  "budget": 37500.0,
-  "budget_min": 12500.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:55:18+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "booking",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "booking",
-   "score": 6,
-   "summary_ru": "Нужен сайт для записи пациентов к врачу аюрведы: удобный выбор времени, управление расписанием через календарь, адаптивный дизайн и SEO. Бюджет небольшой (37 500 INR), но задача понятная и подходит под онлайн-запись.",
-   "reply": "You need a mobile-friendly site where patients can see open slots and book an appointment, while you manage your availability from a calendar, plus basic SEO so local patients can find the practice. I would build it on a modern stack with a booking flow that checks availability in real time, a simple admin view for your schedule, and responsive pages with clean UX. AI-assisted development lets me move quickly, so a first version with the core booking flow could be ready in about 1–2 weeks, followed by SEO and content polish. You can see live demos of booking projects here: https://grachoffprod.github.io/portfolio/\n\nTwo questions: do you need sync with Google Calendar or another external calendar, and how many practitioners will take bookings through the site?\n\nYakov",
-   "reply_ru": "Вам нужен удобный для мобильных устройств сайт, где пациенты смогут видеть свободные слоты и записываться на приём, а вы будете управлять доступностью через календарь. Также нужна базовая SEO-оптимизация, чтобы местные пациенты находили практику. Я бы сделал это на современном стеке: запись с проверкой доступности в реальном времени, простая админ-панель для расписания и адаптивные страницы с понятным UX. Благодаря разработке с ИИ-ассистентами я работаю быстро: первая версия с основным сценарием записи может быть готова примерно за 1–2 недели, затем SEO и доработка контента. Живые демо проектов с онлайн-записью можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\n\nДва вопроса: нужна ли синхронизация с Google Calendar или другим внешним календарём и сколько специалистов будут принимать записи через сайт?\n\nYakov",
-   "questions": [
-    "Нужна ли синхронизация с Google Calendar или другим внешним календарём?",
-    "Сколько специалистов будут принимать записи через сайт?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837228",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/web-development/Ayurvedic-Physician-Appointment-Website",
-  "title": "Ayurvedic Physician Appointment Website",
-  "description": "I need a professional website to facilitate appointment bookings for my Ayurvedic practice. \n\nEssential Features:\n- User-friendly interface for patients to book appointments\n- Calendar integration to manage availability\n- Secure payment gateway for booking fees\n- Mobile-responsive design\n- SEO optimization to enhance visibility\n\nIdeal Skills and Experience:\n- Proven experience in developing appointment booking websites\n- Strong portfolio showcasing relevant past work\n- Expertise in UI/UX design\n- Knowledge of SEO best practices\n\nPlease include past work in your application, particularly in appointment booking systems.",
-  "budget": 37500.0,
-  "budget_min": 12500.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:55:18+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "booking",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "booking",
-   "score": 6,
-   "summary_ru": "Нужен сайт для записи пациентов в аюрведическую практику с удобным интерфейсом, управлением доступностью через календарь, адаптивным дизайном и SEO-оптимизацией. Бюджет 37 500 INR.",
-   "reply": "You need a patient-friendly booking site for your Ayurvedic practice: clear service and practitioner pages, a calendar that shows real availability, a mobile-first layout, and basic SEO so local patients can find you. I would build it on a modern stack, with a booking flow that checks free slots in real time, sends confirmations, and syncs with your calendar. AI-assisted development helps keep the timeline short. A realistic estimate is 2–3 weeks for the core site and booking flow, including SEO setup and testing. To scope it accurately, how many practitioners need separate calendars, and which calendar tool do you use now (Google Calendar, Calendly, or something else)?\n\nYou can see live demos of booking and other work here: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен удобный для пациентов сайт записи для аюрведической практики: понятные страницы услуг и врачей, календарь с реальной доступностью, адаптивный дизайн для телефонов и базовое SEO, чтобы местные пациенты могли вас найти. Я бы сделал это на современном стеке: форма записи проверяет свободные слоты в реальном времени, отправляет подтверждения и синхронизируется с вашим календарём. ИИ-ассистенты в разработке помогают держать сроки короткими. Ориентировочно 2–3 недели на основной сайт и процесс записи, включая настройку SEO и тестирование. Чтобы точнее оценить объём работ: сколько врачей нужны отдельные календари и каким инструментом вы пользуетесь сейчас (Google Calendar, Calendly или другим)?\n\nЖивые демо записи и других работ можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\n\nЯков",
-   "questions": [
-    "Сколько врачей или специалистов должны иметь отдельные календари записи?",
-    "Каким календарным инструментом вы пользуетесь сейчас (Google Calendar, Calendly или другим)?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837225",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/web-design/Shopify-Brand-Showcase-Site",
-  "title": "Shopify Brand Showcase Site",
-  "description": "I'm looking for an experienced Shopify developer to create a website that will effectively showcase my local service business and allow visitors to contact me or request a quote.\n\nKey requirements:\n- Professional design that reflects my brand\n- Easy-to-navigate layout for visitors\n- Contact/request a quote functionality\n\nIdeal skills and experience:\n- Expertise in Shopify platform\n- Strong design skills\n- Experience with local service business websites",
-  "budget": 1500.0,
-  "budget_min": 600.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:52:44+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": true,
-   "topic": "shop",
-   "score": 3,
-   "summary_ru": "Нужен сайт-визитка на Shopify для локального сервисного бизнеса с брендовым дизайном, понятной навигацией и формой запроса КП или связи. Бюджет очень низкий (1500 INR).",
-   "reply": "You need a clean, branded site for your local service business where visitors can quickly see what you offer and request a quote. I would build a multi-section showcase with services, a short about block, reviews or past work, and a quote request form that sends submissions straight to your email or messenger. The design would follow your brand colors and fonts, with a mobile-first layout and fast loading. Timeline: about 3 to 5 days after I receive your brand materials and service list. Could you share your logo, brand colors, and the services you want featured? Is Shopify a must for this site, or would another platform work for you? You can see live demos here: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "reply_ru": "Вам нужен аккуратный брендированный сайт для локального сервисного бизнеса, где посетители быстро увидят предложения и смогут запросить расчет. Я бы сделал многосекционную витрину: услуги, блок «о компании», отзывы или примеры работ и форму запроса КП, которая отправляет заявки сразу на вашу почту или в мессенджер. Дизайн будет соответствовать вашим цветам и шрифтам, с адаптивной версткой для телефонов и быстрой загрузкой. Срок: примерно 3–5 дней после получения брендовых материалов и списка услуг. Не могли бы вы прислать логотип, фирменные цвета и список услуг, которые нужно показать? Обязателен ли для этого сайта Shopify или подойдет другая платформа? Живые демо можно посмотреть здесь: https://grachoffprod.github.io/portfolio/\n\nYakov",
-   "questions": [
-    "Обязательно ли использовать именно Shopify или подойдет другая платформа?",
-    "Есть ли у заказчика логотип, фирменные цвета и тексты для сайта?",
-    "Какие услуги нужно вывести на сайт и как должна работать форма запроса КП?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "freelancer:40837224",
-  "source": "freelancer",
-  "url": "https://www.freelancer.com/projects/api-integration/Senior-Salesforce-Developer-Freelancer",
-  "title": "Senior Salesforce Developer (Freelancer)",
-  "description": "We are looking for a seasoned Salesforce Developer with approximately 6+ years of hands-on experience to design, develop, and maintain complex workflows and integrations. You will be responsible for the full development lifecycle, from technical requirements gathering to deployment, ensuring that our Salesforce instance remains scalable, efficient, and aligned with business goals.\n\nKey Responsibilities:\n\n• Custom Development: Design and develop high-quality, scalable solutions using Apex (Triggers, Classes, Async), Lightning Web Components (LWC), and Aura.\n\n• Declarative Automation: Build complex automation using Flow Builder, ensuring a \"Clicks before Code\" approach where appropriate.\n\n• System Integration: Design and implement REST/SOAP APIs to connect Salesforce with third-party systems and middleware.\n\n• Technical Architecture: Contribute to architectural discussions, providing input on data modeling, security (Role Hierarchy, Sharing Rules), and system performance.\n\n• Testing & QA: Write comprehensive Apex Test Classes (maintaining >85% coverage) and perform unit testing to ensure code quality and stability.\n\n• Maintenance & Support: Debug complex technical issues, manage deployments using CI/CD tools, and provide technical guidance to junior developers.\n\nRequired Technical Skills:\n\n• Core Development: Strong proficiency in Apex, LWC, JavaScript, and SOQL/SOSL.\n\n• Salesforce Clouds: Deep experience with Sales Cloud and Service Cloud (Experience Cloud or Financial Services Cloud is a plus).\n\n• Integrations: Proven track record of handling API integrations and managing authentication (OAuth).\n\n•Tools: Experience with Salesforce CLI, VS Code, and Version Control (Git/GitHub/Bitbucket).\n\n• DevOps: Familiarity with deployment tools like Copado, Gearset, or Azure DevOps.\n\nSoft Skills & Qualifications:\n\n• Problem Solving: Ability to translate abstract business requirements into concrete technical solutions.\n\n• Communication: Strong verbal and written communication skills for collaborating with stakeholders and cross-functional teams\n\nCertifications:\n\n• Required: Salesforce Certified Platform Developer I.\n\n• Preferred: Platform Developer II, App Builder, or Administrator.\n\n• Education: Bachelor’s degree in Computer Science, Information Technology, or a related field.\n\nWhat We Offer:\n\n• Opportunity to lead technical workstreams on high-impact projects.\n\n• Access to the latest Salesforce features and continuous learning opportunities.\n\n• Competitive salary and comprehensive benefits package.",
-  "budget": 150000.0,
-  "budget_min": 75000.0,
-  "currency": "INR",
-  "posted_at": "2026-11-26T14:51:21+00:00",
-  "lang": "en",
-  "project_type": "fixed",
-  "direct": false,
-  "topics": [
-   "automation",
-   "api_integration"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "api_integration",
-   "score": 2,
-   "summary_ru": "Вакансия на постоянную позицию Senior Salesforce Developer с требованием 6+ лет опыта, сертификатов Salesforce и степени бакалавра, с упоминанием зарплаты и社会ных льгот. Это найм сотрудника, а не разовый проект, и Salesforce (Apex, LWC, Flow) не входит в список услуг.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Это разовый проект по контракту или постоянная работа в штате компании?",
-    "Есть ли конкретная задача для разработки или интеграции, которую нужно сделать, а не набор требований к кандидату?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "flru:5530672",
-  "source": "flru",
-  "url": "https://www.fl.ru/projects/5530672/napisanie-teksta-s-seo-dlya-sayta.html",
-  "title": "Написание текста с СЕО для сайта",
-  "description": "Здравствуйте! Необходимо написать текста для интернет магазина .\nТематика: одежда и обувь\nтекста для сео продвижения. В ТЗ все расписано",
-  "budget": null,
-  "budget_min": null,
-  "currency": null,
-  "posted_at": "Thu, 26 Nov 2026 15:39:02 GMT",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "shop"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "shop",
-   "score": 1,
-   "summary_ru": "Заказчик ищет копирайтера, который напишет SEO-тексты для интернет-магазина одежды и обуви по готовому ТЗ. Это текстовая работа, а не разработка.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужны ли вам также правки или технические SEO-доработки самого сайта, или только тексты?",
-    "Сколько текстов и какого объёма требуется по ТЗ?"
-   ]
-  },
-  "found_at": "2026-11-26T15:46:29+00:00"
- },
- {
-  "id": "flru:5530660",
-  "source": "flru",
-  "url": "https://www.fl.ru/projects/5530660/ruchnoe-testirovanie-android-prilojeniya-po-gotovomu-chek-listu.html",
-  "title": "Ручное тестирование Android-приложения по готовому чек-листу",
-  "description": "Ищем тестировщика, чтобы прогнать готовый smoke-тест Android-приложения родительского контроля.\n\nО приложении. Одно приложение работает в двух ролях:\n- телефон ребёнка: привязка к семье, фоновый сервис, блокировка приложений, расписания, дневные лимиты, геозоны;\n- телефон родителя: консоль управления.\n\nОбязательные требования:\n- Минимум два своих Android-телефона, оба с Google Play:\n-- один из них — Xiaomi, Redmi или POCO на HyperOS / MIUI;\n-- второй — Android 13 или новее.\n\nБудет плюсом:\n- больше двух телефонов, особенно бюджетные Redmi A / Redmi C, realme, Tecno, Infinix;\n\nЧто сделать:\n- Установить приложение из Google Play по ссылке на тестирование.\n- Пройти чек-лист из 26 шагов (28 кейсов) в заданном порядке. По нашей оценке это 4,5–5 часов.\n- Отметить в чек-листе статус каждого шага.\n- Оформить найденные баги в файле по нашему шаблону: шаги, ожидаемый и фактический результат, скриншот или видео, логи adb logcat.\n- Сдать архив: итоговый отчёт по шаблону, заполненный чек-лист, файл с багами, вложения.\n\nЕсли всё устроит, планируем дальнейшее сотрудничество.",
-  "budget": null,
-  "budget_min": null,
-  "currency": null,
-  "posted_at": "Thu, 26 Nov 2026 13:30:25 GMT",
-  "lang": "ru",
-  "project_type": null,
-  "direct": false,
-  "topics": [
-   "fixes"
-  ],
-  "analysis": {
-   "relevant": false,
-   "topic": "fixes",
-   "score": 2,
-   "summary_ru": "Ручное тестирование Android-приложения родительского контроля по готовому чек-листу из 26 шагов на собственных телефонах заказчика (Xiaomi/Redmi/POCO и Android 13+). Это QA-работа, а не разработка, и она не входит в услуги.",
-   "reply": "",
-   "reply_ru": "",
-   "questions": [
-    "Нужен ли вам также исправленный код, если тестирование выявит баги?",
-    "Рассматриваете ли вы разовую разработку или доработку отдельных функций приложения?"
    ]
   },
   "found_at": "2026-11-26T15:46:29+00:00"
